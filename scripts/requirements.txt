@@ -1,0 +1,11 @@
+# Core dependencies
+firebase-admin>=6.2.0
+google-cloud-firestore>=2.11.0
+google-auth>=2.0.0
+pytz>=2023.3
+
+# AI/ML
+openai>=1.0.0
+
+# Utilities
+python-dotenv>=1.0.0
