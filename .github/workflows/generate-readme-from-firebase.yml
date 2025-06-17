@@ -2,7 +2,7 @@ name: Generate README from Firebase
 
 on:
   schedule:
-    - cron: '0 3 * * *'  # Runs at 03:00 UTC every day
+    - cron: '4,34 9-16 * * 1-5'  # Runs every 30 minutes between 9am and 4pm EST mon-friday
   workflow_dispatch:      # Allows manual triggering
 
 jobs:

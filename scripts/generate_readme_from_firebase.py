@@ -161,10 +161,10 @@ def ask_llm_to_generate_readme_content(latest_etf_signal:Dict)->str:
     
     prompt = f"""
 
-    Plan me hour by hour ETF options strategy with the following prediction data:
+    Plan me hour by hour ETF options strategy for today from now to 4pm EST with the following prediction data:
     {latest_etf_signal}
     
-    Must include current datetime (EST) field in the header.
+    Must include current EST time in the header.
     Output in markdown format.
     """
     
@@ -186,8 +186,8 @@ def ask_llm_to_generate_readme_content(latest_etf_signal:Dict)->str:
             presence_penalty=0.0,
         )
         current_est_time = datetime.now(pytz.timezone('US/Eastern')).strftime("%Y-%m-%d %H:%M:%S")
-        return response.choices[0].message.content + \
-            f"\n\nLatest signal data available at {current_est_time} EST." + \
+        readme_src = response.choices[0].message.content.split("```")[1]
+        return readme_src + \
             f"\n\nSignal data: ```{latest_etf_signal}```"
         
     except Exception as e:
