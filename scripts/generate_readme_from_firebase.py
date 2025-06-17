@@ -5,7 +5,7 @@ import json
 import logging
 from datetime import datetime
 from typing import Dict
-
+from dotenv import load_dotenv
 import pytz
 import openai
 import firebase_admin
@@ -20,6 +20,9 @@ logging.basicConfig(
     ]
 )
 logger = logging.getLogger(__name__)
+
+
+load_dotenv()
 
 # Constants
 REQUIRED_ENV_VARS = ['GCP_SA_KEY', 'FIREBASE_PROJECT_ID', 'FIREBASE_ETF_COLLECTION', 'DEEPSEEK_API_KEY']
