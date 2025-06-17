@@ -38,7 +38,7 @@ jobs:
         env:
           GCP_SA_KEY: ${{ secrets.GCP_SA_KEY }}
           FIREBASE_PROJECT_ID: ${{ secrets.FIREBASE_PROJECT_ID }}
-          FIREBASE_ETF_COLLECTION: ${{ secrets.FIREBASE_ETF_COLLECTION }}
+          FIREBASE_ETF_ANALYSIS_COLLECTION: ${{ secrets.FIREBASE_ETF_ANALYSIS_COLLECTION }}
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
           
       - name: Commit and push if changed

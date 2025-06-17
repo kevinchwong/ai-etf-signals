@@ -25,7 +25,7 @@ logger = logging.getLogger(__name__)
 load_dotenv()
 
 # Constants
-REQUIRED_ENV_VARS = ['GCP_SA_KEY', 'FIREBASE_PROJECT_ID', 'FIREBASE_ETF_COLLECTION', 'DEEPSEEK_API_KEY']
+REQUIRED_ENV_VARS = ['GCP_SA_KEY', 'FIREBASE_PROJECT_ID', 'FIREBASE_ETF_ANALYSIS_COLLECTION', 'DEEPSEEK_API_KEY']
 DEFAULT_TIMEOUT = 30
 MAX_REDIRECTS = 5
 USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
@@ -87,7 +87,7 @@ def initialize_firebase():
 def clean_and_get_latest_signal_from_firebase(db):
     """Clean and get the latest signal from Firebase."""
     try:
-        collection_ref = db.collection(os.environ['FIREBASE_ETF_COLLECTION'])
+        collection_ref = db.collection(os.environ['FIREBASE_ETF_ANALYSIS_COLLECTION'])
         etf_signals = list(collection_ref.stream())
         
         if not etf_signals:
@@ -186,9 +186,12 @@ def ask_llm_to_generate_readme_content(latest_etf_signal:Dict)->str:
             presence_penalty=0.0,
         )
         current_est_time = datetime.now(pytz.timezone('US/Eastern')).strftime("%Y-%m-%d %H:%M:%S")
-        readme_src = response.choices[0].message.content.split("```")[1]
-        return readme_src + \
-            f"\n\nSignal data: ```{latest_etf_signal}```"
+        readme_src = "\n".join(response.choices[0].message.content[:-3].split("\n")[1:-1])
+        return (
+            f"## Latest signal data available at {current_est_time} EST.\n\n" +
+            f"{readme_src}\n\n" +
+            f"Signal data: ```{latest_etf_signal}```"
+        )
         
     except Exception as e:
         logger.error(f"Error calling DeepSeek API: {str(e)}")
