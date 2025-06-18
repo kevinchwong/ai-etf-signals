@@ -1,57 +1,42 @@
-**Market Context**: Bear Momentum (VIX: 21.6)  
-**Updated**: 2025-06-18 02:34 UTC (Pre-Market)  
+# ETF Momentum Options Strategy (Next Trading Day)
+*Market Context: Bear Momentum (VIX 21.6) | Updated: 2025-06-17 22:34 UTC*
 
----
+## Hourly Execution Plan (9AM - 4PM EST)
 
-### **Key Actions**  
-1. **Prioritize Buys**:  
-   - **XLE** (0.8x size), **ARKK** (0.7x), **TECL** (0.7x) – Strong momentum, low RSI, high profit scores.  
-   - **Sell SLV** (0.6x size) – Overbought (RSI 70.8), potential pullback.  
-2. **Watchlist**: QTUM, QCLN for sector-specific opportunities.  
+### Pre-Market Prep (6:30-9AM)
+1. **Position Setup**:
+   - Buy XLE 85-strike calls (0.8x size) - Oil surge catalyst
+   - Buy ARKK 60-strike calls (0.7x size) - ARK fund inflows
+   - Sell SLV 36-strike puts (0.6x size) - Overbought RSI 70.8
 
----
+### Trading Hours
+| Time  | Action | Details |
+|-------|--------|---------|
+| **9:00** | Open XLE/ARKK | Enter 70% of allocated positions |
+| **10:00** | Add TECL/SOXX | Buy TECL 77-strike calls (0.7x), SOXX 215-strike calls (0.6x) |
+| **11:00** | Monitor SLV | Close SLV puts if RSI >75, else hold |
+| **12:00** | Energy Boost | Add UNG 16.5-strike calls (0.5x) on natgas momentum |
+| **13:00** | Tech Review | Trim XLK if <240, add SMH 250-strike calls (0.5x) |
+| **14:00** | Gold Hedge | GDXJ 66-strike calls (0.5x) as inflation hedge |
+| **15:00** | Profit Take | Close 50% of XLE/ARKK if targets hit (95/70) |
+| **15:30** | Final Adjust | Set trailing stops at 2xATR (14-period) |
 
-### **Hour-by-Hour Options Strategy (9 AM – 4 PM EST)**  
+## Key Trades
+1. **Primary Conviction**:
+   - `XLE Jun20 85C` (Confidence 10/10)
+     - TP: 95 (+11.7%), SL: 85 (-4.1%)
+     - Catalyst: Geopolitical oil squeeze (Reuters)
+   - `ARKK Jun20 60C` (Confidence 9/10)
+     - TP: 70 (+9.5%), SL: 60 (-6.1%)
 
-#### **Pre-Market (8:00 AM – 9:00 AM EST)**  
-- **Prepare Orders**:  
-  - **Buy Calls**:  
-    - **XLE** (Strike: $90, Expiry: Weekly) – Target $95, Stop $85.  
-    - **ARKK** (Strike: $65, Expiry: Weekly) – Target $70, Stop $60.  
-    - **TECL** (Strike: $82, Expiry: Weekly) – Target $90, Stop $77.  
-  - **Sell Calls/Puts**:  
-    - **SLV** (Sell $34 Calls or Buy $32 Puts) – Target $30, Stop $36.  
+2. **Secondary Plays**:
+   - `TECL Jun20 77C`: Tech rebound (CNBC)
+   - `UNG Jun20 16.5C`: Weather-driven natgas spike
 
-#### **9:00 AM – 10:00 AM EST**  
-- **Execute Open Orders**:  
-  - Enter XLE, ARKK, TECL calls with tight stops.  
-  - Initiate SLV sell strategy.  
-- **Monitor**:  
-  - **SOXX**, **ARKQ** – If momentum holds, add calls (Strike: $230 for SOXX, $85 for ARKQ).  
+## Risk Management
+- Max portfolio allocation: 30% to single sector
+- Hard stop at -8% on any position
+- VIX hedge: Buy 1 SPY 590P per $10k exposure
 
-#### **10:00 AM – 12:00 PM EST**  
-- **Adjustments**:  
-  - **Take Partial Profits** on XLE/TECL if +5% intraday.  
-  - **Add UNG Calls** (Strike: $18) if natural gas futures hold gains.  
-- **Watch**: QTUM, QCLN for breakout confirmation.  
-
-#### **12:00 PM – 2:00 PM EST**  
-- **Hedge**:  
-  - Buy **SPY Puts** (Strike: $590) if VIX spikes above 23.  
-- **Exit SLV** if RSI drops below 60.  
-
-#### **2:00 PM – 4:00 PM EST**  
-- **Close Weak Positions**: Trim ARKQ/SMH if below 1h moving averages.  
-- **Roll Profits**: Reinforce XLE/ARKK with trailing stops (3% below highs).  
-
----
-
-### **Risk Management**  
-- **Stop-Losses**: Tight (3-5% below entry).  
-- **Position Sizing**: Max 0.8x on top convictions (XLE, ARKK).  
-- **News Triggers**: Oil/tech sector updates may require rapid adjustments.  
-
-**Target Portfolio Allocation**:  
-- 50% Energy/Tech (XLE, TECL, SOXX), 20% Innovation (ARKK/Q), 10% Hedges (SPY Puts).  
-
----  
+*Data Note: All momentum figures >1000% on 4h timeframe indicate extreme volatility conditions.*
+``` 
