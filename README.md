@@ -1,58 +1,56 @@
-# ETF Momentum Options Strategy (June 18, 2025)  
-**Market Context**: Bear momentum (VIX 21.6) with sector-specific opportunities.  
+**Market Context:** Bear Momentum (VIX: 21.6)  
+**Key Focus:** High-momentum ETFs with strong technicals and sector catalysts.  
 
-### Hour-by-Hour Plan (9AM - 4PM EST)  
-**Key Focus**: Exploit high-momentum ETFs with tight risk management.  
+---
 
-#### 9:00 AM - 10:00 AM: Opening Momentum Play  
-- **Primary Action**: Buy XLE calls (95 target / 85 stop)  
-  - Size: 80% of allocated capital  
-  - Reasoning: Oil surge + strongest momentum (770% 1h) + low RSI (41).  
-- **Secondary Action**: Buy ARKK calls (70 target / 60 stop)  
-  - Size: 70%  
-  - Catalyst: ARK Invest inflows + extreme momentum (1083% 1h).  
-- **Monitor**: SLV for overbought pullback (RSI 70.8).  
+### **Hour-by-Hour Strategy (9:00 AM - 4:00 PM EST)**  
 
-#### 10:00 AM - 11:00 AM: Tech Sector Follow-Through  
-- **Primary Action**: Buy TECL calls (90 target / 77 stop)  
-  - Size: 70%  
-  - Reasoning: Tech rebound + 4815% 4h momentum.  
-- **Secondary Action**: Add SOXX calls (240 target / 215 stop)  
-  - Size: 60%  
-  - Catalyst: Semiconductor demand spike (WSJ).  
+#### **9:00 AM - 10:00 AM: Early Momentum Plays**  
+- **Primary Action:** Open bullish positions in **XLE (80% size)** and **ARKK (70% size)**.  
+  - **XLE:** Energy sector surge (770.1% 1h momentum, RSI 41). Buy calls at $88.67, target $95, stop $85.  
+  - **ARKK:** Extreme momentum (1083.9% 1h). Buy calls at $63.91, target $70, stop $60.  
+- **Secondary:** Monitor **TECL** for entry if momentum holds above $81.  
 
-#### 11:00 AM - 12:00 PM: Energy/Commodities Check  
-- **Action**: Scale into UNG calls (19 target / 16.5 stop)  
-  - Size: 50%  
-  - Weather-driven natural gas rally (10.00 trend score).  
-- **Avoid SLV**: Overbought signal; consider ZSL puts if RSI >72.  
+#### **10:00 AM - 11:00 AM: Tech & Semiconductors**  
+- **Primary Action:** Add **SOXX (60% size)** and **SMH (50% size)**.  
+  - **SOXX:** Semiconductor demand spike (2300.7% 4h momentum). Buy calls at $225.62, target $240, stop $215.  
+  - **SMH:** Sector outperformance (2385.3% 4h momentum). Buy calls at $261.54, target $280, stop $250.  
+- **Avoid:** SLV (overbought RSI 70.8). Consider short puts if pullback begins.  
 
-#### 12:00 PM - 1:00 PM: Midday Consolidation  
-- **Monitor**:  
-  - XLE for profit-taking above 92 (90% expected return).  
-  - ARKK for volume confirmation.  
-- **Adjust Stops**: Tighten to 5% below entry if gains >5%.  
+#### **11:00 AM - 12:00 PM: High-Conviction Rebounds**  
+- **Primary Action:** Enter **TECL (70% size)** and **ARKQ (60% size)**.  
+  - **TECL:** Tech rally (4815.5% 4h momentum). Buy calls at $81.10, target $90, stop $77.  
+  - **ARKQ:** Robotics traction (1728.9% 4h momentum). Buy calls at $82.97, target $90, stop $78.  
 
-#### 1:00 PM - 2:00 PM: Afternoon Momentum  
-- **Action**: Buy SMH calls (280 target / 250 stop)  
-  - Size: 50%  
-  - High R/R (3.8) + sector outperformance.  
-- **Optional**: QTUM calls (110 target) if volume spikes.  
+#### **12:00 PM - 1:00 PM: Energy & Commodities**  
+- **Primary Action:** Add **UNG (50% size)**.  
+  - **UNG:** Natural gas surge (452% 4h momentum, RSI 21.1). Buy calls at $17.58, target $19, stop $16.50.  
+- **Monitor:** XLE for follow-through.  
 
-#### 2:00 PM - 3:00 PM: Risk Management  
-- **Trim Positions**: Sell 50% of XLE/ARKK if targets hit.  
-- **Stop Updates**: Move SLV stop to 34 (from 36) if holding.  
+#### **1:00 PM - 2:00 PM: Midday Adjustments**  
+- **Trim:** Partial profits on XLE and ARKK if targets near.  
+- **Watch:** VIX for volatility spikes (potential hedge with SPY puts).  
 
-#### 3:00 PM - 4:00 PM: Closing Discipline  
-- **Liquidate Weak Positions**: Exit any underperforming trades (e.g., GDXJ if <68).  
-- **Hold Overnight**: Only TECL/SOXX if up >5% with tight stops.  
+#### **2:00 PM - 3:00 PM: Late-Day Opportunities**  
+- **Primary Action:** Enter **QTUM (50% size)**.  
+  - **QTUM:** Quantum computing hype (1747.3% 4h momentum). Buy calls at $88.34, target $110, stop $80.  
+- **Avoid:** SLV remains overbought; no new longs.  
 
-### Key Risks  
-- **SLV**: Overbought; avoid new longs.  
-- **VIX Spike**: Hedge with SPY puts if VIX >23.  
+#### **3:00 PM - 4:00 PM: Closing Actions**  
+- **Exit:** All positions not meeting targets (tighten stops to lock gains).  
+- **Hedge:** Consider SPY puts if VIX rises above 23.  
 
-``` 
+---
 
-**Execution Notes**:  
-- Use limit orders for entries; avoid market opens.  
-- Size inversely to RSI (smaller positions if RSI >60).  
+### **Key Risks & Adjustments**  
+- **Stop-Losses:** Tighten to 1-2% below entry if momentum fades.  
+- **News Triggers:** Oil/tech headlines may accelerate moves in XLE/TECL.  
+- **VIX Spike:** Shift to inverse ETFs (SQQQ, SDS) if VIX > 23.  
+
+**Position Sizing Summary:**  
+| ETF  | Size | Target | Stop  |  
+|------|------|--------|-------|  
+| XLE  | 80%  | $95    | $85   |  
+| ARKK | 70%  | $70    | $60   |  
+| TECL | 70%  | $90    | $77   |  
+| SOXX | 60%  | $240   | $215  |  
