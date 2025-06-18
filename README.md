@@ -1,67 +1,111 @@
-# ETF Momentum Options Strategy (Next Trading Day)
-**Market Context**: Bear Momentum (VIX 21.6)  
-**Priority Trades**: XLE, ARKK, TECL (Strong momentum + low RSI)  
-**Key Sell**: SLV (Overbought RSI 70.8)  
+# ETF Options Strategy Plan (Next Trading Day: 9AM-4PM EST)
+
+## Market Context
+- **VIX**: 21.6 (moderate volatility)  
+- **Trend**: Bear momentum  
+- **Key Catalysts**: Oil surge (XLE), ARK inflows (ARKK/ARKQ), tech rebound (TECL/SOXX), natural gas rally (UNG), overbought SLV  
 
 ---
 
-## Hour-by-Hour Plan (9AM - 4PM EST)
+## Hourly Execution Plan
 
 ### 9:00 AM - Market Open
-- **Open Positions**:
-  - **BUY XLE Calls** (95 Target / 85 Stop, 80% size)  
-    *Oil surge + 770% 1h momentum, RSI 41*  
-  - **BUY ARKK Calls** (70 Target / 60 Stop, 70% size)  
-    *ARK inflows + 1084% 1h momentum*  
-  - **SELL SLV Calls or BUY SLV Puts** (30 Target / 36 Stop, 60% size)  
-    *Overbought silver, RSI 70.8*  
+**Priority Trades** (High Momentum + Low RSI):  
+1. **XLE** (Energy):  
+   - **Action**: Buy calls (95 target, 85 stop)  
+   - **Size**: 80% of allocated capital  
+   - **Rationale**: 770% 1h momentum, RSI 41, geopolitical oil spike.  
 
-- **Monitor**: TECL, QTUM for entry confirmation.
+2. **ARKK** (Innovation):  
+   - **Action**: Buy calls (70 target, 60 stop)  
+   - **Size**: 70%  
+   - **Rationale**: 1084% 1h momentum, ARK fund inflows.  
 
-### 10:00 AM - Early Session
-- **Add Positions**:
-  - **BUY TECL Calls** (90 Target / 77 Stop, 70% size) if momentum holds.  
-    *Tech rebound + 4815% 4h momentum*  
-  - **BUY UNG Calls** (19 Target / 16.5 Stop, 50% size)  
-    *Cold weather demand, RSI 21.1 (oversold)*  
+3. **TECL** (Tech Leveraged):  
+   - **Action**: Buy calls (90 target, 77 stop)  
+   - **Size**: 70%  
+   - **Rationale**: 4815% 4h momentum, tech earnings rebound.  
 
-- **Adjust Stops**: Tighten XLE stop to 87 if +2% up.
-
-### 11:00 AM - Mid-Morning
-- **Evaluate**:  
-  - Take partial profits on XLE (25% position) if hits 91.  
-  - Watch SMH for semiconductor momentum (303% 1h).  
-
-### 12:00 PM - Lunch Hour
-- **Defensive Moves**:  
-  - Reduce ARKK size to 50% if RSI > 60.  
-  - Add QCLN Calls (38 Target / 28 Stop, 50% size) if clean energy shows strength.  
-
-### 1:00 PM - Early Afternoon
-- **New Entries**:  
-  - **BUY GDXJ Calls** (75 Target / 66 Stop) if gold miners hold RSI < 65.  
-  - **BUY QTUM Calls** (110 Target / 80 Stop) if quantum computing volume spikes.  
-
-### 2:00 PM - Mid-Afternoon
-- **Profit Taking**:  
-  - Close 50% of TECL if reaches 87 (near target).  
-  - Trail SLV stop to 34 if downtrend confirms.  
-
-### 3:00 PM - Late Session
-- **Final Adjustments**:  
-  - Exit all positions with < 3% profit.  
-  - Roll XLE calls to next week if trend intact.  
-
-### 4:00 PM - Close
-- **Review**:  
-  - Document max drawdown and sector performance.  
-  - Prepare for next day’s watchlist (SOXX, XLK).  
+**Monitor**: SOXX, ARKQ for confirmation of breakout.  
 
 ---
 
-### Key Risks
-- **SLV Reversal**: Overbought but high momentum could extend.  
-- **ARKK Volatility**: Monitor ARK fund flow news closely.  
-- **VIX Spike**: Hedge with SPY puts if VIX > 23.  
+### 10:00 AM - Early Session  
+**Follow-through Trades**:  
+1. **UNG** (Natural Gas):  
+   - **Action**: Buy calls (19 target, 16.5 stop)  
+   - **Size**: 50%  
+   - **Trigger**: If holds above 17.60.  
+   - **Rationale**: 452% 4h momentum, cold weather demand.  
 
-**Action**: Prioritize XLE/ARKK buys, SLV sell, and trail stops aggressively.  
+2. **SLV** (Silver):  
+   - **Action**: Sell calls or buy puts (32 target, 36 stop)  
+   - **Size**: 50%  
+   - **Rationale**: RSI 70.8 (overbought), inflation pullback risk.  
+
+**Adjust**: Tighten stops on XLE/ARKK if gains exceed 5%.  
+
+---
+
+### 11:00 AM - Mid-Morning  
+**Secondary Opportunities**:  
+1. **SOXX** (Semiconductors):  
+   - **Action**: Buy calls (240 target, 215 stop)  
+   - **Size**: 60%  
+   - **Trigger**: Break above 228.  
+
+2. **ARKQ** (Robotics):  
+   - **Action**: Buy calls (90 target, 78 stop)  
+   - **Size**: 60%  
+   - **Rationale**: 1729% 4h momentum, sector traction.  
+
+**Watch**: VIX for spikes >22.5 (reduce risk).  
+
+---
+
+### 12:00 PM - Lunch Hour  
+**Defensive Checks**:  
+- **Close**: 25% of XLE/ARKK if RSI >60.  
+- **Roll**: SLV puts to lower strikes if silver drops below 33.  
+
+---
+
+### 1:00 PM - Early Afternoon  
+**Momentum Continuation**:  
+1. **SMH** (Semis):  
+   - **Action**: Buy calls (280 target, 250 stop)  
+   - **Size**: 50%  
+   - **Trigger**: Break above 265.  
+
+2. **QTUM** (Quantum Computing):  
+   - **Action**: Buy calls (110 target, 80 stop)  
+   - **Size**: 50%  
+   - **Rationale**: 1747% 4h momentum, sector news.  
+
+---
+
+### 2:00 PM - Mid-Afternoon  
+**Profit-Taking**:  
+- **Close**: 50% of TECL/SOXX if targets hit.  
+- **Trim**: UNG to 25% size if >18.50.  
+
+---
+
+### 3:00 PM - Late Session  
+**Final Adjustments**:  
+- **Exit**: All remaining SLV positions.  
+- **Roll**: ARKK calls to next expiry if >65.  
+
+---
+
+### 4:00 PM - Close  
+**Post-Mortem**:  
+- Review fills, R/R ratios, and news impact.  
+- Prepare for overnight holds (XLE/UNG).  
+
+```
+
+### Key Notes:
+- **Strict Stop-Losses**: Enforce all stops to cap losses at 1-2% per trade.  
+- **Size Scaling**: Allocate based on confidence (XLE > ARKK > TECL).  
+- **Overbought Caution**: Avoid adding to SLV/XLK (RSI >70).  
