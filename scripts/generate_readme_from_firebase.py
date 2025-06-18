@@ -166,6 +166,7 @@ def ask_llm_to_generate_readme_content(latest_etf_signal:Union[Dict, str])->str:
     With the following prediction data:
     {latest_etf_signal}
     
+    More details on reasoning, clear instructions, and no fluff.
     Output in markdown format.
     """
     
