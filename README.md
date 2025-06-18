@@ -1,42 +1,54 @@
-# ETF Momentum Options Strategy (Next Trading Day)
-*Market Context: Bear Momentum (VIX 21.6) | Updated: 2025-06-17 22:34 UTC*
+# ETF Options Strategy for June 18, 2025 (9AM-4PM EST)
+**Market Context**: Bear Momentum (VIX 21.6) with sector-specific opportunities. Prioritize high-momentum ETFs with tight risk management.
 
-## Hourly Execution Plan (9AM - 4PM EST)
+## Hourly Execution Plan
+### 9:00 AM - Market Open
+- **Primary Actions**:
+  - `BUY XLE 95C` (80% size): Enter at open with stop at $85. Oil momentum strongest in market (770% 1h).
+  - `BUY ARKK 70C` (70% size): ARK Invest inflows + extreme momentum (2414% 4h). Stop $60.
+  - `SELL SLV 36P` (60% size): Overbought RSI 70.8. Target $30, stop above $36.
 
-### Pre-Market Prep (6:30-9AM)
-1. **Position Setup**:
-   - Buy XLE 85-strike calls (0.8x size) - Oil surge catalyst
-   - Buy ARKK 60-strike calls (0.7x size) - ARK fund inflows
-   - Sell SLV 36-strike puts (0.6x size) - Overbought RSI 70.8
+### 10:00 AM - Early Session
+- **Momentum Confirmations**:
+  - Add `TECL 90C` if holding above $81.10 (4815% 4h momentum). Stop $77.
+  - Monitor `UNG 19C` for natural gas continuation. Requires >$17.60 hold.
 
-### Trading Hours
-| Time  | Action | Details |
-|-------|--------|---------|
-| **9:00** | Open XLE/ARKK | Enter 70% of allocated positions |
-| **10:00** | Add TECL/SOXX | Buy TECL 77-strike calls (0.7x), SOXX 215-strike calls (0.6x) |
-| **11:00** | Monitor SLV | Close SLV puts if RSI >75, else hold |
-| **12:00** | Energy Boost | Add UNG 16.5-strike calls (0.5x) on natgas momentum |
-| **13:00** | Tech Review | Trim XLK if <240, add SMH 250-strike calls (0.5x) |
-| **14:00** | Gold Hedge | GDXJ 66-strike calls (0.5x) as inflation hedge |
-| **15:00** | Profit Take | Close 50% of XLE/ARKK if targets hit (95/70) |
-| **15:30** | Final Adjust | Set trailing stops at 2xATR (14-period) |
+### 11:00 AM - Mid-Morning
+- **Secondary Plays**:
+  - `SOXX 240C` if semiconductors hold bid (2300% 4h mom). Size 60%, stop $215.
+  - `ARKQ 90C` if robotics sector confirms strength (1728% 4h mom). Stop $78.
 
-## Key Trades
-1. **Primary Conviction**:
-   - `XLE Jun20 85C` (Confidence 10/10)
-     - TP: 95 (+11.7%), SL: 85 (-4.1%)
-     - Catalyst: Geopolitical oil squeeze (Reuters)
-   - `ARKK Jun20 60C` (Confidence 9/10)
-     - TP: 70 (+9.5%), SL: 60 (-6.1%)
+### 12:00 PM - Lunch Hour
+- **Defensive Adjustments**:
+  - Trim 50% of XLE/ARKK positions if targets hit (90%/85% of max gain).
+  - Set trailing stops at 2x ATR for open positions.
 
-2. **Secondary Plays**:
-   - `TECL Jun20 77C`: Tech rebound (CNBC)
-   - `UNG Jun20 16.5C`: Weather-driven natgas spike
+### 1:00 PM - Early Afternoon
+- **High-Probability Adds**:
+  - `GDXJ 75C` if gold miners hold $69.50 (1471% 4h mom). Stop $66.
+  - `SMH 280C` if above $265 (2385% 4h mom). Tight stop $250.
+
+### 2:00 PM - Mid-Afternoon
+- **Clean Energy Play**:
+  - `QCLN 38C` only if >$32.50 (1111% 4h mom). Stop $28.
+
+### 3:00 PM - Final Hour
+- **Position Management**:
+  - Close all positions <50% to target.
+  - Let winners run with 1:3 RR minimum.
+  - Hedge with `SQQQ 1PM 540P` if SPY <$595.
+
+## Key Technical Levels
+| ETF   | Entry Trigger | Stop Loss | Target | R/R |
+|-------|---------------|-----------|--------|-----|
+| XLE   | >$89          | $85       | $95    | 3:1 |
+| ARKK  | >$64          | $60       | $70    | 2.5:1 |
+| TECL  | >$82          | $77       | $90    | 3:1 |
+| SLV   | <$33.50       | $36       | $30    | 2:1 |
 
 ## Risk Management
-- Max portfolio allocation: 30% to single sector
-- Hard stop at -8% on any position
-- VIX hedge: Buy 1 SPY 590P per $10k exposure
+- Max portfolio risk: 2% per trade
+- Close all positions by 3:45PM unless >75% to target
+- No new entries after 2:30PM
 
-*Data Note: All momentum figures >1000% on 4h timeframe indicate extreme volatility conditions.*
-``` 
+**Updates**: Monitor oil prices (Reuters) and ARK fund flows (Bloomberg) for catalyst changes.
