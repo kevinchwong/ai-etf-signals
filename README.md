@@ -1,59 +1,75 @@
-**Market Context**: Bear Momentum (VIX: 21.6)  
-**Timeframe**: Next trading day (9:00 AM - 4:00 PM EST)  
+**Market Context:** Bear Momentum (VIX: 21.6)  
+**Key Opportunities:** Energy (XLE), Tech (TECL, ARKK), Commodities (UNG)  
+**Key Risks:** Overbought SLV (RSI 70.8)  
 
 ---
 
-### **Key Actions**  
-1. **Prioritize Buys**:  
-   - **XLE** (Energy Sector): Strong momentum (770.1% 1h), low RSI (41.0), geopolitical tailwinds.  
-   - **ARKK** (Innovation): Extreme momentum (2414.5% 4h), fund inflows.  
-   - **TECL** (Tech Leveraged): High momentum (4815.5% 4h), bear market rally potential.  
-2. **Sell Signal**:  
-   - **SLV** (Silver): Overbought (RSI 70.8), resistance amid dollar strength.  
+### Hour-by-Hour Strategy (9:00 AM - 4:00 PM EST)  
+
+#### **Pre-Market (8:00-9:00 AM)**  
+- **Monitor News:** Geopolitical oil updates (XLE), tech earnings (TECL, ARKK), natural gas forecasts (UNG).  
+- **Set Alerts:**  
+  - XLE > $89.50 (breakout confirmation)  
+  - SLV < $33.50 (pullback signal)  
+
+#### **9:00-10:00 AM: Opening Momentum**  
+1. **Primary Trades:**  
+   - **BUY XLE Calls (Strike: $90, Expiry: Weekly)**  
+     - Size: 80% of allocated capital  
+     - Stop: $85 (5% below entry)  
+     - Target: $95 (5.5% upside)  
+     - *Catalyst:* Oil price surge + low RSI (41).  
+   - **BUY TECL Calls (Strike: $82, Expiry: Weekly)**  
+     - Size: 70%  
+     - Stop: $77  
+     - Target: $90  
+     - *Catalyst:* Tech rebound + extreme 4h momentum (4815%).  
+
+2. **Secondary Watch:**  
+   - ARKK: If holds above $64, buy calls (Strike: $65).  
+
+#### **10:00-11:00 AM: Consolidation Phase**  
+- **Trim Positions:** Take 30% profit on XLE if hits $91.50.  
+- **Add UNG Calls (Strike: $18, Expiry: Weekly)** if natural gas futures rise.  
+  - Size: 50%  
+  - Stop: $16.50  
+  - Target: $19  
+
+#### **11:00 AM-12:00 PM: Midday Adjustments**  
+- **SELL SLV Puts (Strike: $33, Expiry: Weekly)** if RSI stays >70.  
+  - Size: 60%  
+  - Stop: $36  
+  - Target: $30  
+  - *Rationale:* Overbought with high downside risk.  
+
+#### **12:00-1:00 PM: Lunchtime Lull**  
+- **Monitor Volume:** Reduce exposure if volume drops >20% below average.  
+- **Roll ARKK Calls** to higher strikes if momentum sustains.  
+
+#### **1:00-2:00 PM: Afternoon Momentum**  
+- **BUY QTUM Calls (Strike: $89, Expiry: Weekly)** if breaks $88.50.  
+  - Size: 70%  
+  - Stop: $80  
+  - Target: $110  
+  - *Catalyst:* Quantum computing news.  
+
+#### **2:00-3:00 PM: Late Session**  
+- **Exit Weak Positions:** Close TECL if <$80.  
+- **Hedge with SPY Puts (Strike: $595, Expiry: Weekly)** if VIX spikes >23.  
+
+#### **3:00-4:00 PM: Closing**  
+- **Take Profit:** Close all positions with >50% gains.  
+- **Roll Winners:** Extend XLE/TECL calls to next week if trends hold.  
 
 ---
 
-### **Hour-by-Hour Strategy**  
+### Key Risks & Mitigation  
+- **SLV Reversal:** Tight stops ($36) to limit losses.  
+- **Tech Pullback:** Trail stops on TECL/ARKK.  
+- **VIX Spike:** Hedge with SPY puts.  
 
-#### **Pre-Market (8:00 AM - 9:00 AM)**  
-- **Monitor News**: Oil prices (XLE), tech earnings (TECL), ARK Invest flows (ARKK/ARKQ).  
-- **Set Alerts**:  
-  - Buy triggers: XLE > $88.70, ARKK > $64.00, TECL > $81.50.  
-  - Sell trigger: SLV < $33.50.  
-
-#### **9:00 AM - 10:00 AM**  
-- **Open Positions**:  
-  - **Buy XLE Calls** (Strike: $90, Expiry: Weekly) - Size: 80% of allocated capital.  
-  - **Buy ARKK Calls** (Strike: $65, Expiry: Weekly) - Size: 70%.  
-  - **Sell SLV Puts** (Strike: $32, Expiry: Weekly) - Size: 60%.  
-- **Rationale**: Capitalize on opening momentum; SLV put sales hedge downside.  
-
-#### **10:00 AM - 12:00 PM**  
-- **Additions**:  
-  - **TECL Calls** (Strike: $85, Expiry: Weekly) if RSI stays <50.  
-  - **ARKQ Calls** (Strike: $85) if robotics news confirms traction.  
-- **Adjustments**: Tighten stops to 5% below entry for all positions.  
-
-#### **12:00 PM - 2:00 PM**  
-- **Monitor**:  
-  - **SOXX/SMH** for semiconductor momentum.  
-  - **UNG** if natural gas breaks $17.60.  
-- **Action**: Trim XLE/ARKK if VIX spikes >23.  
-
-#### **2:00 PM - 4:00 PM**  
-- **Close Weak Positions**: Exit trades below 1.5x risk-reward.  
-- **Roll Profits**: Reinforce TECL/QTUM if tech rally persists.  
-- **EOD Hedge**: Buy SPY Puts (Strike: $590) as bear market insurance.  
-
----
-
-### **Risk Management**  
-- **Stops**:  
-  - XLE: $85.00 | ARKK: $60.00 | TECL: $77.00 | SLV: $36.00.  
-- **Max Drawdown**: 2% per trade, 5% daily.  
-
-### **Watchlist for Intraday Adjustments**  
-- **High Momentum**: QTUM, QCLN, UNG.  
-- **Avoid**: Overbought ETFs (GDXJ, XLK).  
+**Tools:**  
+- Alerts: RSI >70 (overbought), RSI <40 (oversold).  
+- News Feeds: Bloomberg Energy/Commodities, CNBC Tech.  
 
 ---  
