@@ -1,118 +1,88 @@
-**Date:** 2025-06-18  
-**Market Context:** Bear Momentum | VIX: 21.6 (Moderate Volatility)  
 
----
+**Market Context**: Bear momentum (VIX 21.6) with sector-specific opportunities
 
-## **Hour-by-Hour Trading Plan (9:00 AM - 4:00 PM EST)**  
+## Pre-Market Prep (8:00-9:00 AM EST)
+- **Review Overnight Moves**: Check oil prices (XLE), ARK fund flows (ARKK/ARKQ), and tech earnings (TECL/SOXX)
+- **Set Alerts**: 
+  - XLE > $89.50 (breakout confirmation)
+  - SLV < $33.20 (pullback trigger)
+  - TECL > $82.00 (momentum continuation)
+- **Order Prep**:
+  - Buy XLE 85-strike calls (0.8x size)
+  - Sell SLV 34-strike calls (0.6x size)
+  - Buy ARKK 60/65 call spread (0.7x size)
 
-### **Key Focus Areas:**  
-- **Top Buys:** `XLE`, `ARKK`, `TECL` (Strong momentum, low RSI, high profit scores)  
-- **Top Sell:** `SLV` (Overbought RSI, potential pullback)  
-- **Watchlist:** `QTUM`, `QCLN`, `SOXX`, `ARKQ`, `UNG`  
+## Hourly Execution Plan
 
----
+### 9:00-10:00 AM - Opening Momentum
+1. **Priority Trades**:
+   - Enter XLE calls immediately if opening > $88.50 (stop $85.50)
+   - Initiate SLV call sale if RSI remains >68
+   - ARKK calls if volume > 1.5x 10-day avg
 
-### **Hourly Breakdown**  
+2. **Monitoring**:
+   - Tech sector volume (TECL/SOXX)
+   - Oil inventory data impact on XLE
 
-#### **9:00 AM - 10:00 AM (Market Open - Early Momentum)**  
-- **Primary Action:**  
-  - **Buy `XLE` (Energy Sector)**  
-    - **Entry:** ~$88.67  
-    - **Target:** $95 (+7.1%)  
-    - **Stop:** $85 (-4.1%)  
-    - **Size:** 80% of allocation  
-    - **Reason:** Oil surge + geopolitical tensions, strong momentum (770.1% 1h).  
-  - **Buy `TECL` (3x Tech Bull)**  
-    - **Entry:** ~$81.10  
-    - **Target:** $90 (+11%)  
-    - **Stop:** $77 (-5%)  
-    - **Size:** 70%  
-    - **Reason:** Tech rebound, extreme momentum (4815.5% 4h).  
+### 10:00-11:00 AM - Confirmation Phase
+1. **Add Positions**:
+   - TECL calls if holds above $81.50 (stop $79)
+   - SOXX 220-strike calls if semis show strength
 
-- **Secondary Action:**  
-  - **Sell `SLV` (Silver ETF)**  
-    - **Entry:** ~$33.73  
-    - **Target:** $30 (-11%)  
-    - **Stop:** $36 (+6.7%)  
-    - **Size:** 60%  
-    - **Reason:** Overbought (RSI 70.8), resistance in silver prices.  
+2. **Adjustments**:
+   - Tighten XLE stop to $87 if gains >3%
+   - Scale into ARKQ if robotics sector confirms strength
 
----
+### 11:00 AM-12:00 PM - Midday Assessment
+1. **Sector Checks**:
+   - Energy (XLE/UNG) vs Tech (TECL/SOXX) relative strength
+   - Silver (SLV) mean reversion signals
 
-#### **10:00 AM - 11:00 AM (Follow-Through & Adjustments)**  
-- **Monitor:**  
-  - `ARKK` (ARK Innovation ETF)  
-    - If momentum holds, **buy** at ~$63.91 (Target: $70, Stop: $60).  
-  - `SOXX` (Semiconductors)  
-    - If breakout continues, **buy** at ~$225.62 (Target: $240, Stop: $215).  
+2. **New Entries**:
+   - QTUM calls if quantum computing theme strengthens
+   - QCLN calls if clean energy rebounds
 
-- **Adjust Stops:**  
-  - Tighten stops on `XLE` and `TECL` if they gain +3%.  
+### 12:00-1:00 PM - Lunch Consolidation
+1. **Position Management**:
+   - Take 50% profits on any positions >80% of target
+   - Roll up stops on winners
 
----
+2. **Avoid**:
+   - New directional trades during low volume
 
-#### **11:00 AM - 12:00 PM (Midday Consolidation Check)**  
-- **Evaluate:**  
-  - If `UNG` (Natural Gas) holds above $17.58, **buy** (Target: $19, Stop: $16.5).  
-  - If `QTUM` (Quantum Computing) shows strength, **buy** at ~$88.34 (Target: $110, Stop: $80).  
+### 1:00-2:00 PM - Afternoon Momentum
+1. **Second Wave**:
+   - Add UNG calls if natural gas continues uptrend
+   - Consider SMH calls if semis show afternoon strength
 
-- **Exit Early Weakness:**  
-  - If `SLV` doesn’t drop as expected, close half position.  
+2. **Contrarian**:
+   - Monitor SLV for potential put entry if RSI >72
 
----
+### 2:00-3:00 PM - Final Push
+1. **Closing Plays**:
+   - Trim position sizes by 25%
+   - Set trailing stops on remaining positions
 
-#### **12:00 PM - 1:00 PM (Lunchtime Lull)**  
-- **Hold Positions:**  
-  - Let winners (`XLE`, `TECL`) run.  
-  - Trail stops on `ARKK` if it breaks $65.  
+2. **Defensive**:
+   - Hedge with SPY puts if VIX spikes >23
 
-- **Avoid New Entries:**  
-  - Wait for afternoon momentum.  
+### 3:00-4:00 PM - Session Close
+1. **Final Adjustments**:
+   - Close all SLV positions regardless
+   - Let XLE/ARKK runners continue overnight
 
----
+2. **EOD Checklist**:
+   - Document all fills
+   - Prepare next day watchlist (QTUM/QCLN)
 
-#### **1:00 PM - 2:00 PM (Afternoon Momentum)**  
-- **New Opportunity:**  
-  - **Buy `ARKQ` (Robotics & AI)**  
-    - If RSI stays low (~45), enter at ~$82.97 (Target: $90, Stop: $78).  
+## Key Risk Controls
+- **Max Portfolio Risk**: 2% per trade
+- **Stop Discipline**: No exceptions
+- **News Triggers**: Exit all if oil reverses >3% or VIX >25
 
-- **Watch for Reversals:**  
-  - If `GDXJ` (Gold Miners) holds $69.74, consider a small buy (Target: $75, Stop: $66).  
-
----
-
-#### **2:00 PM - 3:00 PM (Final Push)**  
-- **Take Partial Profits:**  
-  - Close 50% of `XLE` and `TECL` if near targets.  
-  - Trim `SLV` short if it hits $31.  
-
-- **Defensive Moves:**  
-  - If VIX spikes above 23, reduce exposure.  
-
----
-
-#### **3:00 PM - 4:00 PM (Closing Hour)**  
-- **Final Adjustments:**  
-  - Exit remaining `SLV` if not working.  
-  - Let high-conviction trades (`ARKK`, `SOXX`) run overnight if strong.  
-
-- **End-of-Day Review:**  
-  - Check for news on oil, tech, and semiconductors.  
-
----
-
-## **Summary of Key Trades**  
-| Symbol | Action | Entry  | Target | Stop  | Size  | R/R  | Catalyst |  
-|--------|--------|--------|--------|-------|-------|------|----------|  
-| XLE    | BUY    | $88.67 | $95    | $85   | 80%   | 3.0  | Oil surge |  
-| TECL   | BUY    | $81.10 | $90    | $77   | 70%   | 3.0  | Tech rebound |  
-| SLV    | SELL   | $33.73 | $30    | $36   | 60%   | 2.0  | Overbought |  
-| ARKK   | BUY    | $63.91 | $70    | $60   | 70%   | 2.5  | ARK inflows |  
-
-**Risk Management:**  
-- Max portfolio risk: 2% per trade.  
-- Adjust stops to breakeven after +5% gain.  
-
-**Updates:** Monitor Bloomberg/CNBC for oil, tech, and silver news.  
-
----  
+## Position Sizing
+| ETF  | Type   | Size | Strike | Stop   | Target | RR  |
+|------|--------|------|--------|--------|--------|-----|
+| XLE  | Call   | 80%  | 85     | 85.50  | 95     | 3:1 |
+| SLV  | Call Sell | 60% | 34     | 33.50  | 30     | 2:1 |
+| ARKK | Call Spread | 70% | 60/65 | 59     | 70     | 2.5:1 |
