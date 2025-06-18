@@ -160,11 +160,12 @@ def ask_llm_to_generate_readme_content(latest_etf_signal:Union[Dict, str])->str:
         raise EnvironmentError("DEEPSEEK_API_KEY environment variable is not set")
     
     prompt = f"""
-
-    Plan me hour by hour ETF options strategy for today from now to 4pm EST with the following prediction data:
+    If the time is off market hours, plan me hour by hour ETF options strategy for next day from 9am to 4pm EST.
+    Otherwise, plan me hour by hour ETF options strategy for today from now to 4pm EST;
+    
+    With the following prediction data:
     {latest_etf_signal}
     
-    Must include current EST time in the header.
     Output in markdown format.
     """
     
@@ -187,10 +188,7 @@ def ask_llm_to_generate_readme_content(latest_etf_signal:Union[Dict, str])->str:
         )
         # current_est_time = datetime.now(pytz.timezone('US/Eastern')).strftime("%Y-%m-%d %H:%M:%S")
         readme_src = "\n".join(response.choices[0].message.content[:-3].split("\n")[1:-1])
-        return (
-            f"{readme_src}\n\n" +
-            f"Signal data: ```{latest_etf_signal}```"
-        )
+        return readme_src
         
     except Exception as e:
         logger.error(f"Error calling DeepSeek API: {str(e)}")
