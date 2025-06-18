@@ -1,86 +1,101 @@
-# ETF Options Strategy Plan (Next Trading Day: 9AM-4PM EST)
 
 ## Market Context
-- **Trend**: Bear Momentum (VIX 21.6)
-- **Key Opportunities**: Tech recovery (TECL, QTUM), energy (XLE), ARK ETFs (ARKK, ARKQ)
-- **Key Risks**: Overbought SLV (RSI 70.8), general bear market conditions
+- **Overall Trend**: Bear momentum (VIX 21.6)
+- **Key Drivers**: 
+  - Oil surge boosting XLE
+  - ARK Invest inflows lifting ARKK/ARKQ
+  - Tech rebound (TECL/SOXX)
+  - Natural gas rally (UNG)
+  - Overbought SLV
 
-## Hour-by-Hour Execution Plan
+## Hour-by-Hour Strategy (9AM-4PM EST)
 
 ### Pre-Market Prep (8:00-8:45AM)
-1. **Review Overnight News**: 
-   - Check oil prices (XLE catalyst)
-   - ARK Invest fund flows (ARKK/ARKQ)
-   - Tech earnings updates (TECL/SOXX)
+1. **Review Overnight Moves**:
+   - Confirm oil price momentum (XLE)
+   - Check ARK fund flows
+   - Verify tech earnings impact
 2. **Set Alerts**:
-   - TECL break above $82
-   - SLV drop below $33
-   - XLE volume spike >1.5x avg
+   - XLE > $89.50
+   - ARKK > $65.00
+   - SLV RSI > 72
 
 ### 9:00-10:00AM - Opening Momentum
-- **Primary Action**: 
-  - BUY TECL $80C (Size: 0.9)
-    - Target: $100 (+25%)
-    - Stop: $70 (-12.5%)
-    - Rationale: 4815% 4h momentum, tech recovery
-- **Secondary**:
-  - SELL SLV $34P (Size: 0.6)
-    - Target: $30 (-11.8%)
-    - Stop: $36 (+6.7%)
+- **Primary Action**: Buy XLE $90 calls (July expiry)
+  - Size: 8% portfolio
+  - Target: $95 (+5.6%)
+  - Stop: $85 (-4.1%)
+  - Rationale: Strongest 1h momentum (770%) with geopolitical catalyst
 
-### 10:00-11:00AM - Confirmation Phase
-- **Monitor**:
-  - ARKQ volume vs 30d avg
-  - QTUM RSI trend
-- **Execute If**:
-  - ARKQ >$84: BUY $85C (Size: 0.8)
-  - QTUM RSI <45: BUY $90C (Size: 0.7)
+- **Secondary Action**: 
+  - Sell SLV $34 puts (June expiry)
+  - Size: 6% portfolio
+  - Collect premium on overbought condition
 
-### 11:00AM-12:00PM - Midday Adjustment
-- **Energy Focus**:
-  - If XLE >$89: BUY $90C (Size: 0.8)
-    - Use 15-min MACD crossover confirmation
-- **Tech Hedge**:
-  - If SOXX <$224: Buy SSG puts as hedge
+### 10:00-11:00AM - Confirm Trends
+- **If XLE holds >$89**:
+  - Add ARKK $65 calls (July)
+  - Size: 7%
+  - Target: $70 (+7.7%)
+  
+- **Watch**: 
+  - TECL for break above $82
+  - UNG for continuation above $17.75
+
+### 11:00AM-12:00PM - Midday Adjustments
+- **If tech strength continues**:
+  - Buy SOXX $230 calls (July)
+  - Size: 6%
+  - Semiconductor momentum play
+
+- **Trim**: 
+  - 25% of XLE position if >$91
+  - Roll SLV puts to $33 strike
 
 ### 12:00-1:00PM - Lunch Lull
-- **Reduce Exposure**:
-  - Trim 25% of winning positions
-  - Tighten stops to 50% of original risk
+- **Monitor**: 
+  - Volume drop confirmation
+  - VIX movement
+- **Action**: 
+  - No new entries
+  - Tighten stops on existing positions
 
-### 1:00-2:00PM - Afternoon Push
-- **Clean Energy Play**:
-  - If QCLN >$32: BUY $33C (Size: 0.5)
-    - Watch for >1.2x volume
-- **ARKK Follow-Through**:
-  - If >$65: Add 0.3 size to position
+### 1:00-2:00PM - Afternoon Session
+- **If UNG >$17.80**:
+  - Buy $18 calls (July)
+  - Size: 5%
+  - Weather-driven momentum
+  
+- **Potential Exit**: 
+  - Close 50% ARKK if RSI >60
 
-### 2:00-3:00PM - Final Momentum
-- **Aggressive Moves**:
-  - TECL >$90: Roll up to $95C
-  - XLE >$92: Pyramid add 0.2 size
-- **Defensive**:
-  - Close all SLV positions if VIX spikes >23
+### 2:00-3:00PM - Final Moves
+- **Last Entries**:
+  - Only if clear trends:
+    - QTUM $90 calls if >$89
+    - QCLN $32 calls if >$31.75
 
-### 3:00-4:00PM - Closing
-- **Profit Taking**:
-  - Sell 50% of all ITM options
-  - Let 25% ride with trailing stop
-- **Prep Next Day**:
-  - Note strongest sector closings
-  - Update stop levels for remaining positions
+- **Begin Profit Taking**:
+  - Close 25% of all positions >3% profit
+
+### 3:00-4:00PM - Closeout
+- **Mandatory Actions**:
+  - Close all SLV positions
+  - Trim XLE to 50% position
+  - Set GTC orders for tomorrow
 
 ## Key Risk Controls
 1. **Max Portfolio Risk**: 2% per trade
-2. **VIX Threshold**: Reduce size by 50% if >25
-3. **Sector Correlation**: No >30% exposure to any sector
-4. **Time Decay**: Close all options with <3 days expiry
+2. **Stop Triggers**:
+   - XLE <$85
+   - ARKK <$60
+   - SOXX <$215
+3. **Volatility Filter**: No new trades if VIX >23
 
 ## Position Summary
-| Symbol | Type   | Size | Entry | Target | Stop  | R/R |
-|--------|--------|------|-------|--------|-------|-----|
-| TECL   | Call   | 0.9  | $80   | $100   | $70   | 3.0 |
-| ARKQ   | Call   | 0.8  | $83   | $100   | $75   | 2.5 |
-| SLV    | Put    | 0.6  | $34   | $30    | $36   | 2.0 |
-| XLE    | Call   | 0.8  | $88   | $95    | $85   | 3.0 |
-| QCLN   | Call   | 0.5  | $31   | $38    | $28   | 2.5 |
+| ETF  | Action   | Size | Entry   | Target | Stop  | R/R |
+|------|----------|------|---------|--------|-------|-----|
+| XLE  | Call     | 8%   | <$89    | $95    | $85   | 3:1 |
+| ARKK | Call     | 7%   | <$65    | $70    | $60   | 2:1 |
+| SLV  | Put Sell | 6%   | >$33.50 | $30    | $36   | 2:1 |
+| SOXX | Call     | 6%   | <$226   | $240   | $215  | 3:1 |
