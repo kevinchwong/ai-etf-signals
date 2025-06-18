@@ -4,7 +4,7 @@ import sys
 import json
 import logging
 from datetime import datetime
-from typing import Dict
+from typing import Dict, Union
 from dotenv import load_dotenv
 import pytz
 import openai
@@ -151,7 +151,7 @@ def clean_and_get_latest_signal_from_firebase(db):
         logger.error(f"Error retrieving latest signal from Firebase: {str(e)}")
         raise
 
-def ask_llm_to_generate_readme_content(latest_etf_signal:Dict)->str:
+def ask_llm_to_generate_readme_content(latest_etf_signal:Union[Dict, str])->str:
     """Ask the LLM to generate the README.md content."""
     # Set DeepSeek API key from environment
     openai.api_key = os.environ.get('DEEPSEEK_API_KEY')
@@ -207,13 +207,13 @@ def generate_readme_content(db):
         
         logger.info("Generating README content using LLM")
         try:
-            # readme_content = ask_llm_to_generate_readme_content(latest_etf_signal)
             readme_content = f"## Signal data\n\n" + \
                 f"{latest_etf_signal['updated_on']}\n\n" + \
                 f"{latest_etf_signal['summary']}\n\n" + \
                 f"{latest_etf_signal['tabulate_sells']}\n\n" + \
                 f"{latest_etf_signal['tabulate_buys']}\n\n" + \
                 f"{latest_etf_signal['tabulate_etfs']}\n\n"
+            readme_content = ask_llm_to_generate_readme_content(latest_etf_signal)
             logger.info("Successfully generated README content from LLM")
             return readme_content
         except Exception as e:
