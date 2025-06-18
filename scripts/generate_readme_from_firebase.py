@@ -154,56 +154,41 @@ def clean_and_get_latest_signal_from_firebase(db):
 def ask_llm_to_generate_readme_content(latest_etf_signal:Dict)->str:
     """Ask the LLM to generate the README.md content."""
     # Set DeepSeek API key from environment
-    # openai.api_key = os.environ.get('DEEPSEEK_API_KEY')
+    openai.api_key = os.environ.get('DEEPSEEK_API_KEY')
     
-    # if not openai.api_key:
-    #     raise EnvironmentError("DEEPSEEK_API_KEY environment variable is not set")
+    if not openai.api_key:
+        raise EnvironmentError("DEEPSEEK_API_KEY environment variable is not set")
     
-    # prompt = f"""
+    prompt = f"""
 
-    # Plan me hour by hour ETF options strategy for today from now to 4pm EST with the following prediction data:
-    # {latest_etf_signal}
+    Plan me hour by hour ETF options strategy for today from now to 4pm EST with the following prediction data:
+    {latest_etf_signal}
     
-    # Must include current EST time in the header.
-    # Output in markdown format.
-    # """
+    Must include current EST time in the header.
+    Output in markdown format.
+    """
     
     try:
-        # client = openai.OpenAI(
-        #     api_key=os.environ.get('DEEPSEEK_API_KEY'),
-        #     base_url="https://api.deepseek.com",
-        # )    
-        # response = client.chat.completions.create(
-        #     model="deepseek-chat",
-        #     messages=[
-        #         {"role": "system", "content": "You are an elite quantitative trader specializing in ETF momentum strategies. return report in markdown format."},
-        #         {"role": "user", "content": prompt}
-        #     ],
-        #     temperature=0.0,
-        #     max_tokens=4096,
-        #     top_p=1.0,
-        #     frequency_penalty=0.0,
-        #     presence_penalty=0.0,
-        # )
+        client = openai.OpenAI(
+            api_key=os.environ.get('DEEPSEEK_API_KEY'),
+            base_url="https://api.deepseek.com",
+        )    
+        response = client.chat.completions.create(
+            model="deepseek-chat",
+            messages=[
+                {"role": "system", "content": "You are an elite quantitative trader specializing in ETF momentum strategies. return report in markdown format."},
+                {"role": "user", "content": prompt}
+            ],
+            temperature=0.0,
+            max_tokens=4096,
+            top_p=1.0,
+            frequency_penalty=0.0,
+            presence_penalty=0.0,
+        )
         # current_est_time = datetime.now(pytz.timezone('US/Eastern')).strftime("%Y-%m-%d %H:%M:%S")
-        # readme_src = "\n".join(response.choices[0].message.content[:-3].split("\n")[1:-1])
+        readme_src = "\n".join(response.choices[0].message.content[:-3].split("\n")[1:-1])
         return (
-            f"{latest_etf_signal['summary']}\n\n"
-            f"{latest_etf_signal['description']}\n\n"
-            f"## Significant events last hour\n\n"
-            f"{latest_etf_signal['significant_events_last_hour']}\n\n"
-            f"## Suggested actions now\n\n"
-            f"{latest_etf_signal['suggested_actions_now']}\n\n"
-            f"## Watchlist etfs next hour\n\n"
-            f"{latest_etf_signal['watchlist_etfs_next_hour']}\n\n"
-            f"## Tabulate buys\n\n"
-            f"{latest_etf_signal['tabulate_buys']}\n\n"
-            f"## Tabulate sells\n\n"
-            f"{latest_etf_signal['tabulate_sells']}\n\n"
-            f"## Tabulate etfs\n\n"
-            f"{latest_etf_signal['tabulate_etfs']}\n\n"
-            # f"{readme_src}\n\n" +
-            f"## Signal data\n\n"
+            f"{readme_src}\n\n" +
             f"Signal data: ```{latest_etf_signal}```"
         )
         
@@ -222,7 +207,13 @@ def generate_readme_content(db):
         
         logger.info("Generating README content using LLM")
         try:
-            readme_content = ask_llm_to_generate_readme_content(latest_etf_signal)
+            # readme_content = ask_llm_to_generate_readme_content(latest_etf_signal)
+            readme_content = f"## Signal data\n\n" + \
+                f"{latest_etf_signal['updated_on']}\n\n" + \
+                f"{latest_etf_signal['summary']}\n\n" + \
+                f"{latest_etf_signal['tabulate_sells']}\n\n" + \
+                f"{latest_etf_signal['tabulate_buys']}\n\n" + \
+                f"{latest_etf_signal['tabulate_etfs']}\n\n"
             logger.info("Successfully generated README content from LLM")
             return readme_content
         except Exception as e:
