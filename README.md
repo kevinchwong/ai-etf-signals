@@ -1,56 +1,7 @@
-**Market Context:** Bear Momentum (VIX: 21.6)  
-**Key Focus:** High-momentum ETFs with strong technicals and sector catalysts.  
+# AI ETF Signals
 
----
+Latest signal data available at 2025-06-19 07:11:20 EST.
 
-### **Hour-by-Hour Strategy (9:00 AM - 4:00 PM EST)**  
+Signal data: {'pagination_used': True, 'model': 'deepseek-chat', 'created_at': DatetimeWithNanoseconds(2025, 6, 19, 8, 45, 47, 957000, tzinfo=datetime.timezone.utc), 'updated_at': DatetimeWithNanoseconds(2025, 6, 19, 8, 45, 47, 957000, tzinfo=datetime.timezone.utc), 'created_on': '2025-06-19T04:45:47.724562', 'candidates_analyzed': 36, 'sell_signals': 2, 'provider': 'DeepSeek', 'summary': {'hours_analyzed': 2, 'pagination_used': True, 'summary': 'Comprehensive 2-hour analysis generated using pagination', 'time_range_of_this_plan_in_EST': '2025-06-19 0:00:00 - 2025-06-19 2:00:00', 'current_EST_time': '2025-06-19 02:00:00', 'total_batches_processed': 1, 'hour_by_hour_summary': [{'picked reasons': 'Strong momentum in semiconductors and tech sectors, safe-haven demand for precious metals, and high RSI/volume indicators support bullish trends.', 'tabulate_news': '| Symbol | News | Source |\n|--------|------|--------|\n| SMH    | Semiconductor sector shows strong growth | Bloomberg |\n| SLV    | Silver ETF SLV gains on industrial demand | Bloomberg |', 'hour': '00:00:00', 'significant_news': 'Semiconductor sector shows strong growth as of 2025-06-19. Source: Bloomberg. Silver ETF SLV gains on industrial demand as of 2025-06-19. Source: Bloomberg.', 'tabulate_etfs': '| Symbol | Momentum | RSI | Volume | Trend |\n|--------|----------|-----|--------|-------|\n| SMH    | High     | 75.5 | 1.7x avg | Bullish |\n| SOXX   | High     | 74.0 | 1.5x avg | Bullish |\n| XLK    | High     | 73.0 | 1.4x avg | Bullish |\n| GDX    | High     | 72.0 | 1.3x avg | Bullish |\n| SLV    | Extreme  | 75.5 | 1.7x avg | Bullish |', 'tabulate_watchlist': '| Symbol | Price | Action | Reason |\n|--------|-------|--------|--------|\n| SMH    | 262.6 | BUY    | Strong momentum, sector growth |\n| SOXX   | 226.57 | BUY    | High RSI, sector outperformance |\n| XLK    | 241.65 | BUY    | Tech sector strength, AI boom |\n| GDX    | 53.01 | BUY    | Safe-haven demand, gold price rise |\n| SLV    | 33.27 | BUY    | Industrial demand, silver price rise |', 'suggested_actions': 'Focus on buying SMH, SOXX, XLK, and GDX with tight stops. Monitor SLV for potential entry points.', 'summary': 'Market opens with strong momentum in semiconductors and tech sectors. Precious metals also show strength due to safe-haven demand. Key ETFs to watch include SMH, SOXX, XLK, and GDX.', 'tabulate_actions': '| Symbol | Action | Price | Target | Stop | Size | Confidence |\n|--------|--------|-------|--------|------|------|------------|\n| SMH    | BUY    | 262.6 | 315.12 | 236.34 | 0.9 | 10.0 |\n| SOXX   | BUY    | 226.57 | 271.88 | 203.91 | 0.8 | 9.8 |\n| XLK    | BUY    | 241.65 | 289.98 | 217.49 | 0.8 | 9.7 |\n| GDX    | BUY    | 53.01 | 63.61 | 47.71 | 0.7 | 9.5 |', 'tabulate_sells': '| Symbol | Price | Action | Target | Stop | Size | Confidence |\n|--------|-------|--------|--------|------|------|------------|\n| SLV    | 33.27 | BUY    | 36.6 | 31.5 | 0.8 | 10.0 |\n| ARKQ   | 83.44 | BUY    | 91.8 | 79.3 | 0.7 | 9.0 |', 'tabulate_buys': '| Symbol | Price | Action | Target | Stop | Size | Confidence |\n|--------|-------|--------|--------|------|------|------------|\n| SMH    | 262.6 | BUY    | 315.12 | 236.34 | 0.9 | 10.0 |\n| SOXX   | 226.57 | BUY    | 271.88 | 203.91 | 0.8 | 9.8 |\n| XLK    | 241.65 | BUY    | 289.98 | 217.49 | 0.8 | 9.7 |\n| GDX    | 53.01 | BUY    | 63.61 | 47.71 | 0.7 | 9.5 |', 'watchlist_etfs': 'SMH, SOXX, XLK, GDX, SLV, ARKQ, QQQ, XLF, XLI, XLE, XLV'}, {'picked reasons': 'Continued momentum in tech and semiconductor ETFs, slight pullback in precious metals but strong fundamentals remain, and high RSI/volume indicators support bullish trends.', 'tabulate_news': '| Symbol | News | Source |\n|--------|------|--------|\n| QQQ    | Tech-heavy QQQ benefits from AI boom | CNBC |\n| GDX    | Gold miners ETF GDX rises on safe-haven demand | Kitco |', 'hour': '01:00:00', 'significant_news': 'Tech-heavy QQQ benefits from AI boom as of 2025-06-19. Source: CNBC. Gold miners ETF GDX rises on safe-haven demand as of 2025-06-19. Source: Kitco.', 'tabulate_etfs': '| Symbol | Momentum | RSI | Volume | Trend |\n|--------|----------|-----|--------|-------|\n| QQQ    | High     | 72.0 | 1.4x avg | Bullish |\n| ARKQ   | High     | 71.0 | 1.3x avg | Bullish |\n| XLF    | Moderate | 68.0 | 1.2x avg | Bullish |\n| XLI    | Moderate | 67.0 | 1.1x avg | Bullish |\n| SLV    | Extreme  | 74.0 | 1.6x avg | Bullish |', 'tabulate_watchlist': '| Symbol | Price | Action | Reason |\n|--------|-------|--------|--------|\n| QQQ    | 450.0 | BUY    | Tech sector strength, AI boom |\n| ARKQ   | 83.44 | BUY    | Robotics and AI growth |\n| XLF    | 40.0 | BUY    | Financial sector strength |\n| XLI    | 120.0 | BUY    | Industrial sector strength |\n| SLV    | 33.27 | BUY    | Industrial demand, silver price rise |', 'suggested_actions': 'Hold positions in SMH, SOXX, XLK. Consider adding to QQQ and ARKQ on pullbacks. Watch SLV and GDX for re-entry.', 'summary': 'Momentum continues in tech and semiconductor ETFs. Precious metals show slight pullback but remain strong. Monitor for potential re-entry points in SLV and GDX.', 'tabulate_actions': '| Symbol | Action | Price | Target | Stop | Size | Confidence |\n|--------|--------|-------|--------|------|------|------------|\n| QQQ    | BUY    | 450.0 | 540.0 | 405.0 | 0.6 | 9.3 |\n| ARKQ   | BUY    | 83.44 | 100.13 | 75.1 | 0.7 | 9.6 |\n| XLF    | BUY    | 40.0 | 48.0 | 36.0 | 0.6 | 9.2 |\n| XLI    | BUY    | 120.0 | 144.0 | 108.0 | 0.6 | 9.1 |', 'tabulate_sells': '| Symbol | Price | Action | Target | Stop | Size | Confidence |\n|--------|-------|--------|--------|------|------|------------|\n| SLV    | 33.27 | BUY    | 36.6 | 31.5 | 0.8 | 10.0 |\n| GDX    | 53.01 | BUY    | 63.61 | 47.71 | 0.7 | 9.5 |', 'tabulate_buys': '| Symbol | Price | Action | Target | Stop | Size | Confidence |\n|--------|-------|--------|--------|------|------|------------|\n| QQQ    | 450.0 | BUY    | 540.0 | 405.0 | 0.6 | 9.3 |\n| ARKQ   | 83.44 | BUY    | 100.13 | 75.1 | 0.7 | 9.6 |\n| XLF    | 40.0 | BUY    | 48.0 | 36.0 | 0.6 | 9.2 |\n| XLI    | 120.0 | BUY    | 144.0 | 108.0 | 0.6 | 9.1 |', 'watchlist_etfs': 'SMH, SOXX, XLK, GDX, SLV, ARKQ, QQQ, XLF, XLI, XLE, XLV'}]}, 'buy_signals': 11, 'updated_on': '2025-06-19T04:45:47.724573'}
 
-#### **9:00 AM - 10:00 AM: Early Momentum Plays**  
-- **Primary Action:** Open bullish positions in **XLE (80% size)** and **ARKK (70% size)**.  
-  - **XLE:** Energy sector surge (770.1% 1h momentum, RSI 41). Buy calls at $88.67, target $95, stop $85.  
-  - **ARKK:** Extreme momentum (1083.9% 1h). Buy calls at $63.91, target $70, stop $60.  
-- **Secondary:** Monitor **TECL** for entry if momentum holds above $81.  
-
-#### **10:00 AM - 11:00 AM: Tech & Semiconductors**  
-- **Primary Action:** Add **SOXX (60% size)** and **SMH (50% size)**.  
-  - **SOXX:** Semiconductor demand spike (2300.7% 4h momentum). Buy calls at $225.62, target $240, stop $215.  
-  - **SMH:** Sector outperformance (2385.3% 4h momentum). Buy calls at $261.54, target $280, stop $250.  
-- **Avoid:** SLV (overbought RSI 70.8). Consider short puts if pullback begins.  
-
-#### **11:00 AM - 12:00 PM: High-Conviction Rebounds**  
-- **Primary Action:** Enter **TECL (70% size)** and **ARKQ (60% size)**.  
-  - **TECL:** Tech rally (4815.5% 4h momentum). Buy calls at $81.10, target $90, stop $77.  
-  - **ARKQ:** Robotics traction (1728.9% 4h momentum). Buy calls at $82.97, target $90, stop $78.  
-
-#### **12:00 PM - 1:00 PM: Energy & Commodities**  
-- **Primary Action:** Add **UNG (50% size)**.  
-  - **UNG:** Natural gas surge (452% 4h momentum, RSI 21.1). Buy calls at $17.58, target $19, stop $16.50.  
-- **Monitor:** XLE for follow-through.  
-
-#### **1:00 PM - 2:00 PM: Midday Adjustments**  
-- **Trim:** Partial profits on XLE and ARKK if targets near.  
-- **Watch:** VIX for volatility spikes (potential hedge with SPY puts).  
-
-#### **2:00 PM - 3:00 PM: Late-Day Opportunities**  
-- **Primary Action:** Enter **QTUM (50% size)**.  
-  - **QTUM:** Quantum computing hype (1747.3% 4h momentum). Buy calls at $88.34, target $110, stop $80.  
-- **Avoid:** SLV remains overbought; no new longs.  
-
-#### **3:00 PM - 4:00 PM: Closing Actions**  
-- **Exit:** All positions not meeting targets (tighten stops to lock gains).  
-- **Hedge:** Consider SPY puts if VIX rises above 23.  
-
----
-
-### **Key Risks & Adjustments**  
-- **Stop-Losses:** Tighten to 1-2% below entry if momentum fades.  
-- **News Triggers:** Oil/tech headlines may accelerate moves in XLE/TECL.  
-- **VIX Spike:** Shift to inverse ETFs (SQQQ, SDS) if VIX > 23.  
-
-**Position Sizing Summary:**  
-| ETF  | Size | Target | Stop  |  
-|------|------|--------|-------|  
-| XLE  | 80%  | $95    | $85   |  
-| ARKK | 70%  | $70    | $60   |  
-| TECL | 70%  | $90    | $77   |  
-| SOXX | 60%  | $240   | $215  |  
+Please check back later for updated ETF options strategies.
