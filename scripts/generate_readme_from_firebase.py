@@ -188,8 +188,9 @@ def ask_llm_to_generate_readme_content(latest_etf_signal:Union[Dict, str])->str:
             presence_penalty=0.0,
         )
         # current_est_time = datetime.now(pytz.timezone('US/Eastern')).strftime("%Y-%m-%d %H:%M:%S")
-        readme_src = "\n".join(response.choices[0].message.content[:-3].split("\n")[1:-1])
-        return readme_src
+        response_json = json.loads(response.choices[0].message.content[:-3].split("\n")[1:-1])
+        readme_src_for_github = json.dumps(response_json, indent=4)
+        return readme_src_for_github
         
     except Exception as e:
         logger.error(f"Error calling DeepSeek API: {str(e)}")
