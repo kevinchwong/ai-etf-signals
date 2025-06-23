@@ -287,6 +287,8 @@ Please check back later for updated ETF options strategies.
         readme_content = """
 # AI ETF Signals
 
+### Disclaimer: This is for educational purposes. Trading involves risk — you can lose money. Do your own research and trade responsibly.
+
 ![image](https://github.com/kevinchwong/ai-etf-signals/blob/main/images/architecture_1024.jpeg)
 
 """ + readme_content
@@ -295,6 +297,8 @@ Please check back later for updated ETF options strategies.
         logger.error(f"Failed to generate content from LLM: {e}")
         logger.info("Falling back to default content")
         return f"""# AI ETF Signals
+    
+### Disclaimer: This is for educational purposes. Trading involves risk — you can lose money. Do your own research and trade responsibly.
 
 ![image](https://github.com/kevinchwong/ai-etf-signals/blob/main/images/architecture_1024.jpeg)
 
