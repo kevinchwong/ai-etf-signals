@@ -183,6 +183,17 @@ def ask_llm_to_generate_readme_content(latest_etf_signal:Union[Dict, str], buy_s
     With the following prediction data:
     {serializable_signal}
     
+    All decisions should be based on the prediction data.
+    If the prediction data is not available, do not make any decisions.
+    
+    Decisions should be:
+    - Open new position (buy)
+    - Close existing position (sell)
+    - Hold existing position (do nothing)
+    - Open new Call option (buy call)
+    - Close existing Call option (sell call)
+    - Do nothing
+        
     With full explanation and reasoning on the decision. 
     Clear instructions.
     Output in markdown format.
@@ -286,6 +297,8 @@ Please check back later for updated ETF options strategies.
         logger.info("Successfully generated README content from LLM")
         readme_content = """
 # AI ETF Signals
+
+🚀 AI-Powered ETF Trading Signals | 💰 Low maintenance cost | ✅ Effective | 🏆 Institutional-Grade 3-Step Strategy with 🤖 Multi-LLM Validation | 📈 Real-Time Market Analysis | 📊 Portfolio Optimization | 🌐 With Chinese Translation
 
 ### Disclaimer: This is for educational purposes. Trading involves risk — you can lose money. Do your own research and trade responsibly.
 
