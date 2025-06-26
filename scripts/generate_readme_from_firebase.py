@@ -195,6 +195,7 @@ def ask_llm_to_generate_readme_content(latest_etf_signal:Union[Dict, str], buy_s
     - Do nothing
         
     With full explanation and reasoning on the decision. 
+    You can use inverted symbol if it is a good idea.
     Clear instructions.
     Output in markdown format.
     No fluff.
