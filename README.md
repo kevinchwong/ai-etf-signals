@@ -1,142 +1,184 @@
 
 # AI ETF Signals
 
-![image](https://github.com/kevinchwong/ai-etf-signals/blob/main/images/architecture.svg)
+🚀 AI-Powered ETF Trading Signals | 💰 Low maintenance cost | ✅ Effective | 🏆 Institutional-Grade 3-Step Strategy with 🤖 Multi-LLM Validation | 📈 Real-Time Market Analysis | 📊 Portfolio Optimization | 🌐 With Chinese Translation
 
-# ETF Options Strategy Report  
-**Market Context:** Bear Momentum (VIX 20.62)  
-**Timeframe:** Next Trading Day (9:00 AM - 4:00 PM EST)  
+### Disclaimer: This is for educational purposes. Trading involves risk — you can lose money. Do your own research and trade responsibly.
 
----
+![image](https://github.com/kevinchwong/ai-etf-signals/blob/main/images/architecture_1024.jpeg)
 
-### **Key Strategic Themes**  
-1. **Defensive Focus:** Prioritize oversold defensive sectors (XLU, XLP).  
-2. **Selective Upside:** Target ETFs with strong 4h momentum (SMH, IEF).  
-3. **Bear Market Hedges:** Short overbought assets (XLE, GLD).  
-4. **Risk Management:** Tight stops (1-2% below entry) and reduced position sizes (≤0.3x).  
+### Hour-by-Hour ETF Options Strategy (9:00 AM - 4:00 PM EST)
+
+#### **Market Context (Bear Momentum, VIX: 20.62)**
+- **Key Trends**: Mixed signals across ETFs, defensive sectors oversold (XLU, XLP), overbought conditions in XLE/GLD.
+- **Risk**: Moderate volatility. Tight stops and reduced position sizes recommended.
 
 ---
 
-### **Hour-by-Hour Execution Plan**  
-
-#### **9:00 AM - 10:00 AM: Early Session Positioning**  
-- **Buy XLU** (Utilities)  
-  - *Reason:* Oversold (RSI 30.1), defensive sector.  
-  - *Action:* Buy ATM calls (July expiry), stop @ $79.0 (2% below entry).  
-- **Sell XLE** (Energy)  
-  - *Reason:* Overbought (RSI 69.5), extreme momentum exhaustion.  
-  - *Action:* Buy ATM puts, stop @ $90.0 (1.5% above entry).  
-
-#### **10:00 AM - 12:00 PM: Momentum Plays**  
-- **Buy SMH** (Semiconductors)  
-  - *Reason:* Low RSI (43.5), strong 4h momentum (712.5%).  
-  - *Action:* Buy OTM calls (strike $265), stop @ $252.0.  
-- **Sell GLD** (Gold)  
-  - *Reason:* Overbought (RSI 77.9), profit-taking likely.  
-  - *Action:* Buy OTM puts (strike $300), stop @ $313.0.  
-
-#### **12:00 PM - 2:00 PM: Midday Adjustments**  
-- **Hold QQQ** (Nasdaq 100)  
-  - *Reason:* Mixed signals (1h negative, 4h positive).  
-  - *Action:* No new trades; monitor for breakout above $540.  
-- **Buy IEF** (Bonds)  
-  - *Reason:* Hedge with neutral RSI (45.0), positive momentum.  
-  - *Action:* Buy ITM calls (strike $93.5), stop @ $93.0.  
-
-#### **2:00 PM - 4:00 PM: Closing Discipline**  
-- **Trim Winners:** Close 50% of XLU/SMH if targets hit (XLU @ $85, SMH @ $265).  
-- **Stop Checks:** Tighten stops to breakeven on remaining positions.  
-- **Avoid New Entries:** Reduce exposure ahead of close due to bear market volatility.  
+### **9:00 AM - 10:00 AM**  
+**Actions**:  
+1. **Buy XLU Call Options** (Strike: 85, Expiry: Weekly)  
+   - **Reason**: Oversold RSI (23.5), defensive sector strength.  
+   - **Size**: 0.25x portfolio. Stop: 79.0 (5% below entry).  
+2. **Sell XLE Put Options** (Strike: 85, Expiry: Weekly)  
+   - **Reason**: Overbought RSI (69.5), profit from potential pullback.  
+   - **Size**: 0.2x portfolio. Stop: 90.0 (1.2% above entry).  
 
 ---
 
-### **Risk Management**  
-- **Position Sizing:** 0.2-0.3x capital per trade.  
-- **Stop-Loss Rules:**  
-  - Longs: 1.5-2% below entry.  
-  - Shorts: 1-1.5% above entry.  
-- **Max Daily Drawdown:** 2% of portfolio.  
+### **10:00 AM - 11:00 AM**  
+**Actions**:  
+1. **Buy SMH Call Options** (Strike: 265, Expiry: Weekly)  
+   - **Reason**: Low RSI (43.5), strong 4h momentum.  
+   - **Size**: 0.3x portfolio. Stop: 252.0 (3% below entry).  
+2. **Hold IEF**  
+   - **Reason**: Neutral RSI (45.0), hedge against bear market.  
 
 ---
 
-### **Conflicts & Resolutions**  
-| Conflict | Resolution |  
-|----------|------------|  
-| XLE overbought but strong momentum | Short with tight stop (90.0) to cap risk. |  
-| QQQ mixed signals | Hold; await clearer trend confirmation. |  
-| GLD overbought in bear market | Short with reduced size (0.4x). |  
+### **11:00 AM - 12:00 PM**  
+**Actions**:  
+1. **Sell GLD Call Options** (Strike: 300, Expiry: Weekly)  
+   - **Reason**: Overbought RSI (77.9), extreme momentum exhaustion.  
+   - **Size**: 0.2x portfolio. Stop: 313.0 (1.5% above entry).  
+2. **Hold SPY/QQQ**  
+   - **Reason**: Mixed signals (neutral RSI, conflicting momentum).  
 
-**Rationale:** Bear markets favor defensive/oversold assets and punish overextended rallies. Tight risk controls are critical.  
+---
+
+### **12:00 PM - 1:00 PM**  
+**Actions**:  
+1. **Buy XLP Call Options** (Strike: 85, Expiry: Weekly)  
+   - **Reason**: Extreme oversold RSI (23.5), defensive sector.  
+   - **Size**: 0.25x portfolio. Stop: 79.0 (5% below entry).  
+2. **Monitor VIX**  
+   - **Reason**: Hold (oversold RSI 19.5), but bear market limits upside.  
+
+---
+
+### **1:00 PM - 2:00 PM**  
+**Actions**:  
+1. **Sell XLV Call Options** (Strike: 125, Expiry: Weekly)  
+   - **Reason**: Negative momentum, RSI nearing overbought (62.8).  
+   - **Size**: 0.15x portfolio. Stop: 135.0 (3% above entry).  
+2. **Hold EFA**  
+   - **Reason**: Neutral RSI (57.2), mixed momentum.  
+
+---
+
+### **2:00 PM - 3:00 PM**  
+**Actions**:  
+1. **Close XLE Puts** (if profit &gt;5%)  
+   - **Reason**: Lock gains if pullback occurs.  
+2. **Hold Defensive Positions (XLU, XLP, IEF)**  
+   - **Reason**: Bear market favors defensive assets.  
+
+---
+
+### **3:00 PM - 4:00 PM**  
+**Actions**:  
+1. **Trim SMH Calls** (if profit &gt;8%)  
+   - **Reason**: Secure gains before close.  
+2. **Review All Stops**  
+   - **Adjust**: Tighten stops on winning positions (e.g., XLU to 82.0).  
+
+---
+
+### **Key Rationale**  
+- **Defensive Focus**: XLU/XLP calls capitalize on oversold conditions.  
+- **Overbought Fades**: XLE/GLD options target reversals.  
+- **Risk Control**: Stops at 1-5% levels, reduced sizes (0.15-0.3x).  
+
+**No New Trades After 3:30 PM** – Avoid overnight risk in bear market.  
 
 
 ---
 
 ## 中文版策略 (Chinese Version)
 
-# ETF期权策略报告  
-**市场环境：** 熊市动量（VIX 20.62）  
-**时间范围：** 下一个交易日（美东时间上午9:00 - 下午4:00）  
+### 按小时ETF期权交易策略（美东时间9:00-16:00）
+
+#### **市场环境（空头动量，VIX指数：20.62）**
+- **关键趋势**：ETF走势分化，防御性板块超卖（XLU、XLP），XLE/GLD出现超买
+- **风险提示**：中等波动率，建议设置紧密止损并减少头寸规模
 
 ---
 
-### **核心策略主题**  
-1. **防御性重点：** 优先考虑超卖的防御性板块（XLU公用事业、XLP必需消费品）  
-2. **选择性做多：** 瞄准4小时动量强劲的ETF（SMH半导体、IEF债券）  
-3. **熊市对冲：** 做空超买资产（XLE能源、GLD黄金）  
-4. **风险管理：** 紧止损（入场价下方1-2%）和缩小头寸规模（≤0.3倍）  
+### **9:00 - 10:00**  
+**操作指令**：  
+1. **买入XLU看涨期权**（行权价85，周期权）  
+   - **依据**：RSI超卖（23.5），防御板块走强  
+   - **仓位**：0.25倍本金，止损79.0（入场价下方5%）  
+2. **卖出XLE看跌期权**（行权价85，周期权）  
+   - **依据**：RSI超买（69.5），押注回调获利  
+   - **仓位**：0.2倍本金，止损90.0（入场价上方1.2%）  
 
 ---
 
-### **分时段执行计划**  
-
-#### **上午9:00 - 10:00：早盘布局**  
-- **买入XLU**（公用事业）  
-  - *理由：* 超卖（RSI 30.1），防御性板块  
-  - *操作：* 买入平值看涨期权（7月到期），止损@79.0美元（入场价下方2%）  
-- **做空XLE**（能源）  
-  - *理由：* 超买（RSI 69.5），动量极度衰竭  
-  - *操作：* 买入平值看跌期权，止损@90.0美元（入场价上方1.5%）  
-
-#### **上午10:00 - 12:00：动量交易**  
-- **买入SMH**（半导体）  
-  - *理由：* RSI低位（43.5），4小时动量强劲（712.5%）  
-  - *操作：* 买入虚值看涨期权（行权价265美元），止损@252.0美元  
-- **做空GLD**（黄金）  
-  - *理由：* 超买（RSI 77.9），可能获利回吐  
-  - *操作：* 买入虚值看跌期权（行权价300美元），止损@313.0美元  
-
-#### **中午12:00 - 下午2:00：盘中调整**  
-- **持有QQQ**（纳斯达克100）  
-  - *理由：* 信号矛盾（1小时负面，4小时正面）  
-  - *操作：* 不开新仓；监测540美元上方突破机会  
-- **买入IEF**（债券）  
-  - *理由：* RSI中性（45.0）的对冲工具，动量转正  
-  - *操作：* 买入实值看涨期权（行权价93.5美元），止损@93.0美元  
-
-#### **下午2:00 - 4:00：收盘纪律**  
-- **止盈减仓：** 若达到目标价（XLU@85美元、SMH@265美元）则平仓50%  
-- **止损检查：** 将剩余头寸止损调整至盈亏平衡点  
-- **避免新建仓位：** 因熊市波动性，收盘前减少风险暴露  
+### **10:00 - 11:00**  
+**操作指令**：  
+1. **买入SMH看涨期权**（行权价265，周期权）  
+   - **依据**：RSI低位（43.5），4小时线强势动量  
+   - **仓位**：0.3倍本金，止损252.0（入场价下方3%）  
+2. **持有IEF**  
+   - **依据**：RSI中性（45.0），作为熊市对冲  
 
 ---
 
-### **风险管理**  
-- **头寸规模：** 每笔交易占用资金0.2-0.3倍  
-- **止损规则：**  
-  - 多头：入场价下方1.5-2%  
-  - 空头：入场价上方1-1.5%  
-- **单日最大回撤：** 组合总值的2%  
+### **11:00 - 12:00**  
+**操作指令**：  
+1. **卖出GLD看涨期权**（行权价300，周期权）  
+   - **依据**：RSI严重超买（77.9），动量衰竭  
+   - **仓位**：0.2倍本金，止损313.0（入场价上方1.5%）  
+2. **持有SPY/QQQ**  
+   - **依据**：信号矛盾（RSI中性，动量指标分歧）  
 
 ---
 
-### **冲突与解决方案**  
-| 冲突点 | 解决方案 |  
-|--------|----------|  
-| XLE超买但动量强劲 | 设置紧止损（90.0）做空以控制风险 |  
-| QQQ信号矛盾 | 保持观望，等待趋势确认 |  
-| 熊市中GLD超买 | 缩小做空规模至0.4倍 |  
+### **12:00 - 13:00**  
+**操作指令**：  
+1. **买入XLP看涨期权**（行权价85，周期权）  
+   - **依据**：RSI极端超卖（23.5），防御性板块  
+   - **仓位**：0.25倍本金，止损79.0（入场价下方5%）  
+2. **监控VIX**  
+   - **依据**：虽RSI超卖（19.5），但熊市限制上行空间  
 
-**策略逻辑：** 熊市环境下防御性/超卖资产占优，过度上涨品种易受打压。严格的风险控制至关重要。
+---
+
+### **13:00 - 14:00**  
+**操作指令**：  
+1. **卖出XLV看涨期权**（行权价125，周期权）  
+   - **依据**：负向动量，RSI接近超买（62.8）  
+   - **仓位**：0.15倍本金，止损135.0（入场价上方3%）  
+2. **持有EFA**  
+   - **依据**：RSI中性（57.2），动量指标混杂  
+
+---
+
+### **14:00 - 15:00**  
+**操作指令**：  
+1. **平仓XLE看跌期权**（若盈利&gt;5%）  
+   - **依据**：若出现回调则锁定收益  
+2. **持有防御性头寸（XLU/XLP/IEF）**  
+   - **依据**：熊市利好防御资产  
+
+---
+
+### **15:00 - 16:00**  
+**操作指令**：  
+1. **减持SMH看涨期权**（若盈利&gt;8%）  
+   - **依据**：收盘前锁定利润  
+2. **复核所有止损位**  
+   - **调整**：收紧盈利头寸止损（如XLU调整至82.0）  
+
+---
+
+### **核心逻辑**  
+- **防御优先**：通过XLU/XLP看涨期权捕捉超卖机会  
+- **超买反转**：XLE/GLD期权押注价格回调  
+- **风控措施**：1-5%止损区间，轻仓操作（0.15-0.3倍本金）  
+
+**15:30后禁止新建仓位**——规避熊市隔夜风险
 
 
 

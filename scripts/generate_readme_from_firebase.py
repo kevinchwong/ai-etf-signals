@@ -198,6 +198,41 @@ def ask_llm_to_generate_readme_content(latest_etf_signal:Union[Dict, str], buy_s
     Clear instructions.
     Output in markdown format.
     No fluff.
+    
+    Example output for the hour by hour strategy section:
+
+# **ETF Options Strategy for Next Trading Day (9AM - 4PM EST)**  
+**Market Context:** Bear Momentum | **VIX:** 20.62 (Moderate Volatility)  
+
+### **Key Strategic Recommendations**  
+1. **Focus on defensive sectors (XLU, XLP, IEF)** due to oversold conditions.  
+2. **Sell overbought ETFs (GLD, XLE, XLV)** to capitalize on pullbacks.  
+3. **Hold mixed-signal ETFs (SPY, QQQ, EFA)** until clearer trends emerge.  
+4. **Tighten stop-losses** across all positions to mitigate bear market risks.  
+
+---
+
+## **Hour-by-Hour Trading Plan**  
+
+### **9:00 AM - 10:00 AM (Market Open)**
+- **Action:** Buy **XLU** (Utilities)  
+  - **Reason:** Oversold (RSI 30.1), defensive sector, strong 4h momentum.  
+  - **Option Strategy:** Buy **XLU $80 Calls (Exp: 1-3 days out)**  
+  - **Stop-Loss:** $79.0  
+
+- **Action:** Sell **GLD** (Gold)  
+  - **Reason:** Overbought (RSI 77.9), excessive momentum suggests pullback.  
+  - **Option Strategy:** Sell **GLD $310 Calls (Exp: 1-3 days out)**  
+  - **Stop-Loss:** $313.0  
+
+### **10:00 AM - 11:00 AM**  
+- **Action:** Buy **XLP** (Consumer Staples)  
+  - **Reason:** Extreme oversold (RSI 23.5), defensive hedge.  
+  - **Option Strategy:** Buy **XLP $82 Calls (Exp: 1-3 days out)**  
+  - **Stop-Loss:** $79.0 
+
+  ...
+  
     """
     
     try:
