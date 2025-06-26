@@ -216,21 +216,24 @@ def ask_llm_to_generate_readme_content(latest_etf_signal:Union[Dict, str], buy_s
 ## **Hour-by-Hour Trading Plan**  
 
 ### **9:00 AM - 10:00 AM (Market Open)**
-- **Action:** Buy **XLU** (Utilities)  
-  - **Reason:** Oversold (RSI 30.1), defensive sector, strong 4h momentum.  
-  - **Option Strategy:** Buy **XLU $80 Calls (Exp: 1-3 days out)**  
-  - **Stop-Loss:** $79.0  
+- **Action:** Buy **XLU** (Utilities)
+    - **Confidence:** 0.8
+    - **Reason:** Oversold (RSI 30.1), defensive sector, strong 4h momentum.  
+    - **Option Strategy:** Buy **XLU $80 Calls (Exp: 1-3 days out)**  
+    - **Stop-Loss:** $79.0  
 
 - **Action:** Sell **GLD** (Gold)  
-  - **Reason:** Overbought (RSI 77.9), excessive momentum suggests pullback.  
-  - **Option Strategy:** Sell **GLD $310 Calls (Exp: 1-3 days out)**  
-  - **Stop-Loss:** $313.0  
+    - **Confidence:** 0.7
+    - **Reason:** Overbought (RSI 77.9), excessive momentum suggests pullback.  
+    - **Option Strategy:** Sell **GLD $310 Calls (Exp: 1-3 days out)**  
+    - **Stop-Loss:** $313.0  
 
 ### **10:00 AM - 11:00 AM**  
 - **Action:** Buy **XLP** (Consumer Staples)  
-  - **Reason:** Extreme oversold (RSI 23.5), defensive hedge.  
-  - **Option Strategy:** Buy **XLP $82 Calls (Exp: 1-3 days out)**  
-  - **Stop-Loss:** $79.0 
+    - **Confidence:** 0.9
+    - **Reason:** Extreme oversold (RSI 23.5), defensive hedge.  
+    - **Option Strategy:** Buy **XLP $82 Calls (Exp: 1-3 days out)**  
+    - **Stop-Loss:** $79.0 
 
   ...
   
