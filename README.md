@@ -11,231 +11,187 @@
 **Market Context:** Bull Momentum | **VIX:** 16.59 (Low Volatility)  
 
 ### **Key Strategic Recommendations**  
-1. **Focus on high-conviction tech/industrial ETFs (XLK, XLI, SOXX, SMH)** with strong momentum and oversold RSI.  
+1. **Focus on high-conviction tech/industrial ETFs (XLK, XLE, SOXX, XLI)** with strong momentum and oversold RSI.  
 2. **Hold defensive positions (XLP, GLD, XLU)** for portfolio balance.  
-3. **Sell bond ETFs (TLT, IEF)** due to overbought conditions in a bull market.  
-4. **Use tight stop-losses** to lock in gains while allowing upside.  
+3. **Sell bonds (TLT, IEF)** due to overbought conditions in a rising rate environment.  
+4. **Use tight stop-losses** to lock in gains while allowing upside in strong trends.  
 
 ---
 
 ## **Hour-by-Hour Trading Plan**  
 
-### **9:00 AM - 10:00 AM (Market Open)**
+### **9:00 AM - 10:00 AM (Market Open)**  
 - **Action:** Buy **XLK** (Technology)  
-    - **Confidence:** 0.9  
-    - **Reason:** Oversold (RSI 35.4), strongest sector momentum, 4.0 risk/reward.  
-    - **Option Strategy:** Buy **XLK $255 Calls (Exp: 1-3 days out)**  
-    - **Stop-Loss:** $245.0  
+  - **Confidence:** 0.9  
+  - **Reason:** Oversold RSI (35.4), strongest sector momentum, bull market leader.  
+  - **Option Strategy:** Buy **XLK $255 Calls (Exp: 1-3 days out)**  
+  - **Stop-Loss:** $245.0  
 
-- **Action:** Buy **XLI** (Industrials)  
-    - **Confidence:** 0.85  
-    - **Reason:** Oversold (RSI 32.3), macro support, 3.0 risk/reward.  
-    - **Option Strategy:** Buy **XLI $150 Calls (Exp: 1-3 days out)**  
-    - **Stop-Loss:** $142.0  
-
-- **Action:** Sell **IEF** (7-10 Year Treasuries)  
-    - **Confidence:** 0.85  
-    - **Reason:** Overbought (RSI 75.0), bearish in bull market.  
-    - **Option Strategy:** Buy **IEF $92.5 Puts (Exp: 1-3 days out)**  
-    - **Stop-Loss:** $96.5  
+- **Action:** Buy **XLE** (Energy)  
+  - **Confidence:** 0.85  
+  - **Reason:** Strong commodity tailwinds, RSI (56.8) not overbought.  
+  - **Option Strategy:** Buy **XLE $87 Calls (Exp: 1-3 days out)**  
+  - **Stop-Loss:** $82.0  
 
 ### **10:00 AM - 11:00 AM**  
 - **Action:** Buy **SOXX** (Semiconductors)  
-    - **Confidence:** 0.85  
-    - **Reason:** Oversold (RSI 35.5), sector growth, 3.75 risk/reward.  
-    - **Option Strategy:** Buy **SOXX $245 Calls (Exp: 1-3 days out)**  
-    - **Stop-Loss:** $235.0  
+  - **Confidence:** 0.85  
+  - **Reason:** Oversold RSI (35.5), sector growth catalysts.  
+  - **Option Strategy:** Buy **SOXX $245 Calls (Exp: 1-3 days out)**  
+  - **Stop-Loss:** $235.0  
 
-- **Action:** Buy **EEM** (Emerging Markets)  
-    - **Confidence:** 0.9  
-    - **Reason:** Deeply oversold (RSI 24.7), rebound potential.  
-    - **Option Strategy:** Buy **EEM $50 Calls (Exp: 1-3 days out)**  
-    - **Stop-Loss:** $47.0  
+- **Action:** Sell **IEF** (7-10Y Treasuries)  
+  - **Confidence:** 0.85  
+  - **Reason:** Overbought RSI (75.0), bearish in rising rate environment.  
+  - **Option Strategy:** Buy **IEF $94 Puts (Exp: 1-3 days out)**  
+  - **Stop-Loss:** $96.5  
 
 ### **11:00 AM - 12:00 PM**  
-- **Action:** Buy **XLE** (Energy)  
-    - **Confidence:** 0.85  
-    - **Reason:** Strong momentum (RSI 56.8), commodity tailwinds.  
-    - **Option Strategy:** Buy **XLE $90 Calls (Exp: 1-3 days out)**  
-    - **Stop-Loss:** $82.0  
+- **Action:** Buy **XLI** (Industrials)  
+  - **Confidence:** 0.85  
+  - **Reason:** Oversold RSI (32.3), cyclical sector benefiting from bull market.  
+  - **Option Strategy:** Buy **XLI $148 Calls (Exp: 1-3 days out)**  
+  - **Stop-Loss:** $142.0  
 
 - **Action:** Hold **XLP** (Consumer Staples)  
-    - **Confidence:** 0.8  
-    - **Reason:** Oversold (RSI 38.3), defensive hedge.  
-    - **Option Strategy:** Hold existing calls.  
+  - **Confidence:** 0.8  
+  - **Reason:** Oversold RSI (38.3), defensive hedge against potential rotation.  
 
 ### **12:00 PM - 1:00 PM**  
 - **Action:** Buy **QTUM** (Quantum Computing)  
-    - **Confidence:** 0.8  
-    - **Reason:** Extremely oversold (RSI 28.7), high rebound potential.  
-    - **Option Strategy:** Buy **QTUM $93 Calls (Exp: 1-3 days out)**  
-    - **Stop-Loss:** $87.0  
+  - **Confidence:** 0.8  
+  - **Reason:** Extremely oversold RSI (28.7), high rebound potential.  
+  - **Option Strategy:** Buy **QTUM $93 Calls (Exp: 1-3 days out)**  
+  - **Stop-Loss:** $87.0  
 
-- **Action:** Sell **TLT** (20+ Year Treasuries)  
-    - **Confidence:** 0.75  
-    - **Reason:** Overbought (RSI 57.9), negative 4h momentum.  
-    - **Option Strategy:** Buy **TLT $84.5 Puts (Exp: 1-3 days out)**  
-    - **Stop-Loss:** $89.0  
+- **Action:** Monitor **ARKK**  
+  - **Note:** RSI approaching overbought (62.1) - wait for pullback before adding.  
 
 ### **1:00 PM - 2:00 PM**  
-- **Action:** Buy **GDX** (Gold Miners)  
-    - **Confidence:** 0.75  
-    - **Reason:** Oversold (RSI 42.6), gold hedge.  
-    - **Option Strategy:** Buy **GDX $54 Calls (Exp: 1-3 days out)**  
-    - **Stop-Loss:** $51.0  
-
-- **Action:** Hold **SPY** (S&P 500)  
-    - **Confidence:** 0.95  
-    - **Reason:** Broad market bullish, tight stop.  
-    - **Option Strategy:** Hold existing calls.  
+- **Action:** Buy **EEM** (Emerging Markets)  
+  - **Confidence:** 0.9  
+  - **Reason:** Deeply oversold RSI (24.7), strong 4h momentum.  
+  - **Option Strategy:** Buy **EEM $49 Calls (Exp: 1-3 days out)**  
+  - **Stop-Loss:** $47.0  
 
 ### **2:00 PM - 3:00 PM**  
-- **Action:** Buy **XLRE** (Real Estate)  
-    - **Confidence:** 0.75  
-    - **Reason:** Oversold (RSI 41.7), sector recovery.  
-    - **Option Strategy:** Buy **XLRE $42 Calls (Exp: 1-3 days out)**  
-    - **Stop-Loss:** $40.0  
+- **Action:** Buy **GDX** (Gold Miners)  
+  - **Confidence:** 0.75  
+  - **Reason:** Oversold RSI (42.6), gold hedge.  
+  - **Option Strategy:** Buy **GDX $54 Calls (Exp: 1-3 days out)**  
+  - **Stop-Loss:** $51.0  
 
-- **Action:** Hold **GLD** (Gold)  
-    - **Confidence:** 0.7  
-    - **Reason:** Oversold (RSI 39.0), portfolio hedge.  
-    - **Option Strategy:** Hold existing calls.  
+### **3:00 PM - 4:00 PM (Close)**  
+- **Action:** Tighten stops on all positions to lock in gains.  
+- **Action:** Sell **TLT** (20+Y Treasuries) if not already done.  
+  - **Confidence:** 0.75  
+  - **Reason:** Rising rate risk, negative momentum.  
+  - **Option Strategy:** Buy **TLT $86 Puts (Exp: 1-3 days out)**  
+  - **Stop-Loss:** $89.0  
 
-### **3:00 PM - 4:00 PM (Market Close)**  
-- **Action:** Trim **ARKK** (Innovation)  
-    - **Confidence:** 0.55  
-    - **Reason:** Overbought RSI (62.1), reduce exposure.  
-    - **Option Strategy:** Sell **ARKK $75 Calls (Exp: 1-3 days out)**  
-    - **Stop-Loss:** $69.0  
+---
 
-- **Action:** Hold **VOO** (S&P 500)  
-    - **Confidence:** 0.8  
-    - **Reason:** Core bullish position, low volatility.  
-    - **Option Strategy:** Hold existing calls.  
+### **Portfolio Balance Notes**  
+- **Tech Exposure:** XLK (0.35), SOXX (0.25), QQQ (0.3) - Total 0.9 (within limits).  
+- **Hedges:** XLP (0.7), GLD (0.3) - Defensive allocation at 1.0.  
+- **Risk Management:** All positions have stops tightened vs. original signals.  
 
----  
-**Notes:**  
-- Prioritize high-conviction tech/industrial plays (XLK, XLI, SOXX).  
-- Use tight stops (2-3% below entry) to protect gains.  
-- Hedge with defensive ETFs (XLP, GLD) if volatility rises.  
-- Avoid overexposure to bonds (TLT, IEF) in bull market.
+**Key Risk:** Bull market continuation favors cyclicals, but overextension could prompt rotation. Defensive hedges (XLP/GLD) mitigate this.
 
 ---
 
 ## 中文版策略 (Chinese Version)
 
-# **ETF期权次日交易策略（美东时间9AM - 4PM）**  
-**市场环境：** 牛市动能 | **VIX恐慌指数：** 16.59（低波动率）  
+# **ETF期权次日交易策略（美东时间9AM-4PM）**  
+**市场环境：牛市动能 | 恐慌指数VIX：16.59（低波动率）**  
 
 ### **核心策略建议**  
-1. **聚焦高确定性科技/工业ETF（XLK、XLI、SOXX、SMH）**：具备强劲动能且RSI超卖  
-2. **持有防御性仓位（XLP、GLD、XLU）**：平衡投资组合  
-3. **抛售债券ETF（TLT、IEF）**：牛市环境下已超买  
-4. **设置严格止损**：锁定盈利同时保留上行空间  
+1. **重点布局高确定性科技/工业ETF（XLK、XLE、SOXX、XLI）**：选择动量强劲且RSI超卖的标的  
+2. **持有防御性仓位（XLP、GLD、XLU）**：平衡投资组合风险  
+3. **减持债券（TLT、IEF）**：加息环境下超买债券存在风险  
+4. **设置严格止损**：锁定盈利同时保留趋势上行空间  
 
 ---
 
 ## **分时段交易计划**  
 
-### **9:00 AM - 10:00 AM（开盘时段）**
-- **操作：** 买入 **XLK（科技板块）**  
-    - **置信度：** 0.9  
-    - **理由：** 超卖（RSI 35.4），最强板块动能，风险回报比4.0  
-    - **期权策略：** 买入 **XLK $255看涨期权（到期日：1-3天）**  
-    - **止损位：** $245.0  
+### **9:00 AM - 10:00 AM（开盘时段）**  
+- **操作：买入XLK（科技板块）**  
+  - **置信度：0.9**  
+  - **理由：RSI超卖（35.4），板块动量最强，牛市领涨品种**  
+  - **期权策略：买入XLK行权价255美元看涨期权（到期日：1-3天）**  
+  - **止损位：245.0美元**  
 
-- **操作：** 买入 **XLI（工业板块）**  
-    - **置信度：** 0.85  
-    - **理由：** 超卖（RSI 32.3），宏观面支撑，风险回报比3.0  
-    - **期权策略：** 买入 **XLI $150看涨期权（到期日：1-3天）**  
-    - **止损位：** $142.0  
-
-- **操作：** 卖出 **IEF（7-10年期国债）**  
-    - **置信度：** 0.85  
-    - **理由：** 超买（RSI 75.0），牛市环境下看空  
-    - **期权策略：** 买入 **IEF $92.5看跌期权（到期日：1-3天）**  
-    - **止损位：** $96.5  
+- **操作：买入XLE（能源板块）**  
+  - **置信度：0.85**  
+  - **理由：大宗商品利好支撑，RSI（56.8）未超买**  
+  - **期权策略：买入XLE行权价87美元看涨期权（到期日：1-3天）**  
+  - **止损位：82.0美元**  
 
 ### **10:00 AM - 11:00 AM**  
-- **操作：** 买入 **SOXX（半导体板块）**  
-    - **置信度：** 0.85  
-    - **理由：** 超卖（RSI 35.5），行业增长潜力，风险回报比3.75  
-    - **期权策略：** 买入 **SOXX $245看涨期权（到期日：1-3天）**  
-    - **止损位：** $235.0  
+- **操作：买入SOXX（半导体板块）**  
+  - **置信度：0.85**  
+  - **理由：RSI超卖（35.5），行业增长催化剂明确**  
+  - **期权策略：买入SOXX行权价245美元看涨期权（到期日：1-3天）**  
+  - **止损位：235.0美元**  
 
-- **操作：** 买入 **EEM（新兴市场）**  
-    - **置信度：** 0.9  
-    - **理由：** 深度超卖（RSI 24.7），反弹潜力大  
-    - **期权策略：** 买入 **EEM $50看涨期权（到期日：1-3天）**  
-    - **止损位：** $47.0  
+- **操作：卖出IEF（7-10年期国债）**  
+  - **置信度：0.85**  
+  - **理由：RSI超买（75.0），加息周期利空债券**  
+  - **期权策略：买入IEF行权价94美元看跌期权（到期日：1-3天）**  
+  - **止损位：96.5美元**  
 
 ### **11:00 AM - 12:00 PM**  
-- **操作：** 买入 **XLE（能源板块）**  
-    - **置信度：** 0.85  
-    - **理由：** 强劲动能（RSI 56.8），大宗商品顺风  
-    - **期权策略：** 买入 **XLE $90看涨期权（到期日：1-3天）**  
-    - **止损位：** $82.0  
+- **操作：买入XLI（工业板块）**  
+  - **置信度：0.85**  
+  - **理由：RSI超卖（32.3），周期性板块受益牛市**  
+  - **期权策略：买入XLI行权价148美元看涨期权（到期日：1-3天）**  
+  - **止损位：142.0美元**  
 
-- **操作：** 持有 **XLP（必需消费品）**  
-    - **置信度：** 0.8  
-    - **理由：** 超卖（RSI 38.3），防御性对冲  
-    - **期权策略：** 持有现有看涨期权  
+- **操作：持有XLP（必需消费品）**  
+  - **置信度：0.8**  
+  - **理由：RSI超卖（38.3），防御性配置应对潜在轮动**  
 
 ### **12:00 PM - 1:00 PM**  
-- **操作：** 买入 **QTUM（量子计算）**  
-    - **置信度：** 0.8  
-    - **理由：** 极度超卖（RSI 28.7），高反弹概率  
-    - **期权策略：** 买入 **QTUM $93看涨期权（到期日：1-3天）**  
-    - **止损位：** $87.0  
+- **操作：买入QTUM（量子计算）**  
+  - **置信度：0.8**  
+  - **理由：RSI严重超卖（28.7），反弹潜力大**  
+  - **期权策略：买入QTUM行权价93美元看涨期权（到期日：1-3天）**  
+  - **止损位：87.0美元**  
 
-- **操作：** 卖出 **TLT（20+年期国债）**  
-    - **置信度：** 0.75  
-    - **理由：** 超买（RSI 57.9），4小时图动能转负  
-    - **期权策略：** 买入 **TLT $84.5看跌期权（到期日：1-3天）**  
-    - **止损位：** $89.0  
+- **操作：监控ARKK**  
+  - **备注：RSI接近超买（62.1），等待回调后再加仓**  
 
 ### **1:00 PM - 2:00 PM**  
-- **操作：** 买入 **GDX（金矿股）**  
-    - **置信度：** 0.75  
-    - **理由：** 超卖（RSI 42.6），黄金对冲  
-    - **期权策略：** 买入 **GDX $54看涨期权（到期日：1-3天）**  
-    - **止损位：** $51.0  
-
-- **操作：** 持有 **SPY（标普500）**  
-    - **置信度：** 0.95  
-    - **理由：** 大盘看涨，严格止损  
-    - **期权策略：** 持有现有看涨期权  
+- **操作：买入EEM（新兴市场）**  
+  - **置信度：0.9**  
+  - **理由：RSI深度超卖（24.7），4小时图动能强劲**  
+  - **期权策略：买入EEM行权价49美元看涨期权（到期日：1-3天）**  
+  - **止损位：47.0美元**  
 
 ### **2:00 PM - 3:00 PM**  
-- **操作：** 买入 **XLRE（房地产）**  
-    - **置信度：** 0.75  
-    - **理由：** 超卖（RSI 41.7），板块复苏  
-    - **期权策略：** 买入 **XLRE $42看涨期权（到期日：1-3天）**  
-    - **止损位：** $40.0  
-
-- **操作：** 持有 **GLD（黄金）**  
-    - **置信度：** 0.7  
-    - **理由：** 超卖（RSI 39.0），组合对冲  
-    - **期权策略：** 持有现有看涨期权  
+- **操作：买入GDX（金矿股）**  
+  - **置信度：0.75**  
+  - **理由：RSI超卖（42.6），黄金对冲配置**  
+  - **期权策略：买入GDX行权价54美元看涨期权（到期日：1-3天）**  
+  - **止损位：51.0美元**  
 
 ### **3:00 PM - 4:00 PM（收盘时段）**  
-- **操作：** 减仓 **ARKK（创新科技）**  
-    - **置信度：** 0.55  
-    - **理由：** RSI超买（62.1），降低风险敞口  
-    - **期权策略：** 卖出 **ARKK $75看涨期权（到期日：1-3天）**  
-    - **止损位：** $69.0  
+- **操作：收紧所有仓位止损锁定利润**  
+- **操作：若未平仓则卖出TLT（20+年期国债）**  
+  - **置信度：0.75**  
+  - **理由：利率上行风险，负向动能**  
+  - **期权策略：买入TLT行权价86美元看跌期权（到期日：1-3天）**  
+  - **止损位：89.0美元**  
 
-- **操作：** 持有 **VOO（标普500）**  
-    - **置信度：** 0.8  
-    - **理由：** 核心看涨仓位，低波动性  
-    - **期权策略：** 持有现有看涨期权  
+---
 
----  
-**备注：**  
-- 优先布局高确定性科技/工业ETF（XLK、XLI、SOXX）  
-- 采用严格止损（入场价下方2-3%）保护盈利  
-- 若波动率上升，用防御性ETF（XLP、GLD）对冲  
-- 牛市环境下避免过度配置债券（TLT、IEF）
+### **组合平衡说明**  
+- **科技板块占比：** XLK（0.35）、SOXX（0.25）、QQQ（0.3）——合计0.9（符合风控要求）  
+- **对冲配置：** XLP（0.7）、GLD（0.3）——防御性仓位占比1.0  
+- **风险管理：** 所有仓位止损位较原始信号收紧  
+
+**主要风险：** 牛市延续利好周期股，但过度拉伸可能引发板块轮动。防御性对冲仓位（XLP/GLD）可缓解此风险
 
 
 
