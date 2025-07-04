@@ -10,6 +10,7 @@ import pytz
 import openai
 import firebase_admin
 from firebase_admin import credentials, firestore
+import yfinance as yf
 
 # Set up logging
 logging.basicConfig(
@@ -29,6 +30,60 @@ REQUIRED_ENV_VARS = ['GCP_SA_KEY', 'FIREBASE_PROJECT_ID', 'FIREBASE_ETF_ANALYSIS
 DEFAULT_TIMEOUT = 30
 MAX_REDIRECTS = 5
 USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+
+def is_market_open():
+    """
+    Check if the US stock market is currently open using yfinance.
+    Returns True if market is open, False otherwise.
+    """
+    try:
+        # Use SPY as a reliable ticker to check market status
+        spy = yf.Ticker("SPY")
+        
+        # Get market info which includes market state
+        market_info = spy.info
+        
+        # Check if market is open
+        market_state = market_info.get('marketState', 'unknown')
+        
+        logger.info(f"Market state: {market_state}")
+        
+        # Market states: 'REGULAR' = open, 'PRE' = pre-market, 'POST' = after-hours, 'CLOSED' = closed
+        if market_state == 'REGULAR':
+            logger.info("Market is currently OPEN")
+            return True
+        else:
+            logger.info(f"Market is currently {market_state} (not open for regular trading)")
+            return False
+            
+    except Exception as e:
+        logger.error(f"Error checking market status: {e}")
+        # If we can't determine market status, assume it's closed to be safe
+        logger.warning("Could not determine market status, assuming market is closed")
+        return False
+
+def is_market_trading_day():
+    """
+    Check if today is a trading day (weekday) in the US market.
+    Returns True if it's a weekday, False if it's weekend.
+    """
+    try:
+        # Get current time in US Eastern timezone
+        eastern = pytz.timezone('US/Eastern')
+        current_time = datetime.now(eastern)
+        
+        # Check if it's a weekday (Monday = 0, Sunday = 6)
+        is_weekday = current_time.weekday() < 5
+        
+        logger.info(f"Current day: {current_time.strftime('%A')}, Is weekday: {is_weekday}")
+        
+        return is_weekday
+        
+    except Exception as e:
+        logger.error(f"Error checking if it's a trading day: {e}")
+        # If we can't determine, assume it's not a trading day to be safe
+        logger.warning("Could not determine if it's a trading day, assuming it's not")
+        return False
 
 def validate_environment_vars():
     """Validate that all required environment variables are set."""
@@ -344,7 +399,12 @@ Please check back later for updated ETF options strategies.
 ![image](https://github.com/kevinchwong/ai-etf-signals/blob/main/images/architecture_1024.jpeg)
 
 """ + readme_content
-        return readme_content
+        return f"""
+    This output is updated at {current_est_time} EST.
+    ---
+    {readme_content}
+    """
+    
     except Exception as e:
         logger.error(f"Failed to generate content from LLM: {e}")
         logger.info("Falling back to default content")
@@ -371,6 +431,18 @@ def main():
     """Main function to generate README from Firebase data."""
     try:
         logger.info("Starting README generation from Firebase data")
+        
+        # Check if it's a trading day
+        if not is_market_trading_day():
+            logger.info("Today is not a trading day (weekend). Skipping update.")
+            return
+        
+        # Check if market is open
+        if not is_market_open():
+            logger.info("Market is currently closed. Skipping update.")
+            return
+        
+        logger.info("Market is open and it's a trading day. Proceeding with update.")
         
         # Initialize Firebase
         logger.info("Initializing Firebase connection")

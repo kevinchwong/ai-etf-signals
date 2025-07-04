@@ -7,5 +7,8 @@ pytz>=2023.3
 # AI/ML
 openai>=1.0.0
 
+# Market data
+yfinance>=0.2.0
+
 # Utilities
 python-dotenv>=1.0.0
