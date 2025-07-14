@@ -1,5 +1,5 @@
 
-    This output is updated at 2025-07-14 11:26:19 EST.
+    This output is updated at 2025-07-14 11:40:16 EST.
     ---
     
 # AI ETF Signals
@@ -10,165 +10,205 @@
 
 ![image](https://github.com/kevinchwong/ai-etf-signals/blob/main/images/architecture_1024.jpeg)
 
-# **ETF Options Strategy for Today (11AM - 4PM EST)**  
+# **ETF Options Strategy for Next Trading Day (9AM - 4PM EST)**  
 **Market Context:** Bull Momentum | **VIX:** 17.23 (Low Volatility)  
 
 ### **Key Strategic Recommendations**  
-1. **Focus on high-momentum ETFs (ARKK, IWM, SMH, XLE, SPY, VOO, MDY)**  
-2. **Hold neutral ETFs (XLK, XLF, DIA)** until clearer trends emerge  
-3. **Use tight stop-losses** to protect gains in this extended bull run  
-4. **Prioritize call options** on strongest momentum plays  
+1. **Focus on high-momentum sectors (XLE, ARKK, IWM, SMH, SOXX, XLY, SPY, VOO, MDY, EEM)** due to strong bullish signals.  
+2. **Hold mixed-signal ETFs (XLK, XLF, DIA)** until clearer trends emerge.  
+3. **Use tight stop-losses** to protect gains in high-momentum trades.  
+4. **Prioritize call options** on high-confidence buys to leverage upside.  
 
 ---
 
 ## **Hour-by-Hour Trading Plan**  
 
-### **11:00 AM - 12:00 PM (Current Hour)**
-- **Action:** Buy **ARKK** (Innovation ETF)  
-    - **Confidence:** 0.85  
-    - **Reason:** Extremely strong momentum (RSI 51.5), favorable industry trends  
-    - **Option Strategy:** Buy **ARKK $75 Calls (Exp: 1-3 days out)**  
-    - **Stop-Loss:** $72.0  
+### **9:00 AM - 10:00 AM (Market Open)**
+- **Action:** Buy **XLE** (Energy)  
+  - **Confidence:** 0.75  
+  - **Reason:** Oversold (RSI 40.3), strong macro support, bullish momentum.  
+  - **Option Strategy:** Buy **XLE $90 Calls (Exp: 1-3 days out)**  
+  - **Stop-Loss:** $86.0  
 
-- **Action:** Buy **IWM** (Russell 2000)  
-    - **Confidence:** 0.9  
-    - **Reason:** Strong small-cap momentum (RSI 42.5), excellent risk/reward  
-    - **Option Strategy:** Buy **IWM $225 Calls (Exp: 1-3 days out)**  
-    - **Stop-Loss:** $218.0  
+- **Action:** Buy **ARKK** (Innovation)  
+  - **Confidence:** 0.85  
+  - **Reason:** Strong short-term momentum, favorable industry trends.  
+  - **Option Strategy:** Buy **ARKK $75 Calls (Exp: 1-3 days out)**  
+  - **Stop-Loss:** $72.0  
+
+- **Action:** Buy **IWM** (Small-Caps)  
+  - **Confidence:** 0.9  
+  - **Reason:** Exceptional momentum, macro support, bullish market context.  
+  - **Option Strategy:** Buy **IWM $225 Calls (Exp: 1-3 days out)**  
+  - **Stop-Loss:** $218.0  
+
+### **10:00 AM - 11:00 AM**  
+- **Action:** Buy **SMH** (Semiconductors)  
+  - **Confidence:** 0.85  
+  - **Reason:** Strong sector growth, bullish technicals.  
+  - **Option Strategy:** Buy **SMH $290 Calls (Exp: 1-3 days out)**  
+  - **Stop-Loss:** $280.0  
+
+- **Action:** Buy **SOXX** (Semiconductors)  
+  - **Confidence:** 0.9  
+  - **Reason:** Neutral RSI (49.9), strong momentum, industry growth.  
+  - **Option Strategy:** Buy **SOXX $245 Calls (Exp: 1-3 days out)**  
+  - **Stop-Loss:** $235.0  
+
+### **11:00 AM - 12:00 PM**  
+- **Action:** Buy **XLY** (Consumer Discretionary)  
+  - **Confidence:** 0.8  
+  - **Reason:** Neutral RSI (48.5), strong momentum, bullish market.  
+  - **Option Strategy:** Buy **XLY $225 Calls (Exp: 1-3 days out)**  
+  - **Stop-Loss:** $215.0  
+
+- **Action:** Buy **SPY** (S&P 500)  
+  - **Confidence:** 0.9  
+  - **Reason:** Broad market strength, neutral RSI (50.5), strong momentum.  
+  - **Option Strategy:** Buy **SPY $625 Calls (Exp: 1-3 days out)**  
+  - **Stop-Loss:** $610.0  
 
 ### **12:00 PM - 1:00 PM**  
-- **Action:** Buy **SMH** (Semiconductors)  
-    - **Confidence:** 0.85  
-    - **Reason:** Leading sector with strong technicals (RSI 53.2)  
-    - **Option Strategy:** Buy **SMH $290 Calls (Exp: 1-3 days out)**  
-    - **Stop-Loss:** $280.0  
+- **Action:** Buy **VOO** (S&P 500)  
+  - **Confidence:** 0.9  
+  - **Reason:** Similar to SPY, strong momentum, favorable risk/reward.  
+  - **Option Strategy:** Buy **VOO $575 Calls (Exp: 1-3 days out)**  
+  - **Stop-Loss:** $560.0  
 
-- **Action:** Buy **XLE** (Energy)  
-    - **Confidence:** 0.75  
-    - **Reason:** Oversold (RSI 40.3) with improving fundamentals  
-    - **Option Strategy:** Buy **XLE $90 Calls (Exp: 1-3 days out)**  
-    - **Stop-Loss:** $86.0  
+- **Action:** Buy **MDY** (Mid-Caps)  
+  - **Confidence:** 0.85  
+  - **Reason:** Strong earnings, bullish momentum.  
+  - **Option Strategy:** Buy **MDY $580 Calls (Exp: 1-3 days out)**  
+  - **Stop-Loss:** $565.0  
 
 ### **1:00 PM - 2:00 PM**  
-- **Action:** Buy **MDY** (Mid-Caps)  
-    - **Confidence:** 0.85  
-    - **Reason:** Exceptional momentum (RSI 44.3), strong earnings  
-    - **Option Strategy:** Buy **MDY $585 Calls (Exp: 1-3 days out)**  
-    - **Stop-Loss:** $565.0  
-
-- **Action:** Hold **XLK** (Technology)  
-    - **Confidence:** 0.6  
-    - **Reason:** Neutral RSI (53.6), lacks strong catalysts  
+- **Action:** Buy **EEM** (Emerging Markets)  
+  - **Confidence:** 0.8  
+  - **Reason:** Oversold (RSI 42.5), improving macro conditions.  
+  - **Option Strategy:** Buy **EEM $49 Calls (Exp: 1-3 days out)**  
+  - **Stop-Loss:** $47.0  
 
 ### **2:00 PM - 3:00 PM**  
-- **Action:** Buy **SPY** (S&P 500)  
-    - **Confidence:** 0.9  
-    - **Reason:** Broad market leader, strong technicals (RSI 50.5)  
-    - **Option Strategy:** Buy **SPY $625 Calls (Exp: 1-3 days out)**  
-    - **Stop-Loss:** $610.0  
+- **Action:** Hold **XLK** (Technology)  
+  - **Confidence:** 0.6  
+  - **Reason:** Neutral RSI (53.6), mixed momentum, no strong catalysts.  
 
-- **Action:** Buy **VOO** (S&P 500)  
-    - **Confidence:** 0.9  
-    - **Reason:** Similar to SPY but with better risk/reward (4.0)  
-    - **Option Strategy:** Buy **VOO $575 Calls (Exp: 1-3 days out)**  
-    - **Stop-Loss:** $560.0  
+- **Action:** Hold **XLF** (Financials)  
+  - **Confidence:** 0.65  
+  - **Reason:** Neutral RSI (51.7), stable but lacks strong momentum.  
 
-### **3:00 PM - 4:00 PM (Close)**
-- **Action:** Review all positions  
-    - **Trim winners** hitting targets (ARKK $80, IWM $240, SMH $310)  
-    - **Hold core positions** (SPY, VOO) overnight  
-    - **Close any underperformers** below stop levels  
+### **3:00 PM - 4:00 PM (Market Close)**  
+- **Action:** Hold **DIA** (Dow Jones)  
+  - **Confidence:** 0.5  
+  - **Reason:** Neutral indicators, mixed signals.  
 
----
+- **Action:** Review all positions and tighten stops if necessary.  
+  - **Focus:** Protect gains in high-momentum trades (XLE, ARKK, IWM, SMH, SOXX).  
 
-**Final Notes:**  
-- Focus on high-conviction momentum plays (ARKK, IWM, SMH)  
-- Use tight stops to protect against potential late-day reversals  
-- Avoid overexposure to any single sector  
-- Consider taking partial profits into close on extended movers
+---  
+**Note:** All trades are based on current momentum and technicals. Adjust stops dynamically if market conditions shift.
 
 ---
 
 ## 中文版策略 (Chinese Version)
 
-# **今日ETF期权交易策略（美东时间上午11点至下午4点）**  
-**市场环境：** 多头动能 | **恐慌指数(VIX)：** 17.23（低波动率）  
+# **ETF期权交易策略（美东时间上午9点至下午4点）**  
+**市场环境：牛市动能 | 恐慌指数(VIX)：17.23（低波动率）**  
 
 ### **核心策略建议**  
-1. **聚焦高动量ETF（ARKK、IWM、SMH、XLE、SPY、VOO、MDY）**  
-2. **中性ETF持仓（XLK、XLF、DIA）** 待趋势明朗  
-3. **设置严格止损** 保护牛市延续中的盈利  
-4. **优先买入看涨期权** 参与最强动量标的  
+1. **聚焦高动能板块（XLE能源、ARKK创新、IWM小盘股、SMH半导体、SOXX半导体、XLY可选消费、SPY标普500、VOO标普500、MDY中盘股、EEM新兴市场）**，因其呈现强劲看涨信号  
+2. **暂持观望态度的ETF（XLK科技、XLF金融、DIA道指）**，等待趋势明朗化  
+3. **设置严格止损**以保护高动能交易的盈利  
+4. **优先买入看涨期权**以放大高置信度交易的上涨收益  
 
 ---
 
 ## **分时段交易计划**  
 
-### **上午11:00 - 12:00（当前时段）**
-- **操作：** 买入 **ARKK**（创新科技ETF）  
-    - **置信度：** 0.85  
-    - **理由：** 极强动量（RSI 51.5），行业趋势向好  
-    - **期权策略：** 买入 **ARKK 75美元看涨期权（到期日：1-3天）**  
-    - **止损位：** 72.0美元  
+### **上午9:00 - 10:00（开盘时段）**
+- **操作：买入XLE（能源板块）**  
+  - **置信度：0.75**  
+  - **理由：超卖状态（RSI 40.3）+宏观面支撑+看涨动能**  
+  - **期权策略：买入XLE 90美元看涨期权（到期日：1-3天）**  
+  - **止损位：86美元**  
 
-- **操作：** 买入 **IWM**（罗素2000指数ETF）  
-    - **置信度：** 0.9  
-    - **理由：** 小盘股动能强劲（RSI 42.5），风险回报比优异  
-    - **期权策略：** 买入 **IWM 225美元看涨期权（到期日：1-3天）**  
-    - **止损位：** 218.0美元  
+- **操作：买入ARKK（颠覆性创新）**  
+  - **置信度：0.85**  
+  - **理由：短期动能强劲+行业趋势向好**  
+  - **期权策略：买入ARKK 75美元看涨期权（到期日：1-3天）**  
+  - **止损位：72美元**  
+
+- **操作：买入IWM（罗素2000小盘股）**  
+  - **置信度：0.9**  
+  - **理由：卓越动能+宏观支撑+牛市环境**  
+  - **期权策略：买入IWM 225美元看涨期权（到期日：1-3天）**  
+  - **止损位：218美元**  
+
+### **上午10:00 - 11:00**  
+- **操作：买入SMH（半导体板块）**  
+  - **置信度：0.85**  
+  - **理由：行业增长强劲+技术面看涨**  
+  - **期权策略：买入SMH 290美元看涨期权（到期日：1-3天）**  
+  - **止损位：280美元**  
+
+- **操作：买入SOXX（半导体板块）**  
+  - **置信度：0.9**  
+  - **理由：RSI中性（49.9）+动能强劲+行业增长**  
+  - **期权策略：买入SOXX 245美元看涨期权（到期日：1-3天）**  
+  - **止损位：235美元**  
+
+### **上午11:00 - 12:00**  
+- **操作：买入XLY（可选消费）**  
+  - **置信度：0.8**  
+  - **理由：RSI中性（48.5）+动能强劲+牛市环境**  
+  - **期权策略：买入XLY 225美元看涨期权（到期日：1-3天）**  
+  - **止损位：215美元**  
+
+- **操作：买入SPY（标普500指数）**  
+  - **置信度：0.9**  
+  - **理由：大盘强势+RSI中性（50.5）+动能强劲**  
+  - **期权策略：买入SPY 625美元看涨期权（到期日：1-3天）**  
+  - **止损位：610美元**  
 
 ### **中午12:00 - 13:00**  
-- **操作：** 买入 **SMH**（半导体ETF）  
-    - **置信度：** 0.85  
-    - **理由：** 领涨板块技术面强劲（RSI 53.2）  
-    - **期权策略：** 买入 **SMH 290美元看涨期权（到期日：1-3天）**  
-    - **止损位：** 280.0美元  
+- **操作：买入VOO（标普500指数）**  
+  - **置信度：0.9**  
+  - **理由：与SPY类似+动能强劲+风险收益比佳**  
+  - **期权策略：买入VOO 575美元看涨期权（到期日：1-3天）**  
+  - **止损位：560美元**  
 
-- **操作：** 买入 **XLE**（能源ETF）  
-    - **置信度：** 0.75  
-    - **理由：** 超卖状态（RSI 40.3）叠加基本面改善  
-    - **期权策略：** 买入 **XLE 90美元看涨期权（到期日：1-3天）**  
-    - **止损位：** 86.0美元  
+- **操作：买入MDY（中盘股）**  
+  - **置信度：0.85**  
+  - **理由：财报亮眼+看涨动能**  
+  - **期权策略：买入MDY 580美元看涨期权（到期日：1-3天）**  
+  - **止损位：565美元**  
 
 ### **下午13:00 - 14:00**  
-- **操作：** 买入 **MDY**（中盘股ETF）  
-    - **置信度：** 0.85  
-    - **理由：** 突出动量（RSI 44.3），财报表现强劲  
-    - **期权策略：** 买入 **MDY 585美元看涨期权（到期日：1-3天）**  
-    - **止损位：** 565.0美元  
-
-- **操作：** 持有 **XLK**（科技ETF）  
-    - **置信度：** 0.6  
-    - **理由：** RSI中性（53.6），缺乏催化剂  
+- **操作：买入EEM（新兴市场）**  
+  - **置信度：0.8**  
+  - **理由：超卖状态（RSI 42.5）+宏观环境改善**  
+  - **期权策略：买入EEM 49美元看涨期权（到期日：1-3天）**  
+  - **止损位：47美元**  
 
 ### **下午14:00 - 15:00**  
-- **操作：** 买入 **SPY**（标普500ETF）  
-    - **置信度：** 0.9  
-    - **理由：** 大盘领涨标的，技术面坚实（RSI 50.5）  
-    - **期权策略：** 买入 **SPY 625美元看涨期权（到期日：1-3天）**  
-    - **止损位：** 610.0美元  
+- **操作：持有XLK（科技板块）**  
+  - **置信度：0.6**  
+  - **理由：RSI中性（53.6）+动能混杂+缺乏催化剂**  
 
-- **操作：** 买入 **VOO**（标普500ETF）  
-    - **置信度：** 0.9  
-    - **理由：** 与SPY类似但风险回报比更优（4.0）  
-    - **期权策略：** 买入 **VOO 575美元看涨期权（到期日：1-3天）**  
-    - **止损位：** 560.0美元  
+- **操作：持有XLF（金融板块）**  
+  - **置信度：0.65**  
+  - **理由：RSI中性（51.7）+走势平稳但缺乏动能**  
 
-### **下午15:00 - 16:00（收盘前）**
-- **操作：** 全面检视持仓  
-    - **止盈达标标的**（ARKK 80美元、IWM 240美元、SMH 310美元）  
-    - **保留核心仓位**（SPY、VOO）过夜  
-    - **平仓所有跌破止损位的标的**  
+### **下午15:00 - 16:00（收盘时段）**  
+- **操作：持有DIA（道琼斯指数）**  
+  - **置信度：0.5**  
+  - **理由：指标中性+信号混杂**  
 
----
+- **操作：复核所有持仓并收紧止损（必要时）**  
+  - **重点：保护高动能交易盈利（XLE/ARKK/IWM/SMH/SOXX）**  
 
-**最终提示：**  
-- 集中配置高置信度动量标的（ARKK、IWM、SMH）  
-- 严格止损防范尾盘反转风险  
-- 避免单一行业过度暴露  
-- 对超涨标的考虑收盘前部分获利了结  
-
-（注：所有价格单位均为美元，RSI指标基于14周期计算）
+---  
+**注：** 所有交易基于当前动能与技术指标。若市场条件变化需动态调整止损。
 
 
 
