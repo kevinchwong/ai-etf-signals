@@ -1,5 +1,5 @@
 
-    This output is updated at 2025-07-14 10:26:06 EST.
+    This output is updated at 2025-07-14 10:41:37 EST.
     ---
     
 # AI ETF Signals
@@ -10,243 +10,241 @@
 
 ![image](https://github.com/kevinchwong/ai-etf-signals/blob/main/images/architecture_1024.jpeg)
 
-# **ETF Options Strategy for Next Trading Day (9AM - 4PM EST)**  
+# **ETF Options Strategy for Today (10:07 AM - 4:00 PM EST)**  
 **Market Context:** Bull Momentum | **VIX:** 17.11 (Low Volatility)  
 
 ### **Key Strategic Recommendations**  
-1. **Focus on high-momentum sectors (XLB, XLI, XLE, GDXJ, SMH, XLK, XLY, VOO, SPY, DIA, MDY, FXI, XLRE)** due to strong bullish trends.  
+1. **Focus on high-momentum sectors (XLB, XLI, XLE, IWM, GDXJ, SMH, XLK, QQQ, XLY, VOO, SPY, DIA, MDY, FXI, XLRE)**  
 2. **Hold mixed-signal ETFs (SLV, SOXX, ARKK)** until clearer trends emerge.  
-3. **Sell defensive ETFs (XLU)** as they are less favored in the current bull market.  
-4. **Tighten stop-losses** to protect gains while allowing for upside potential.  
+3. **Sell underperforming ETFs (XLU)** to reallocate capital to stronger sectors.  
+4. **Use tight stop-losses** to protect gains in a bullish but potentially overextended market.  
 
 ---
 
 ## **Hour-by-Hour Trading Plan**  
 
-### **9:00 AM - 10:00 AM (Market Open)**
+### **10:00 AM - 11:00 AM (Current Hour)**  
 - **Action:** Buy **XLB** (Materials)  
-    - **Confidence:** 0.8  
-    - **Reason:** Oversold (RSI 40.4), strong sector momentum, favorable risk/reward (2.33).  
-    - **Option Strategy:** Buy **XLB $92 Calls (Exp: 1-3 days out)**  
-    - **Stop-Loss:** $88.0  
+  - **Confidence:** 0.8  
+  - **Reason:** Oversold (RSI 40.4), strong sector momentum, attractive risk/reward (2.33).  
+  - **Option Strategy:** Buy **XLB $92 Calls (Exp: 1-3 days out)**  
+  - **Stop-Loss:** $88.0  
 
 - **Action:** Buy **XLI** (Industrials)  
-    - **Confidence:** 0.8  
-    - **Reason:** Neutral RSI (51.9), strong sector momentum, favorable risk/reward (2.0).  
-    - **Option Strategy:** Buy **XLI $152 Calls (Exp: 1-3 days out)**  
-    - **Stop-Loss:** $147.0  
-
-- **Action:** Sell **XLU** (Utilities)  
-    - **Confidence:** 0.7  
-    - **Reason:** Low growth potential in bull market, neutral RSI (42.0).  
-    - **Option Strategy:** Sell **XLU $84 Calls (Exp: 1-3 days out)**  
-    - **Stop-Loss:** $85.0  
-
-### **10:00 AM - 11:00 AM**  
-- **Action:** Buy **XLE** (Energy)  
-    - **Confidence:** 0.85  
-    - **Reason:** Oversold (RSI 40.3), strong sector momentum, high risk/reward (3.0).  
-    - **Option Strategy:** Buy **XLE $89 Calls (Exp: 1-3 days out)**  
-    - **Stop-Loss:** $87.0  
+  - **Confidence:** 0.8  
+  - **Reason:** Strong momentum (RSI 51.9), bullish sector trends.  
+  - **Option Strategy:** Buy **XLI $152 Calls (Exp: 1-3 days out)**  
+  - **Stop-Loss:** $147.0  
 
 - **Action:** Buy **GDXJ** (Junior Gold Miners)  
-    - **Confidence:** 0.85  
-    - **Reason:** Neutral RSI (57.5), strong momentum, favorable risk/reward (2.5).  
-    - **Option Strategy:** Buy **GDXJ $71 Calls (Exp: 1-3 days out)**  
-    - **Stop-Loss:** $68.0  
+  - **Confidence:** 0.85  
+  - **Reason:** Strong momentum (RSI 57.5), bullish gold sector.  
+  - **Option Strategy:** Buy **GDXJ $70 Calls (Exp: 1-3 days out)**  
+  - **Stop-Loss:** $68.0  
+
+- **Action:** Sell **XLU** (Utilities)  
+  - **Confidence:** 0.7  
+  - **Reason:** Underperforming in bull market, low growth potential.  
+  - **Option Strategy:** Sell **XLU $84 Calls (Exp: 1-3 days out)**  
+  - **Stop-Loss:** $85.0  
 
 ### **11:00 AM - 12:00 PM**  
 - **Action:** Buy **SMH** (Semiconductors)  
-    - **Confidence:** 0.85  
-    - **Reason:** Neutral RSI (53.1), strong sector momentum, high risk/reward (2.78).  
-    - **Option Strategy:** Buy **SMH $285 Calls (Exp: 1-3 days out)**  
-    - **Stop-Loss:** $275.0  
+  - **Confidence:** 0.85  
+  - **Reason:** Very strong momentum, bullish sector.  
+  - **Option Strategy:** Buy **SMH $285 Calls (Exp: 1-3 days out)**  
+  - **Stop-Loss:** $275.0  
 
 - **Action:** Buy **XLK** (Technology)  
-    - **Confidence:** 0.85  
-    - **Reason:** Neutral RSI (53.6), strong momentum, favorable risk/reward (3.0).  
-    - **Option Strategy:** Buy **XLK $255 Calls (Exp: 1-3 days out)**  
-    - **Stop-Loss:** $245.0  
+  - **Confidence:** 0.85  
+  - **Reason:** Strong short-term momentum, neutral RSI.  
+  - **Option Strategy:** Buy **XLK $255 Calls (Exp: 1-3 days out)**  
+  - **Stop-Loss:** $245.0  
 
 ### **12:00 PM - 1:00 PM**  
-- **Action:** Buy **XLY** (Consumer Discretionary)  
-    - **Confidence:** 0.85  
-    - **Reason:** Neutral RSI (48.5), strong sector momentum, high risk/reward (2.5).  
-    - **Option Strategy:** Buy **XLY $223 Calls (Exp: 1-3 days out)**  
-    - **Stop-Loss:** $215.0  
+- **Action:** Buy **QQQ** (Nasdaq 100)  
+  - **Confidence:** 0.8  
+  - **Reason:** Strong momentum (RSI 51.3), bullish tech sector.  
+  - **Option Strategy:** Buy **QQQ $555 Calls (Exp: 1-3 days out)**  
+  - **Stop-Loss:** $535.0  
 
-- **Action:** Buy **VOO** (S&P 500)  
-    - **Confidence:** 0.9  
-    - **Reason:** Neutral RSI (50.6), strong market momentum, favorable risk/reward (2.5).  
-    - **Option Strategy:** Buy **VOO $575 Calls (Exp: 1-3 days out)**  
-    - **Stop-Loss:** $560.0  
+- **Action:** Buy **XLY** (Consumer Discretionary)  
+  - **Confidence:** 0.85  
+  - **Reason:** Strong momentum, bullish trend.  
+  - **Option Strategy:** Buy **XLY $222 Calls (Exp: 1-3 days out)**  
+  - **Stop-Loss:** $215.0  
 
 ### **1:00 PM - 2:00 PM**  
-- **Action:** Buy **SPY** (S&P 500)  
-    - **Confidence:** 0.9  
-    - **Reason:** Neutral RSI (50.5), strong market momentum, high risk/reward (2.5).  
-    - **Option Strategy:** Buy **SPY $625 Calls (Exp: 1-3 days out)**  
-    - **Stop-Loss:** $610.0  
+- **Action:** Buy **VOO** (S&P 500)  
+  - **Confidence:** 0.9  
+  - **Reason:** Strong market alignment, bullish trend.  
+  - **Option Strategy:** Buy **VOO $575 Calls (Exp: 1-3 days out)**  
+  - **Stop-Loss:** $560.0  
 
-- **Action:** Buy **DIA** (Dow Jones)  
-    - **Confidence:** 0.85  
-    - **Reason:** Neutral RSI (51.5), strong momentum, favorable risk/reward (2.5).  
-    - **Option Strategy:** Buy **DIA $445 Calls (Exp: 1-3 days out)**  
-    - **Stop-Loss:** $435.0  
+- **Action:** Buy **SPY** (S&P 500)  
+  - **Confidence:** 0.9  
+  - **Reason:** Strong bull momentum, low VIX.  
+  - **Option Strategy:** Buy **SPY $625 Calls (Exp: 1-3 days out)**  
+  - **Stop-Loss:** $610.0  
 
 ### **2:00 PM - 3:00 PM**  
-- **Action:** Buy **MDY** (Mid-Caps)  
-    - **Confidence:** 0.8  
-    - **Reason:** Neutral RSI (44.3), strong momentum, favorable risk/reward (2.2).  
-    - **Option Strategy:** Buy **MDY $580 Calls (Exp: 1-3 days out)**  
-    - **Stop-Loss:** $555.0  
+- **Action:** Buy **DIA** (Dow Jones)  
+  - **Confidence:** 0.85  
+  - **Reason:** Strong momentum, bullish blue-chip trend.  
+  - **Option Strategy:** Buy **DIA $445 Calls (Exp: 1-3 days out)**  
+  - **Stop-Loss:** $435.0  
 
-- **Action:** Buy **FXI** (China Large-Caps)  
-    - **Confidence:** 0.75  
-    - **Reason:** Oversold (RSI 44.8), improving macro conditions, high risk/reward (2.5).  
-    - **Option Strategy:** Buy **FXI $37 Calls (Exp: 1-3 days out)**  
-    - **Stop-Loss:** $36.0  
+- **Action:** Buy **MDY** (Mid-Caps)  
+  - **Confidence:** 0.8  
+  - **Reason:** Strong momentum, bullish mid-cap trend.  
+  - **Option Strategy:** Buy **MDY $580 Calls (Exp: 1-3 days out)**  
+  - **Stop-Loss:** $555.0  
 
 ### **3:00 PM - 4:00 PM (Market Close)**  
-- **Action:** Buy **XLRE** (Real Estate)  
-    - **Confidence:** 0.85  
-    - **Reason:** Oversold (RSI 35.5), strong momentum, high risk/reward (2.5).  
-    - **Option Strategy:** Buy **XLRE $42 Calls (Exp: 1-3 days out)**  
-    - **Stop-Loss:** $40.0  
+- **Action:** Buy **FXI** (China Large-Caps)  
+  - **Confidence:** 0.75  
+  - **Reason:** Strong momentum, improving macro data.  
+  - **Option Strategy:** Buy **FXI $37 Calls (Exp: 1-3 days out)**  
+  - **Stop-Loss:** $36.0  
 
-- **Action:** Hold **SLV** (Silver)  
-    - **Confidence:** 0.7  
-    - **Reason:** Neutral RSI (57.8), mixed signals, tightened stop-loss ($34.5).  
+- **Action:** Buy **XLRE** (Real Estate)  
+  - **Confidence:** 0.85  
+  - **Reason:** Oversold (RSI 35.5), strong short-term momentum.  
+  - **Option Strategy:** Buy **XLRE $42 Calls (Exp: 1-3 days out)**  
+  - **Stop-Loss:** $40.0  
 
 ---
 
-### **Summary of Key Positions**  
-- **High Conviction Buys:** XLB, XLI, XLE, GDXJ, SMH, XLK, XLY, VOO, SPY, DIA, MDY, FXI, XLRE  
-- **Hold:** SLV, SOXX, ARKK  
-- **Sell:** XLU  
+### **Hold Positions**  
+- **SLV** (Hold): Neutral RSI, moderate momentum.  
+- **SOXX** (Hold): Mixed signals, nearing overbought.  
+- **ARKK** (Hold): Neutral RSI, unclear trend.  
 
-**Risk Management:** Tight stop-losses to protect gains while allowing for upside in a bullish market.
+### **Inverted Symbols (Hedges)**  
+- **SARK** (Inverse ARKK): Hedge if ARKK weakens.  
+- **SRS** (Inverse XLRE): Hedge if real estate reverses.  
+
+**Note:** Adjust stop-losses dynamically if market conditions change. Focus on high-conviction trades with strong risk/reward ratios.
 
 ---
 
 ## 中文版策略 (Chinese Version)
 
-# **ETF期权次日交易策略（美东时间9AM-4PM）**  
-**市场环境：** 牛市动能 | **VIX恐慌指数：** 17.11（低波动率）  
+# **今日ETF期权交易策略（北京时间22:07 - 次日4:00）**  
+**市场环境：** 牛市动能 | **恐慌指数(VIX)：** 17.11（低波动率）  
 
 ### **核心策略建议**  
-1. **聚焦高动量板块（XLB材料、XLI工业、XLE能源、GDXJ小型金矿、SMH半导体、XLK科技、XLY消费、VOO标普500、SPY标普500、DIA道指、MDY中盘股、FXI中国大盘、XLRE房地产）**，因其强劲看涨趋势  
+1. **聚焦高动量板块（XLB材料、XLI工业、XLE能源、IWM罗素2000、GDXJ小型金矿、SMH半导体、XLK科技、QQQ纳斯达克100、XLY非必需消费品、VOO标普500、SPY标普500ETF、DIA道指、MDY中盘股、FXI中国大盘股、XLRE房地产）**  
 2. **持有信号混杂ETF（SLV白银、SOXX半导体、ARKK创新科技）**直至趋势明朗  
-3. **减持防御型ETF（XLU公用事业）**，因其在牛市中表现弱势  
-4. **收紧止损线** 在保护盈利的同时保留上行空间  
+3. **卖出弱势ETF（XLU公用事业）**将资金调仓至强势板块  
+4. **设置严格止损**保护牛市可能超涨行情中的利润  
 
 ---
 
 ## **分时段交易计划**  
 
-### **9:00 AM - 10:00 AM（开盘时段）**
+### **22:00 - 23:00（当前时段）**  
 - **操作：** 买入 **XLB（材料板块）**  
-    - **置信度：** 0.8  
-    - **理由：** 超卖（RSI 40.4），板块动能强劲，风险回报比优异（2.33）  
-    - **期权策略：** 买入 **XLB 92美元看涨期权（1-3天到期）**  
-    - **止损位：** 88.0美元  
+  - **置信度：** 0.8  
+  - **理由：** 超卖（RSI 40.4）、板块动能强劲、风险回报比优异（2.33）  
+  - **期权策略：** 买入 **XLB 92美元看涨期权（到期日：1-3天）**  
+  - **止损位：** 88.0美元  
 
 - **操作：** 买入 **XLI（工业板块）**  
-    - **置信度：** 0.8  
-    - **理由：** RSI中性（51.9），板块动能强劲，风险回报比良好（2.0）  
-    - **期权策略：** 买入 **XLI 152美元看涨期权（1-3天到期）**  
-    - **止损位：** 147.0美元  
-
-- **操作：** 卖出 **XLU（公用事业）**  
-    - **置信度：** 0.7  
-    - **理由：** 牛市增长潜力有限，RSI中性（42.0）  
-    - **期权策略：** 卖出 **XLU 84美元看涨期权（1-3天到期）**  
-    - **止损位：** 85.0美元  
-
-### **10:00 AM - 11:00 AM**  
-- **操作：** 买入 **XLE（能源板块）**  
-    - **置信度：** 0.85  
-    - **理由：** 超卖（RSI 40.3），板块动能强劲，高风险回报比（3.0）  
-    - **期权策略：** 买入 **XLE 89美元看涨期权（1-3天到期）**  
-    - **止损位：** 87.0美元  
+  - **置信度：** 0.8  
+  - **理由：** 动能强劲（RSI 51.9）、板块趋势看涨  
+  - **期权策略：** 买入 **XLI 152美元看涨期权（到期日：1-3天）**  
+  - **止损位：** 147.0美元  
 
 - **操作：** 买入 **GDXJ（小型金矿股）**  
-    - **置信度：** 0.85  
-    - **理由：** RSI中性（57.5），动能强劲，风险回报比良好（2.5）  
-    - **期权策略：** 买入 **GDXJ 71美元看涨期权（1-3天到期）**  
-    - **止损位：** 68.0美元  
+  - **置信度：** 0.85  
+  - **理由：** 动能强劲（RSI 57.5）、黄金板块看涨  
+  - **期权策略：** 买入 **GDXJ 70美元看涨期权（到期日：1-3天）**  
+  - **止损位：** 68.0美元  
 
-### **11:00 AM - 12:00 PM**  
+- **操作：** 卖出 **XLU（公用事业）**  
+  - **置信度：** 0.7  
+  - **理由：** 牛市环境下表现疲软，增长潜力低  
+  - **期权策略：** 卖出 **XLU 84美元看涨期权（到期日：1-3天）**  
+  - **止损位：** 85.0美元  
+
+### **23:00 - 次日0:00**  
 - **操作：** 买入 **SMH（半导体板块）**  
-    - **置信度：** 0.85  
-    - **理由：** RSI中性（53.1），板块动能强劲，高风险回报比（2.78）  
-    - **期权策略：** 买入 **SMH 285美元看涨期权（1-3天到期）**  
-    - **止损位：** 275.0美元  
+  - **置信度：** 0.85  
+  - **理由：** 动能极强，板块看涨  
+  - **期权策略：** 买入 **SMH 285美元看涨期权（到期日：1-3天）**  
+  - **止损位：** 275.0美元  
 
 - **操作：** 买入 **XLK（科技板块）**  
-    - **置信度：** 0.85  
-    - **理由：** RSI中性（53.6），动能强劲，风险回报比优异（3.0）  
-    - **期权策略：** 买入 **XLK 255美元看涨期权（1-3天到期）**  
-    - **止损位：** 245.0美元  
+  - **置信度：** 0.85  
+  - **理由：** 短期动能强劲，RSI中性  
+  - **期权策略：** 买入 **XLK 255美元看涨期权（到期日：1-3天）**  
+  - **止损位：** 245.0美元  
 
-### **12:00 PM - 1:00 PM**  
+### **0:00 - 1:00**  
+- **操作：** 买入 **QQQ（纳斯达克100）**  
+  - **置信度：** 0.8  
+  - **理由：** 动能强劲（RSI 51.3）、科技板块看涨  
+  - **期权策略：** 买入 **QQQ 555美元看涨期权（到期日：1-3天）**  
+  - **止损位：** 535.0美元  
+
 - **操作：** 买入 **XLY（非必需消费品）**  
-    - **置信度：** 0.85  
-    - **理由：** RSI中性（48.5），板块动能强劲，高风险回报比（2.5）  
-    - **期权策略：** 买入 **XLY 223美元看涨期权（1-3天到期）**  
-    - **止损位：** 215.0美元  
+  - **置信度：** 0.85  
+  - **理由：** 动能强劲，趋势看涨  
+  - **期权策略：** 买入 **XLY 222美元看涨期权（到期日：1-3天）**  
+  - **止损位：** 215.0美元  
 
-- **操作：** 买入 **VOO（标普500指数）**  
-    - **置信度：** 0.9  
-    - **理由：** RSI中性（50.6），市场动能强劲，风险回报比良好（2.5）  
-    - **期权策略：** 买入 **VOO 575美元看涨期权（1-3天到期）**  
-    - **止损位：** 560.0美元  
+### **1:00 - 2:00**  
+- **操作：** 买入 **VOO（标普500ETF）**  
+  - **置信度：** 0.9  
+  - **理由：** 与市场高度同步，看涨趋势  
+  - **期权策略：** 买入 **VOO 575美元看涨期权（到期日：1-3天）**  
+  - **止损位：** 560.0美元  
 
-### **1:00 PM - 2:00 PM**  
-- **操作：** 买入 **SPY（标普500指数）**  
-    - **置信度：** 0.9  
-    - **理由：** RSI中性（50.5），市场动能强劲，高风险回报比（2.5）  
-    - **期权策略：** 买入 **SPY 625美元看涨期权（1-3天到期）**  
-    - **止损位：** 610.0美元  
+- **操作：** 买入 **SPY（标普500ETF）**  
+  - **置信度：** 0.9  
+  - **理由：** 牛市动能强劲，VIX低位  
+  - **期权策略：** 买入 **SPY 625美元看涨期权（到期日：1-3天）**  
+  - **止损位：** 610.0美元  
 
-- **操作：** 买入 **DIA（道琼斯指数）**  
-    - **置信度：** 0.85  
-    - **理由：** RSI中性（51.5），动能强劲，风险回报比良好（2.5）  
-    - **期权策略：** 买入 **DIA 445美元看涨期权（1-3天到期）**  
-    - **止损位：** 435.0美元  
+### **2:00 - 3:00**  
+- **操作：** 买入 **DIA（道指ETF）**  
+  - **置信度：** 0.85  
+  - **理由：** 动能强劲，蓝筹股看涨  
+  - **期权策略：** 买入 **DIA 445美元看涨期权（到期日：1-3天）**  
+  - **止损位：** 435.0美元  
 
-### **2:00 PM - 3:00 PM**  
-- **操作：** 买入 **MDY（中盘股指数）**  
-    - **置信度：** 0.8  
-    - **理由：** RSI中性（44.3），动能强劲，风险回报比良好（2.2）  
-    - **期权策略：** 买入 **MDY 580美元看涨期权（1-3天到期）**  
-    - **止损位：** 555.0美元  
+- **操作：** 买入 **MDY（中盘股ETF）**  
+  - **置信度：** 0.8  
+  - **理由：** 动能强劲，中盘股看涨  
+  - **期权策略：** 买入 **MDY 580美元看涨期权（到期日：1-3天）**  
+  - **止损位：** 555.0美元  
 
+### **3:00 - 4:00（收盘时段）**  
 - **操作：** 买入 **FXI（中国大盘股）**  
-    - **置信度：** 0.75  
-    - **理由：** 超卖（RSI 44.8），宏观环境改善，高风险回报比（2.5）  
-    - **期权策略：** 买入 **FXI 37美元看涨期权（1-3天到期）**  
-    - **止损位：** 36.0美元  
+  - **置信度：** 0.75  
+  - **理由：** 动能强劲，宏观经济数据改善  
+  - **期权策略：** 买入 **FXI 37美元看涨期权（到期日：1-3天）**  
+  - **止损位：** 36.0美元  
 
-### **3:00 PM - 4:00 PM（收盘时段）**  
-- **操作：** 买入 **XLRE（房地产板块）**  
-    - **置信度：** 0.85  
-    - **理由：** 超卖（RSI 35.5），动能强劲，高风险回报比（2.5）  
-    - **期权策略：** 买入 **XLRE 42美元看涨期权（1-3天到期）**  
-    - **止损位：** 40.0美元  
-
-- **操作：** 持有 **SLV（白银ETF）**  
-    - **置信度：** 0.7  
-    - **理由：** RSI中性（57.8），信号混杂，收紧止损至34.5美元  
+- **操作：** 买入 **XLRE（房地产ETF）**  
+  - **置信度：** 0.85  
+  - **理由：** 超卖（RSI 35.5）、短期动能强劲  
+  - **期权策略：** 买入 **XLRE 42美元看涨期权（到期日：1-3天）**  
+  - **止损位：** 40.0美元  
 
 ---
 
-### **核心持仓总结**  
-- **高置信度买入：** XLB、XLI、XLE、GDXJ、SMH、XLK、XLY、VOO、SPY、DIA、MDY、FXI、XLRE  
-- **持有观察：** SLV、SOXX、ARKK  
-- **减持标的：** XLU  
+### **持仓标的**  
+- **SLV（持有）：** RSI中性，动能温和  
+- **SOXX（持有）：** 信号混杂，接近超买  
+- **ARKK（持有）：** RSI中性，趋势不明  
 
-**风险管理：** 通过严格止损保护盈利，同时在牛市环境中保留上行空间
+### **反向对冲标的**  
+- **SARK（反向ARKK）：** 若ARKK走弱时对冲  
+- **SRS（反向XLRE）：** 若房地产板块反转时对冲  
+
+**注意：** 根据市场变化动态调整止损位。重点执行高置信度且风险回报比优异的交易。
 
 
 
