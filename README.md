@@ -1,5 +1,5 @@
 
-    This output is updated at 2025-07-15 12:56:24 EST.
+    This output is updated at 2025-07-15 13:08:44 EST.
     ---
     
 # AI ETF Signals
@@ -10,165 +10,217 @@
 
 ![image](https://github.com/kevinchwong/ai-etf-signals/blob/main/images/architecture_1024.jpeg)
 
-# **ETF Options Strategy for Today (12:47 PM - 4:00 PM EST)**  
+# **ETF Options Strategy for Next Trading Day (9AM - 4PM EST)**  
 **Market Context:** Bull Momentum | **VIX:** 16.98 (Low Volatility)  
 
 ### **Key Strategic Recommendations**  
-1. **Focus on high-conviction bullish ETFs (ARKK, SMH, SOXX, XLE, XLY, FXI)** with strong momentum and favorable risk/reward.  
-2. **Hold defensive positions (XLU, GDXJ, SLV)** with tight stops to protect gains.  
-3. **Avoid overconcentration in tech-heavy ETFs (QQQ, XLK)** by reducing position sizes.  
-4. **Use tight stop-losses** to lock in profits in this extended bull run.  
+1. **Focus on high-conviction bullish ETFs (ARKK, SMH, SOXX, XLE, FXI, XLI, EEM, SPY, VOO, XLY, XLU)** with strong technicals and fundamentals.  
+2. **Hold mixed-signal ETFs (GDXJ, IWM, MDY, SLV)** until clearer trends emerge.  
+3. **Use tight stop-losses** to protect gains in this extended bull market.  
+4. **Prioritize sector diversification** to avoid overexposure to tech.  
 
 ---
 
 ## **Hour-by-Hour Trading Plan**  
 
-### **12:47 PM - 1:30 PM (Early Afternoon)**
+### **9:00 AM - 10:00 AM (Market Open)**
 - **Action:** Buy **ARKK** (Innovation ETF)  
   - **Confidence:** 0.9  
-  - **Reason:** Strong technicals (RSI 51.5), bullish sector news, tight stop at $72.5.  
+  - **Reason:** Strong technicals (RSI 51.5), bullish sector news, favorable risk/reward (3.2).  
   - **Option Strategy:** Buy **ARKK $75 Calls (Exp: 1-3 days out)**  
   - **Stop-Loss:** $72.5  
 
-- **Action:** Buy **XLE** (Energy ETF)  
-  - **Confidence:** 0.9  
-  - **Reason:** Oversold (RSI 40.3), strong rebound potential, high risk/reward (3.5).  
-  - **Option Strategy:** Buy **XLE $88 Calls (Exp: 1-3 days out)**  
-  - **Stop-Loss:** $85.0  
+- **Action:** Buy **SMH** (Semiconductors)  
+  - **Confidence:** 0.85  
+  - **Reason:** Strong momentum (RSI 53.2), booming semiconductor industry.  
+  - **Option Strategy:** Buy **SMH $295 Calls (Exp: 1-3 days out)**  
+  - **Stop-Loss:** $285.0  
 
-### **1:30 PM - 2:30 PM (Mid-Afternoon)**
+### **10:00 AM - 11:00 AM**  
 - **Action:** Buy **SOXX** (Semiconductors)  
   - **Confidence:** 0.85  
-  - **Reason:** Neutral RSI (50.0), strong industry growth, tight stop at $245.  
+  - **Reason:** Neutral RSI (49.9), strong industry growth, attractive risk/reward (2.2).  
   - **Option Strategy:** Buy **SOXX $250 Calls (Exp: 1-3 days out)**  
   - **Stop-Loss:** $245.0  
 
-- **Action:** Hold **SLV** (Silver ETF)  
-  - **Confidence:** 0.65  
-  - **Reason:** Neutral RSI (57.8), moderate momentum, stop at $32.5.  
-  - **Option Strategy:** Hold existing positions, no new trades.  
+- **Action:** Buy **XLE** (Energy)  
+  - **Confidence:** 0.9  
+  - **Reason:** Extremely oversold (RSI 40.3), strong rebound potential.  
+  - **Option Strategy:** Buy **XLE $87 Calls (Exp: 1-3 days out)**  
+  - **Stop-Loss:** $85.0  
 
-### **2:30 PM - 3:30 PM (Late Afternoon)**
+### **11:00 AM - 12:00 PM**  
 - **Action:** Buy **FXI** (China ETF)  
   - **Confidence:** 0.9  
-  - **Reason:** Oversold (RSI 44.8), improving macro data, stop at $36.57.  
+  - **Reason:** Strong technicals (RSI 44.8), improving macro data from China.  
   - **Option Strategy:** Buy **FXI $38 Calls (Exp: 1-3 days out)**  
   - **Stop-Loss:** $36.57  
 
-- **Action:** Hold **GDXJ** (Junior Gold Miners)  
-  - **Confidence:** 0.65  
-  - **Reason:** Mixed momentum, stop at $65.0.  
-  - **Option Strategy:** Hold, no new trades.  
-
-### **3:30 PM - 4:00 PM (Market Close)**
-- **Action:** Close **QQQ** (Tech ETF) if near target ($575.0)  
-  - **Confidence:** 0.7  
-  - **Reason:** Neutral RSI (51.6), reduced position size to avoid overexposure.  
-  - **Option Strategy:** Sell **QQQ $575 Calls (Exp: Today)** to lock in gains.  
-  - **Stop-Loss:** $545.0  
-
-- **Action:** Hold **XLU** (Utilities)  
+- **Action:** Buy **XLI** (Industrials)  
   - **Confidence:** 0.85  
-  - **Reason:** Oversold (RSI 42.0), defensive hedge, stop at $80.0.  
-  - **Option Strategy:** Hold existing positions.  
+  - **Reason:** Bullish momentum (RSI 51.9), infrastructure spending tailwinds.  
+  - **Option Strategy:** Buy **XLI $152 Calls (Exp: 1-3 days out)**  
+  - **Stop-Loss:** $145.75  
 
----
+### **12:00 PM - 1:00 PM**  
+- **Action:** Buy **EEM** (Emerging Markets)  
+  - **Confidence:** 0.8  
+  - **Reason:** Oversold (RSI 42.5), global risk-on sentiment.  
+  - **Option Strategy:** Buy **EEM $49 Calls (Exp: 1-3 days out)**  
+  - **Stop-Loss:** $47.22  
 
-### **Summary of Key Positions**  
-| ETF  | Action | Confidence | Key Levels | Option Play |  
-|------|--------|------------|------------|-------------|  
-| ARKK | Buy | 0.9 | Stop $72.5 | $75 Calls |  
-| XLE  | Buy | 0.9 | Stop $85.0 | $88 Calls |  
-| SOXX | Buy | 0.85 | Stop $245.0 | $250 Calls |  
-| FXI  | Buy | 0.9 | Stop $36.57 | $38 Calls |  
-| QQQ  | Close | 0.7 | Target $575.0 | Sell $575 Calls |  
+- **Action:** Buy **SPY** (S&P 500)  
+  - **Confidence:** 0.85  
+  - **Reason:** Neutral RSI (50.5), strong bull market context.  
+  - **Option Strategy:** Buy **SPY $625 Calls (Exp: 1-3 days out)**  
+  - **Stop-Loss:** $615.0  
 
+### **1:00 PM - 2:00 PM**  
+- **Action:** Buy **VOO** (S&P 500)  
+  - **Confidence:** 0.85  
+  - **Reason:** Neutral RSI (50.6), strong macro support.  
+  - **Option Strategy:** Buy **VOO $575 Calls (Exp: 1-3 days out)**  
+  - **Stop-Loss:** $565.0  
+
+- **Action:** Buy **XLY** (Consumer Discretionary)  
+  - **Confidence:** 0.8  
+  - **Reason:** Neutral RSI (48.5), strong consumer spending.  
+  - **Option Strategy:** Buy **XLY $222 Calls (Exp: 1-3 days out)**  
+  - **Stop-Loss:** $215.0  
+
+### **2:00 PM - 3:00 PM**  
+- **Action:** Buy **XLU** (Utilities)  
+  - **Confidence:** 0.85  
+  - **Reason:** Oversold (RSI 42.0), defensive hedge in bull market.  
+  - **Option Strategy:** Buy **XLU $82 Calls (Exp: 1-3 days out)**  
+  - **Stop-Loss:** $80.0  
+
+- **Action:** Hold **IWM** (Small-Caps)  
+  - **Confidence:** 0.65  
+  - **Reason:** Mixed signals (negative 1h momentum, positive 4h momentum).  
+
+### **3:00 PM - 4:00 PM (Market Close)**  
+- **Action:** Hold **GDXJ** (Gold Miners)  
+  - **Confidence:** 0.65  
+  - **Reason:** Neutral RSI (60.3), conflicting momentum signals.  
+
+- **Action:** Hold **SLV** (Silver)  
+  - **Confidence:** 0.65  
+  - **Reason:** Neutral RSI (57.8), stable but not accelerating demand.  
+
+---  
 **Final Notes:**  
-- **Aggressively trim winners** (QQQ, SPY) into strength.  
-- **Defensive holds (XLU, SLV)** act as hedges if momentum stalls.  
-- **Monitor VIX** for any volatility spikes.
+- **Avoid overconcentration in tech** (reduce size in ARKK/SMH/SOXX/XLK).  
+- **Monitor VIX** for any volatility spikes.  
+- **Exit all positions if VIX surges above 20.**
 
 ---
 
 ## 中文版策略 (Chinese Version)
 
-# **ETF期权交易策略（美东时间12:47 PM - 4:00 PM）**  
-**市场环境：** 多头动能 | **VIX恐慌指数：** 16.98（低波动率）  
+# **ETF期权交易策略（美东时间上午9点至下午4点）**  
+**市场环境：** 牛市动能 | **VIX恐慌指数：** 16.98（低波动率）  
 
 ### **核心策略建议**  
-1. **重点布局高确定性看涨ETF（ARKK、SMH、SOXX、XLE、XLY、FXI）**，选择动能强劲且风险回报比佳的品种  
-2. **持有防御性仓位（XLU、GDXJ、SLV）**，设置紧密止损以保护利润  
-3. **避免过度集中科技类ETF（QQQ、XLK）**，需减少持仓规模  
-4. **采用紧密止损策略**，在本次延长的牛市中锁定利润  
+1. **重点布局高确定性看涨ETF（ARKK创新基金、SMH半导体、SOXX半导体、XLE能源、FXI中国、XLI工业、EEM新兴市场、SPY标普500、VOO标普500、XLY消费、XLU公用事业）**，选择技术面和基本面俱佳的标的  
+2. **对信号矛盾的ETF（GDXJ黄金矿业、IWM小盘股、MDY中盘股、SLV白银）保持观望**，等待趋势明朗  
+3. **设置严格止损** 保护牛市中的既得收益  
+4. **优先行业分散配置** 避免过度集中于科技板块  
 
 ---
 
 ## **分时段交易计划**  
 
-### **12:47 PM - 1:30 PM（午后初段）**
-- **操作：** 买入 **ARKK**（创新科技ETF）  
+### **9:00 - 10:00（开盘时段）**
+- **操作：** 买入 **ARKK（创新ETF）**  
   - **置信度：** 0.9  
-  - **理由：** 技术面强劲（RSI 51.5）、行业利好消息、止损位设在72.5美元  
-  - **期权策略：** 买入 **ARKK 75美元看涨期权（到期日：1-3天）**  
+  - **依据：** 技术面强劲（RSI 51.5）、行业利好、风险回报比优异（3.2）  
+  - **期权策略：** 买入 **ARKK 75美元看涨期权（1-3天到期）**  
   - **止损位：** 72.5美元  
 
-- **操作：** 买入 **XLE**（能源ETF）  
-  - **置信度：** 0.9  
-  - **理由：** 超卖状态（RSI 40.3）、反弹潜力大、风险回报比高达3.5  
-  - **期权策略：** 买入 **XLE 88美元看涨期权（到期日：1-3天）**  
-  - **止损位：** 85.0美元  
-
-### **1:30 PM - 2:30 PM（午后中段）**
-- **操作：** 买入 **SOXX**（半导体ETF）  
+- **操作：** 买入 **SMH（半导体ETF）**  
   - **置信度：** 0.85  
-  - **理由：** RSI中性（50.0）、行业增长强劲、止损位设在245美元  
-  - **期权策略：** 买入 **SOXX 250美元看涨期权（到期日：1-3天）**  
+  - **依据：** 动能强劲（RSI 53.2）、半导体行业繁荣  
+  - **期权策略：** 买入 **SMH 295美元看涨期权（1-3天到期）**  
+  - **止损位：** 285.0美元  
+
+### **10:00 - 11:00**  
+- **操作：** 买入 **SOXX（半导体ETF）**  
+  - **置信度：** 0.85  
+  - **依据：** RSI中性（49.9）、行业增长确定、风险回报比吸引（2.2）  
+  - **期权策略：** 买入 **SOXX 250美元看涨期权（1-3天到期）**  
   - **止损位：** 245.0美元  
 
-- **操作：** 持有 **SLV**（白银ETF）  
-  - **置信度：** 0.65  
-  - **理由：** RSI中性（57.8）、动能一般、止损位设在32.5美元  
-  - **期权策略：** 维持现有仓位，不开新仓  
-
-### **2:30 PM - 3:30 PM（午后末段）**
-- **操作：** 买入 **FXI**（中国ETF）  
+- **操作：** 买入 **XLE（能源ETF）**  
   - **置信度：** 0.9  
-  - **理由：** 超卖状态（RSI 44.8）、宏观经济数据改善、止损位设在36.57美元  
-  - **期权策略：** 买入 **FXI 38美元看涨期权（到期日：1-3天）**  
+  - **依据：** 严重超卖（RSI 40.3）、反弹潜力大  
+  - **期权策略：** 买入 **XLE 87美元看涨期权（1-3天到期）**  
+  - **止损位：** 85.0美元  
+
+### **11:00 - 12:00**  
+- **操作：** 买入 **FXI（中国ETF）**  
+  - **置信度：** 0.9  
+  - **依据：** 技术面改善（RSI 44.8）、中国宏观经济数据向好  
+  - **期权策略：** 买入 **FXI 38美元看涨期权（1-3天到期）**  
   - **止损位：** 36.57美元  
 
-- **操作：** 持有 **GDXJ**（小型金矿股ETF）  
-  - **置信度：** 0.65  
-  - **理由：** 动能分化、止损位设在65.0美元  
-  - **期权策略：** 维持现有仓位  
-
-### **3:30 PM - 4:00 PM（收盘阶段）**
-- **操作：** 若接近目标价（575.0美元）则平仓 **QQQ**（科技ETF）  
-  - **置信度：** 0.7  
-  - **理由：** RSI中性（51.6）、需降低仓位避免过度暴露  
-  - **期权策略：** 卖出 **QQQ 575美元看涨期权（当日到期）** 锁定利润  
-  - **止损位：** 545.0美元  
-
-- **操作：** 持有 **XLU**（公用事业ETF）  
+- **操作：** 买入 **XLI（工业ETF）**  
   - **置信度：** 0.85  
-  - **理由：** 超卖状态（RSI 42.0）、作为防御性对冲、止损位设在80.0美元  
-  - **期权策略：** 维持现有仓位  
+  - **依据：** 牛市动能（RSI 51.9）、基建投资利好  
+  - **期权策略：** 买入 **XLI 152美元看涨期权（1-3天到期）**  
+  - **止损位：** 145.75美元  
 
----
+### **12:00 - 13:00**  
+- **操作：** 买入 **EEM（新兴市场ETF）**  
+  - **置信度：** 0.8  
+  - **依据：** 超卖状态（RSI 42.5）、全球风险偏好回升  
+  - **期权策略：** 买入 **EEM 49美元看涨期权（1-3天到期）**  
+  - **止损位：** 47.22美元  
 
-### **关键持仓摘要**  
-| ETF  | 操作 | 置信度 | 关键价位 | 期权策略 |  
-|------|--------|------------|------------|-------------|  
-| ARKK | 买入 | 0.9 | 止损72.5美元 | 75美元看涨期权 |  
-| XLE  | 买入 | 0.9 | 止损85.0美元 | 88美元看涨期权 |  
-| SOXX | 买入 | 0.85 | 止损245.0美元 | 250美元看涨期权 |  
-| FXI  | 买入 | 0.9 | 止损36.57美元 | 38美元看涨期权 |  
-| QQQ  | 平仓 | 0.7 | 目标575.0美元 | 卖出575美元看涨期权 |  
+- **操作：** 买入 **SPY（标普500ETF）**  
+  - **置信度：** 0.85  
+  - **依据：** RSI中性（50.5）、牛市环境支撑  
+  - **期权策略：** 买入 **SPY 625美元看涨期权（1-3天到期）**  
+  - **止损位：** 615.0美元  
 
+### **13:00 - 14:00**  
+- **操作：** 买入 **VOO（标普500ETF）**  
+  - **置信度：** 0.85  
+  - **依据：** RSI中性（50.6）、宏观面支撑强劲  
+  - **期权策略：** 买入 **VOO 575美元看涨期权（1-3天到期）**  
+  - **止损位：** 565.0美元  
+
+- **操作：** 买入 **XLY（消费ETF）**  
+  - **置信度：** 0.8  
+  - **依据：** RSI中性（48.5）、消费支出强劲  
+  - **期权策略：** 买入 **XLY 222美元看涨期权（1-3天到期）**  
+  - **止损位：** 215.0美元  
+
+### **14:00 - 15:00**  
+- **操作：** 买入 **XLU（公用事业ETF）**  
+  - **置信度：** 0.85  
+  - **依据：** 超卖状态（RSI 42.0）、牛市中的防御性对冲  
+  - **期权策略：** 买入 **XLU 82美元看涨期权（1-3天到期）**  
+  - **止损位：** 80.0美元  
+
+- **操作：** 持有 **IWM（小盘股ETF）**  
+  - **置信度：** 0.65  
+  - **依据：** 1小时图动能消极/4小时图动能积极的矛盾信号  
+
+### **15:00 - 16:00（收盘时段）**  
+- **操作：** 持有 **GDXJ（黄金矿业ETF）**  
+  - **置信度：** 0.65  
+  - **依据：** RSI中性（60.3）、动能信号矛盾  
+
+- **操作：** 持有 **SLV（白银ETF）**  
+  - **置信度：** 0.65  
+  - **依据：** RSI中性（57.8）、需求平稳但无加速迹象  
+
+---  
 **最终提示：**  
-- **强势品种（QQQ、SPY）逢高减仓**  
-- **防御性持仓（XLU、SLV）** 可在动能减弱时对冲风险  
-- **密切关注VIX指数** 防范波动率骤升
+- **避免科技股过度集中**（控制ARKK/SMH/SOXX/XLK仓位）  
+- **监控VIX指数** 防范波动率骤升  
+- **若VIX突破20则平仓所有头寸**
 
 
 
