@@ -1,5 +1,5 @@
 
-    This output is updated at 2025-07-15 12:44:03 EST.
+    This output is updated at 2025-07-15 12:56:24 EST.
     ---
     
 # AI ETF Signals
@@ -10,205 +10,165 @@
 
 ![image](https://github.com/kevinchwong/ai-etf-signals/blob/main/images/architecture_1024.jpeg)
 
-# **ETF Options Strategy for Next Trading Day (9AM - 4PM EST)**  
-**Market Context:** Bull Momentum | **VIX:** 16.97 (Low Volatility)  
+# **ETF Options Strategy for Today (12:47 PM - 4:00 PM EST)**  
+**Market Context:** Bull Momentum | **VIX:** 16.98 (Low Volatility)  
 
 ### **Key Strategic Recommendations**  
-1. **Focus on high-momentum tech/semiconductor ETFs (SMH, SOXX, QQQ, XLK)** with neutral RSI and strong fundamentals.  
-2. **Hold defensive/neutral ETFs (SLV, GLD, GDXJ, DIA, MDY)** due to mixed signals.  
-3. **Use tight stop-losses** to lock in gains on high-momentum trades.  
-4. **Avoid overconcentration** by diversifying across sectors (tech, energy, utilities).  
+1. **Focus on high-conviction bullish ETFs (ARKK, SMH, SOXX, XLE, XLY, FXI)** with strong momentum and favorable risk/reward.  
+2. **Hold defensive positions (XLU, GDXJ, SLV)** with tight stops to protect gains.  
+3. **Avoid overconcentration in tech-heavy ETFs (QQQ, XLK)** by reducing position sizes.  
+4. **Use tight stop-losses** to lock in profits in this extended bull run.  
 
 ---
 
 ## **Hour-by-Hour Trading Plan**  
 
-### **9:00 AM - 10:00 AM (Market Open)**  
-- **Action:** Buy **SMH** (Semiconductors)  
-  - **Confidence:** 0.85  
-  - **Reason:** Neutral RSI (53.2), strong 4h momentum, bullish sector fundamentals.  
-  - **Option Strategy:** Buy **SMH $295 Calls (Exp: 1-3 days out)**  
-  - **Stop-Loss:** $285.0 (Technical support)  
+### **12:47 PM - 1:30 PM (Early Afternoon)**
+- **Action:** Buy **ARKK** (Innovation ETF)  
+  - **Confidence:** 0.9  
+  - **Reason:** Strong technicals (RSI 51.5), bullish sector news, tight stop at $72.5.  
+  - **Option Strategy:** Buy **ARKK $75 Calls (Exp: 1-3 days out)**  
+  - **Stop-Loss:** $72.5  
 
-- **Action:** Buy **SOXX** (Semiconductors)  
-  - **Confidence:** 0.8  
-  - **Reason:** Neutral RSI (50.0), robust 4h momentum (1963.9%), favorable industry trends.  
-  - **Option Strategy:** Buy **SOXX $250 Calls (Exp: 1-3 days out)**  
-  - **Stop-Loss:** $240.0  
-
-### **10:00 AM - 11:00 AM**  
-- **Action:** Buy **QQQ** (Nasdaq 100)  
-  - **Confidence:** 0.85  
-  - **Reason:** Neutral RSI (51.6), strong tech sector momentum, low VIX supports growth stocks.  
-  - **Option Strategy:** Buy **QQQ $565 Calls (Exp: 1-3 days out)**  
-  - **Stop-Loss:** $550.0  
-
-- **Action:** Buy **XLK** (Tech Sector)  
-  - **Confidence:** 0.85  
-  - **Reason:** Neutral RSI (53.6), bullish market context, strong earnings from holdings (NVIDIA, Broadcom).  
-  - **Option Strategy:** Buy **XLK $260 Calls (Exp: 1-3 days out)**  
-  - **Stop-Loss:** $250.0  
-
-### **11:00 AM - 12:00 PM**  
-- **Action:** Hold **SLV** (Silver)  
-  - **Confidence:** 0.65  
-  - **Reason:** Approaching overbought RSI (57.8), no strong catalysts. Monitor for reversal signals.  
-
-- **Action:** Buy **XLE** (Energy)  
-  - **Confidence:** 0.85  
-  - **Reason:** Oversold RSI (40.3), strong 4h momentum (626.6%), rising oil prices.  
+- **Action:** Buy **XLE** (Energy ETF)  
+  - **Confidence:** 0.9  
+  - **Reason:** Oversold (RSI 40.3), strong rebound potential, high risk/reward (3.5).  
   - **Option Strategy:** Buy **XLE $88 Calls (Exp: 1-3 days out)**  
   - **Stop-Loss:** $85.0  
 
-### **12:00 PM - 1:00 PM**  
-- **Action:** Hold **GLD** (Gold)  
-  - **Confidence:** 0.65  
-  - **Reason:** High RSI (64.4), neutral sentiment. No urgency to add exposure.  
-
-- **Action:** Buy **XLU** (Utilities)  
+### **1:30 PM - 2:30 PM (Mid-Afternoon)**
+- **Action:** Buy **SOXX** (Semiconductors)  
   - **Confidence:** 0.85  
-  - **Reason:** Oversold RSI (42.0), strong 4h momentum (201.9%), defensive hedge.  
-  - **Option Strategy:** Buy **XLU $82 Calls (Exp: 1-3 days out)**  
-  - **Stop-Loss:** $80.0  
+  - **Reason:** Neutral RSI (50.0), strong industry growth, tight stop at $245.  
+  - **Option Strategy:** Buy **SOXX $250 Calls (Exp: 1-3 days out)**  
+  - **Stop-Loss:** $245.0  
 
-### **1:00 PM - 2:00 PM**  
+- **Action:** Hold **SLV** (Silver ETF)  
+  - **Confidence:** 0.65  
+  - **Reason:** Neutral RSI (57.8), moderate momentum, stop at $32.5.  
+  - **Option Strategy:** Hold existing positions, no new trades.  
+
+### **2:30 PM - 3:30 PM (Late Afternoon)**
+- **Action:** Buy **FXI** (China ETF)  
+  - **Confidence:** 0.9  
+  - **Reason:** Oversold (RSI 44.8), improving macro data, stop at $36.57.  
+  - **Option Strategy:** Buy **FXI $38 Calls (Exp: 1-3 days out)**  
+  - **Stop-Loss:** $36.57  
+
 - **Action:** Hold **GDXJ** (Junior Gold Miners)  
   - **Confidence:** 0.65  
-  - **Reason:** Conflicting momentum signals (negative 1h vs. strong 4h). Wait for alignment.  
+  - **Reason:** Mixed momentum, stop at $65.0.  
+  - **Option Strategy:** Hold, no new trades.  
 
-- **Action:** Buy **IWM** (Small-Caps)  
-  - **Confidence:** 0.8  
-  - **Reason:** Neutral RSI (42.5), strong 4h momentum (850.6%), favorable macro conditions.  
-  - **Option Strategy:** Buy **IWM $225 Calls (Exp: 1-3 days out)**  
-  - **Stop-Loss:** $220.0  
-
-### **2:00 PM - 3:00 PM**  
-- **Action:** Hold **DIA** (Dow 30)  
-  - **Confidence:** 0.6  
-  - **Reason:** Neutral RSI (51.5), negative 1h momentum (-71.6%). Avoid new entries.  
-
-- **Action:** Buy **FXI** (China Large-Caps)  
-  - **Confidence:** 0.85  
-  - **Reason:** Neutral RSI (44.8), strong 4h momentum (375.3%), policy easing in China.  
-  - **Option Strategy:** Buy **FXI $39 Calls (Exp: 1-3 days out)**  
-  - **Stop-Loss:** $37.0  
-
-### **3:00 PM - 4:00 PM (Close)**  
-- **Action:** Trim **ARKK** (Disruptive Tech)  
+### **3:30 PM - 4:00 PM (Market Close)**
+- **Action:** Close **QQQ** (Tech ETF) if near target ($575.0)  
   - **Confidence:** 0.7  
-  - **Reason:** High volatility, mixed fundamentals. Reduce size to 0.1 for risk management.  
+  - **Reason:** Neutral RSI (51.6), reduced position size to avoid overexposure.  
+  - **Option Strategy:** Sell **QQQ $575 Calls (Exp: Today)** to lock in gains.  
+  - **Stop-Loss:** $545.0  
 
-- **Action:** Hold **SPY/VOO** (S&P 500)  
+- **Action:** Hold **XLU** (Utilities)  
   - **Confidence:** 0.85  
-  - **Reason:** Neutral RSI (~50.5), strong bull momentum. No need to adjust core positions.  
+  - **Reason:** Oversold (RSI 42.0), defensive hedge, stop at $80.0.  
+  - **Option Strategy:** Hold existing positions.  
 
----  
-**Notes:**  
-- Prioritize **short-dated calls (1-3 days)** to capitalize on momentum.  
-- Use **inverse ETFs (e.g., SQQQ, SOXS)** if bearish reversals emerge (not currently signaled).  
-- Monitor **VIX** for volatility spikes; tighten stops if VIX rises above 20.
+---
+
+### **Summary of Key Positions**  
+| ETF  | Action | Confidence | Key Levels | Option Play |  
+|------|--------|------------|------------|-------------|  
+| ARKK | Buy | 0.9 | Stop $72.5 | $75 Calls |  
+| XLE  | Buy | 0.9 | Stop $85.0 | $88 Calls |  
+| SOXX | Buy | 0.85 | Stop $245.0 | $250 Calls |  
+| FXI  | Buy | 0.9 | Stop $36.57 | $38 Calls |  
+| QQQ  | Close | 0.7 | Target $575.0 | Sell $575 Calls |  
+
+**Final Notes:**  
+- **Aggressively trim winners** (QQQ, SPY) into strength.  
+- **Defensive holds (XLU, SLV)** act as hedges if momentum stalls.  
+- **Monitor VIX** for any volatility spikes.
 
 ---
 
 ## 中文版策略 (Chinese Version)
 
-# **ETF期权次日交易策略（美东时间9AM-4PM）**  
-**市场环境：** 多头动能 | **VIX恐慌指数：** 16.97（低波动率）  
+# **ETF期权交易策略（美东时间12:47 PM - 4:00 PM）**  
+**市场环境：** 多头动能 | **VIX恐慌指数：** 16.98（低波动率）  
 
 ### **核心策略建议**  
-1. **聚焦高动能科技/半导体ETF（SMH、SOXX、QQQ、XLK）**：选择RSI中性且基本面强劲的标的  
-2. **持有防御型/中性ETF（SLV、GLD、GDXJ、DIA、MDY）**：因市场信号分化  
-3. **设置严格止损**：锁定高动能交易的利润  
-4. **避免过度集中**：分散配置科技、能源、公用事业等板块  
+1. **重点布局高确定性看涨ETF（ARKK、SMH、SOXX、XLE、XLY、FXI）**，选择动能强劲且风险回报比佳的品种  
+2. **持有防御性仓位（XLU、GDXJ、SLV）**，设置紧密止损以保护利润  
+3. **避免过度集中科技类ETF（QQQ、XLK）**，需减少持仓规模  
+4. **采用紧密止损策略**，在本次延长的牛市中锁定利润  
 
 ---
 
 ## **分时段交易计划**  
 
-### **9:00 AM - 10:00 AM（开盘时段）**  
-- **操作：** 买入 **SMH**（半导体ETF）  
-  - **置信度：** 0.85  
-  - **理由：** RSI中性（53.2），4小时动能强劲，行业基本面看涨  
-  - **期权策略：** 买入 **SMH 295美元看涨期权（到期日：1-3天）**  
-  - **止损位：** 285.0美元（技术支撑位）  
-
-- **操作：** 买入 **SOXX**（半导体ETF）  
-  - **置信度：** 0.8  
-  - **理由：** RSI中性（50.0），4小时动能强劲（1963.9%），行业趋势向好  
-  - **期权策略：** 买入 **SOXX 250美元看涨期权（到期日：1-3天）**  
-  - **止损位：** 240.0美元  
-
-### **10:00 AM - 11:00 AM**  
-- **操作：** 买入 **QQQ**（纳斯达克100ETF）  
-  - **置信度：** 0.85  
-  - **理由：** RSI中性（51.6），科技板块动能强劲，低VIX利好成长股  
-  - **期权策略：** 买入 **QQQ 565美元看涨期权（到期日：1-3天）**  
-  - **止损位：** 550.0美元  
-
-- **操作：** 买入 **XLK**（科技板块ETF）  
-  - **置信度：** 0.85  
-  - **理由：** RSI中性（53.6），看涨市场环境，成分股（英伟达、博通）财报强劲  
-  - **期权策略：** 买入 **XLK 260美元看涨期权（到期日：1-3天）**  
-  - **止损位：** 250.0美元  
-
-### **11:00 AM - 12:00 PM**  
-- **操作：** 持有 **SLV**（白银ETF）  
-  - **置信度：** 0.65  
-  - **理由：** RSI接近超买（57.8），缺乏催化剂。需观察反转信号  
+### **12:47 PM - 1:30 PM（午后初段）**
+- **操作：** 买入 **ARKK**（创新科技ETF）  
+  - **置信度：** 0.9  
+  - **理由：** 技术面强劲（RSI 51.5）、行业利好消息、止损位设在72.5美元  
+  - **期权策略：** 买入 **ARKK 75美元看涨期权（到期日：1-3天）**  
+  - **止损位：** 72.5美元  
 
 - **操作：** 买入 **XLE**（能源ETF）  
-  - **置信度：** 0.85  
-  - **理由：** RSI超卖（40.3），4小时动能强劲（626.6%），油价上涨  
+  - **置信度：** 0.9  
+  - **理由：** 超卖状态（RSI 40.3）、反弹潜力大、风险回报比高达3.5  
   - **期权策略：** 买入 **XLE 88美元看涨期权（到期日：1-3天）**  
   - **止损位：** 85.0美元  
 
-### **12:00 PM - 1:00 PM**  
-- **操作：** 持有 **GLD**（黄金ETF）  
-  - **置信度：** 0.65  
-  - **理由：** RSI偏高（64.4），市场情绪中性。无需增持  
-
-- **操作：** 买入 **XLU**（公用事业ETF）  
+### **1:30 PM - 2:30 PM（午后中段）**
+- **操作：** 买入 **SOXX**（半导体ETF）  
   - **置信度：** 0.85  
-  - **理由：** RSI超卖（42.0），4小时动能强劲（201.9%），防御性对冲  
-  - **期权策略：** 买入 **XLU 82美元看涨期权（到期日：1-3天）**  
-  - **止损位：** 80.0美元  
+  - **理由：** RSI中性（50.0）、行业增长强劲、止损位设在245美元  
+  - **期权策略：** 买入 **SOXX 250美元看涨期权（到期日：1-3天）**  
+  - **止损位：** 245.0美元  
 
-### **1:00 PM - 2:00 PM**  
+- **操作：** 持有 **SLV**（白银ETF）  
+  - **置信度：** 0.65  
+  - **理由：** RSI中性（57.8）、动能一般、止损位设在32.5美元  
+  - **期权策略：** 维持现有仓位，不开新仓  
+
+### **2:30 PM - 3:30 PM（午后末段）**
+- **操作：** 买入 **FXI**（中国ETF）  
+  - **置信度：** 0.9  
+  - **理由：** 超卖状态（RSI 44.8）、宏观经济数据改善、止损位设在36.57美元  
+  - **期权策略：** 买入 **FXI 38美元看涨期权（到期日：1-3天）**  
+  - **止损位：** 36.57美元  
+
 - **操作：** 持有 **GDXJ**（小型金矿股ETF）  
   - **置信度：** 0.65  
-  - **理由：** 动能信号矛盾（1小时负向 vs 4小时强劲）。等待信号一致  
+  - **理由：** 动能分化、止损位设在65.0美元  
+  - **期权策略：** 维持现有仓位  
 
-- **操作：** 买入 **IWM**（小型股ETF）  
-  - **置信度：** 0.8  
-  - **理由：** RSI中性（42.5），4小时动能强劲（850.6%），宏观环境有利  
-  - **期权策略：** 买入 **IWM 225美元看涨期权（到期日：1-3天）**  
-  - **止损位：** 220.0美元  
-
-### **2:00 PM - 3:00 PM**  
-- **操作：** 持有 **DIA**（道指ETF）  
-  - **置信度：** 0.6  
-  - **理由：** RSI中性（51.5），1小时动能负向（-71.6%）。避免新建仓位  
-
-- **操作：** 买入 **FXI**（中国大盘股ETF）  
-  - **置信度：** 0.85  
-  - **理由：** RSI中性（44.8），4小时动能强劲（375.3%），中国政策宽松  
-  - **期权策略：** 买入 **FXI 39美元看涨期权（到期日：1-3天）**  
-  - **止损位：** 37.0美元  
-
-### **3:00 PM - 4:00 PM（收盘时段）**  
-- **操作：** 减仓 **ARKK**（颠覆性科技ETF）  
+### **3:30 PM - 4:00 PM（收盘阶段）**
+- **操作：** 若接近目标价（575.0美元）则平仓 **QQQ**（科技ETF）  
   - **置信度：** 0.7  
-  - **理由：** 高波动性，基本面分化。将仓位降至0.1以控制风险  
+  - **理由：** RSI中性（51.6）、需降低仓位避免过度暴露  
+  - **期权策略：** 卖出 **QQQ 575美元看涨期权（当日到期）** 锁定利润  
+  - **止损位：** 545.0美元  
 
-- **操作：** 持有 **SPY/VOO**（标普500ETF）  
+- **操作：** 持有 **XLU**（公用事业ETF）  
   - **置信度：** 0.85  
-  - **理由：** RSI中性（约50.5），多头动能强劲。核心仓位无需调整  
+  - **理由：** 超卖状态（RSI 42.0）、作为防御性对冲、止损位设在80.0美元  
+  - **期权策略：** 维持现有仓位  
 
----  
-**备注：**  
-- 优先选择 **短期看涨期权（1-3天到期）** 以捕捉动量机会  
-- 若出现熊市反转信号（当前未出现），可使用 **反向ETF（如SQQQ、SOXS）**  
-- 监控 **VIX指数**：若突破20则需收紧止损
+---
+
+### **关键持仓摘要**  
+| ETF  | 操作 | 置信度 | 关键价位 | 期权策略 |  
+|------|--------|------------|------------|-------------|  
+| ARKK | 买入 | 0.9 | 止损72.5美元 | 75美元看涨期权 |  
+| XLE  | 买入 | 0.9 | 止损85.0美元 | 88美元看涨期权 |  
+| SOXX | 买入 | 0.85 | 止损245.0美元 | 250美元看涨期权 |  
+| FXI  | 买入 | 0.9 | 止损36.57美元 | 38美元看涨期权 |  
+| QQQ  | 平仓 | 0.7 | 目标575.0美元 | 卖出575美元看涨期权 |  
+
+**最终提示：**  
+- **强势品种（QQQ、SPY）逢高减仓**  
+- **防御性持仓（XLU、SLV）** 可在动能减弱时对冲风险  
+- **密切关注VIX指数** 防范波动率骤升
 
 
 
@@ -219,541 +179,484 @@ buy_signals_table:
 +----------+----------+-------------------+---------+----------------+-------+--------------+----------+---------+--------+-------+----------+--------------------------------+--------------------------------+
 | Symbol   | Action   | Inverted Symbol   |   Price |   Price Change |   RSI | Confidence   | Target   | Stop    | Size   |   R/R | Return   | Reasoning                      | Reasons                        |
 +==========+==========+===================+=========+================+=======+==============+==========+=========+========+=======+==========+================================+================================+
-| SMH      | buy      | ['SOXS'           |  291.97 |              0 |  53.2 | 85.0%        | $310.00  | $285.00 | 60.0%  |   2.5 | 650.0%   | SMH is a buy due to strong     | {'confidence': 0.7,            |
-|          |          | ]                 |         |                |       |              |          |         |        |       |          | momentum, neutral RSI, and     | 'reasoning': 'Semiconductor    |
-|          |          |                   |         |                |       |              |          |         |        |       |          | favorable industry trends. The | industry is booming with       |
-|          |          |                   |         |                |       |              |          |         |        |       |          | trade-off between potential    | strong demand.', 'type':       |
-|          |          |                   |         |                |       |              |          |         |        |       |          | upside and risk is managed     | 'industry_news'}               |
-|          |          |                   |         |                |       |              |          |         |        |       |          | with a stop loss at 285.0. The | {'confidence': 0.7,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          | position size has been reduced | 'reasoning': 'Component        |
-|          |          |                   |         |                |       |              |          |         |        |       |          | to better manage sector        | companies in SMH are reporting |
-|          |          |                   |         |                |       |              |          |         |        |       |          | concentration risk, and        | strong earnings.', 'type':     |
-|          |          |                   |         |                |       |              |          |         |        |       |          | confidence has been increased  | 'company_news'} {'confidence': |
-|          |          |                   |         |                |       |              |          |         |        |       |          | by incorporating more diverse  | 0.7, 'reasoning': 'Financial   |
-|          |          |                   |         |                |       |              |          |         |        |       |          | factors such as sector         | news highlights growth in the  |
-|          |          |                   |         |                |       |              |          |         |        |       |          | rotation.                      | tech sector, benefiting SMH.', |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': 'financial_news'}      |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.6,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Political        |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | support for tech manufacturing |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | is positive for SMH.', 'type': |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'political_news'}              |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.6,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Social trends    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | favor technology adoption,     |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | supporting SMH.', 'type':      |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'social_news'} {'confidence':  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 0.8, 'reasoning':              |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'Technological advancements    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | are driving semiconductor      |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | demand.', 'type':              |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'technology_news'}             |
+| ARKK     | buy      | ['SARK'           |   73.32 |              0 |  51.5 | 90.0%        | $80.65   | $72.50  | 25.0%  |   3.2 | 1000.0%  | ARKK shows strong technical    | {'confidence': 0.7,            |
+|          |          | ]                 |         |                |       |              |          |         |        |       |          | and fundamental alignment,     | 'reasoning': 'The tech and     |
+|          |          |                   |         |                |       |              |          |         |        |       |          | making it a confident buy. The | innovation sector is showing   |
+|          |          |                   |         |                |       |              |          |         |        |       |          | revised signal addresses       | strong growth potential.',     |
+|          |          |                   |         |                |       |              |          |         |        |       |          | inconsistencies in confidence  | 'type': 'industry_news'}       |
+|          |          |                   |         |                |       |              |          |         |        |       |          | levels and reduces sector      | {'confidence': 0.6,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          | concentration risk while       | 'reasoning': "ARKK's holdings  |
+|          |          |                   |         |                |       |              |          |         |        |       |          | maintaining an attractive      | in disruptive technologies are |
+|          |          |                   |         |                |       |              |          |         |        |       |          | risk/reward ratio.             | performing well.", 'type':     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'company_news'} {'confidence': |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 0.65, 'reasoning': 'Financial  |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | indicators suggest a bullish   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | trend for ARKK.', 'type':      |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'financial_news'}              |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.8,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Long-term trends |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | for semiconductors are         |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | strongly positive.', 'type':   |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'long_term_trends'}            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.8,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Short-term       |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | momentum is extremely strong   |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | with Mom1h=564.1% and          |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | Mom4h=2064.4%.', 'type':       |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'short_term_trends'}           |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.8,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'RSI at 53.2 is   |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | neutral, indicating room for   |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | further upside; strong         |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | momentum supports a buy.',     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Strong momentum  |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | indicators (1h and 4h) and RSI |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | in a favorable range.',        |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': 'technical_analysis'}  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Fundamentals for |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | semiconductor ETFs are strong  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | with high growth potential.',  |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.75,           |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Market sentiment |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | is positive towards innovation |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | ETFs.', 'type':                |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'sentiment_analysis'}          |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.8,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Controlled risk  |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | with a clear stop loss and     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | favorable risk/reward ratio.', |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': 'risk_assessment'}     |
++----------+----------+-------------------+---------+----------------+-------+--------------+----------+---------+--------+-------+----------+--------------------------------+--------------------------------+
+| FXI      | buy      | ['FXP',           |   37.44 |              0 |  44.8 | 90.0%        | $41.18   | $36.57  | 25.0%  |   2.8 | 1200.0%  | FXI shows strong momentum      | {'confidence': 0.7,            |
+|          |          | 'YANG']           |         |                |       |              |          |         |        |       |          | indicators (1h and 4h) with a  | 'reasoning': 'Positive         |
+|          |          |                   |         |                |       |              |          |         |        |       |          | neutral RSI, suggesting room   | sentiment in the Chinese       |
+|          |          |                   |         |                |       |              |          |         |        |       |          | for upside. The bullish market | market due to recent policy    |
+|          |          |                   |         |                |       |              |          |         |        |       |          | context and improving          | easing.', 'type':              |
+|          |          |                   |         |                |       |              |          |         |        |       |          | macroeconomic data from China  | 'industry_news'}               |
+|          |          |                   |         |                |       |              |          |         |        |       |          | further support a buy          | {'confidence': 0.6,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          | decision. Risk is managed with | 'reasoning': 'No significant   |
+|          |          |                   |         |                |       |              |          |         |        |       |          | a tighter stop loss and        | company-specific news.',       |
+|          |          |                   |         |                |       |              |          |         |        |       |          | favorable risk/reward ratio.   | 'type': 'company_news'}        |
+|          |          |                   |         |                |       |              |          |         |        |       |          | The position size was reduced  | {'confidence': 0.75,           |
+|          |          |                   |         |                |       |              |          |         |        |       |          | to mitigate concentration risk | 'reasoning': 'Improving        |
+|          |          |                   |         |                |       |              |          |         |        |       |          | in the tech and innovation     | economic indicators in         |
+|          |          |                   |         |                |       |              |          |         |        |       |          | sector.                        | China.', 'type':               |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'financial_news'}              |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.65,           |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Stable political |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | environment in China.',        |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': 'political_news'}      |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.55,           |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'No significant   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | social news.', 'type':         |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'social_news'} {'confidence':  |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 0.6, 'reasoning': 'Tech sector |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | in China showing resilience.', |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': 'technology_news'}     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.8,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Long-term        |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | uptrend in Chinese equities.', |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': 'long_term_trends'}    |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.85,           |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Strong short-    |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | term momentum indicators.',    |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': 'short_term_trends'}   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.9,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'RSI is neutral,  |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | strong momentum indicators (1h |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | and 4h), and bullish price     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | action.', 'type':              |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'technical_analysis'}          |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.75,           |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Attractive       |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | valuation relative to peers.', |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type':                        |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'fundamental_analysis'}        |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': "Market sentiment |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | is bullish, aligning with      |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | SMH's momentum.", 'type':      |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Positive market  |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | sentiment towards Chinese      |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | ETFs.', 'type':                |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'sentiment_analysis'}          |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Macro-economic   |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | conditions favor tech and      |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | growth stocks.', 'type':       |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.8,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Improving        |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | macroeconomic data from        |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | China.', 'type':               |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'macro_economic_data'}         |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Micro-economic   |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | factors are favorable for      |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | semiconductor companies.',     |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': 'micro_economic_data'} |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Strong earnings  |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | growth in constituent          |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | companies.', 'type':           |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'micro_economic_data'}         |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.85,           |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Why buy FXI?     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | Strong momentum. Why strong    |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | momentum? Positive market      |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | sentiment. Why positive        |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | sentiment? Policy easing. Why  |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | policy easing? Economic        |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | support. Why economic support? |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | To boost growth.', 'type':     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | '5_whys_analysis'}             |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.8,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Why buy SMH?     |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | Because momentum is strong.    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | Why? Semiconductor demand is   |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | high. Why? Tech sector is      |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | booming. Why? Innovation and   |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | adoption are accelerating.     |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | Why? Global reliance on        |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | technology is increasing.',    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': '5_whys_analysis'}     |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Risk is          |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | moderated by strong            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | fundamentals and momentum;     |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | stop loss at 280.0 limits      |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | downside.', 'type':            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'risk_assessment'}             |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.8,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Both short-term  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | and long-term trends support a |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | buy.', 'type':                 |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Controlled risk  |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | with tight stop loss and       |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | favorable risk/reward ratio.', |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': 'risk_assessment'}     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.75,           |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Suitable for     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | short to medium-term           |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | holding.', 'type':             |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'time_horizon_considerations'} |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.8,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Strong momentum  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | and neutral RSI provide a      |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | favorable entry point.',       |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.85,           |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Bullish trend    |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | continuation pattern.',        |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type':                        |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'key_trends_and_patterns'}     |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Industry reports |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | and analyst upgrades support a |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | buy.', 'type':                 |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.6,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'No additional    |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | sources.', 'type':             |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'other_sources'}               |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.8,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': "Bull momentum in |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | the market aligns with SMH's   |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | strong performance.", 'type':  |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Bull momentum in |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | the broader market supports    |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | bullish trades.', 'type':      |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'market_context'}              |
 +----------+----------+-------------------+---------+----------------+-------+--------------+----------+---------+--------+-------+----------+--------------------------------+--------------------------------+
-| QQQ      | buy      | ['PSQ',           |  559.4  |              0 |  51.6 | 85.0%        | $610.00  | $550.00 | 40.0%  |   3   | 750.0%   | QQQ is a high-quality buy      | {'confidence': 0.7,            |
-|          |          | 'QID',            |         |                |       |              |          |         |        |       |          | signal with robust momentum,   | 'reasoning': 'Tech sector      |
-|          |          | 'SQQQ']           |         |                |       |              |          |         |        |       |          | strong fundamentals, and       | shows strong growth potential  |
-|          |          |                   |         |                |       |              |          |         |        |       |          | excellent risk/reward          | with increasing demand for     |
-|          |          |                   |         |                |       |              |          |         |        |       |          | characteristics. The slight    | cloud services and AI          |
-|          |          |                   |         |                |       |              |          |         |        |       |          | increase in position size      | technologies.', 'type':        |
-|          |          |                   |         |                |       |              |          |         |        |       |          | reflects higher confidence,    | 'industry_news'}               |
-|          |          |                   |         |                |       |              |          |         |        |       |          | while the adjusted target and  | {'confidence': 0.6,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          | stop maintain a favorable      | 'reasoning': 'Major holdings   |
-|          |          |                   |         |                |       |              |          |         |        |       |          | risk/reward ratio. The trade   | in QQQ like Apple and          |
-|          |          |                   |         |                |       |              |          |         |        |       |          | is well-supported by multiple  | Microsoft continue to report   |
-|          |          |                   |         |                |       |              |          |         |        |       |          | factors and is suitable for    | strong earnings.', 'type':     |
-|          |          |                   |         |                |       |              |          |         |        |       |          | the current market context.    | 'company_news'} {'confidence': |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 0.7, 'reasoning': "Federal     |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | Reserve's stance on interest   |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | rates remains accommodative,   |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | supporting growth stocks.",    |
+| XLE      | buy      | ['DUG',           |   86.89 |              0 |  40.3 | 90.0%        | $92.00   | $85.00  | 25.0%  |   3.5 | 650.0%   | XLE remains a strong buy due   | {'confidence': 0.7,            |
+|          |          | 'ERY']            |         |                |       |              |          |         |        |       |          | to oversold RSI, strong        | 'reasoning': 'Energy sector is |
+|          |          |                   |         |                |       |              |          |         |        |       |          | momentum, and favorable macro- | showing resilience with        |
+|          |          |                   |         |                |       |              |          |         |        |       |          | economic conditions. The       | increasing oil prices.',       |
+|          |          |                   |         |                |       |              |          |         |        |       |          | revisions improve risk         | 'type': 'industry_news'}       |
+|          |          |                   |         |                |       |              |          |         |        |       |          | management and portfolio       | {'confidence': 0.6,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          | balance while maintaining high | 'reasoning': 'Financial        |
+|          |          |                   |         |                |       |              |          |         |        |       |          | conviction in the trade.       | indicators suggest a bullish   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | trend in energy ETFs.',        |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': 'financial_news'}      |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.6,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Stable political |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | environment in the US supports |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | tech sector growth.', 'type':  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'political_news'}              |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.8,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Breakthroughs in |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | AI and quantum computing are   |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | driving tech sector growth.',  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': 'technology_news'}     |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.8,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Long-term trend  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | favors tech sector due to      |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | digital transformation.',      |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': 'long_term_trends'}    |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Long-term trend  |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | for energy sector is bullish   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | due to global demand.',        |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': 'long_term_trends'}    |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.8,            |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Short-term       |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | momentum is strong with high   |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | Mom1h and Mom4h values.',      |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': 'short_term_trends'}   |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.8,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'RSI is neutral,  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | indicating room for upward     |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | movement. Strong momentum      |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | indicators support a buy       |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | signal.', 'type':              |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'technical_analysis'}          |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Underlying       |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | companies have strong          |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | fundamentals with high         |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | profitability.', 'type':       |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'fundamental_analysis'}        |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.9,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'RSI is at 40.3   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | indicating oversold            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | conditions, and momentum       |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | indicators are strong.',       |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': 'technical_analysis'}  |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.6,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Market sentiment |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | is positive towards tech       |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | stocks.', 'type':              |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'sentiment_analysis'}          |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Fundamentals     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | support a buy due to sector    |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | strength and profit            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | potential.', 'type':           |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'fundamental_analysis'}        |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Macro-economic   |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | conditions support growth in   |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | the tech sector.', 'type':     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | data supports energy sector    |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | growth.', 'type':              |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'macro_economic_data'}         |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.6,            |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Micro-economic   |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | indicators show strong demand  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | for tech products and          |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | services.', 'type':            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | indicators are favorable for   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | XLE.', 'type':                 |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'micro_economic_data'}         |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.8,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Why buy QQQ?     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Why buy XLE?     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | Strong momentum. Why strong    |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | momentum? Oversold RSI. Why    |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | oversold RSI? Recent pullback. |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | Why pullback? Market           |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | correction. Why market         |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | correction? Profit-taking in   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | bull market.', 'type':         |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | '5_whys_analysis'}             |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.8,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Risk is managed  |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | with a stop at 83.0 and        |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | favorable risk/reward ratio.', |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': 'risk_assessment'}     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Suitable for     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | short to medium-term           |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | holding.', 'type':             |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'time_horizon_considerations'} |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.8,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Key trends show  |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | bullish continuation           |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | patterns.', 'type':            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'key_trends_and_patterns'}     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.8,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Market is in     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | bull momentum with low VIX,    |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | favorable for buying.',        |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': 'market_context'}      |
++----------+----------+-------------------+---------+----------------+-------+--------------+----------+---------+--------+-------+----------+--------------------------------+--------------------------------+
+| SMH      | buy      | ['SOXS'           |  291.42 |              0 |  53.2 | 85.0%        | $320.56  | $285.00 | 20.0%  |   2.8 | 1000.0%  | SMH exhibits strong bullish    | {'confidence': 0.75,           |
+|          |          | ]                 |         |                |       |              |          |         |        |       |          | trends and technical           | 'reasoning': 'Semiconductor    |
+|          |          |                   |         |                |       |              |          |         |        |       |          | indicators, supported by       | industry is booming with high  |
+|          |          |                   |         |                |       |              |          |         |        |       |          | industry growth. The revised   | demand.', 'type':              |
+|          |          |                   |         |                |       |              |          |         |        |       |          | signal improves confidence and | 'industry_news'}               |
+|          |          |                   |         |                |       |              |          |         |        |       |          | risk management while reducing | {'confidence': 0.8,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          | tech sector concentration in   | 'reasoning': 'Strong momentum  |
+|          |          |                   |         |                |       |              |          |         |        |       |          | the portfolio.                 | and RSI indicating potential   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | upward movement.', 'type':     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'technical_analysis'}          |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Positive         |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | sentiment towards              |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | semiconductor stocks.',        |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': 'sentiment_analysis'}  |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.75,           |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Good risk        |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | management with defined stop   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | loss and target.', 'type':     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'risk_assessment'}             |
++----------+----------+-------------------+---------+----------------+-------+--------------+----------+---------+--------+-------+----------+--------------------------------+--------------------------------+
+| SOXX     | buy      | ['SSG']           |  247.46 |              0 |  50   | 85.0%        | $265.00  | $245.00 | 60.0%  |   2.2 | 550.0%   | SOXX presents a high-quality   | {'confidence': 0.7,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          | signal with strong momentum,   | 'reasoning': 'Semiconductor    |
+|          |          |                   |         |                |       |              |          |         |        |       |          | favorable industry trends, and | industry is benefiting from    |
+|          |          |                   |         |                |       |              |          |         |        |       |          | manageable risk. The neutral   | strong demand and              |
+|          |          |                   |         |                |       |              |          |         |        |       |          | RSI suggests room for upward   | technological advancements.',  |
+|          |          |                   |         |                |       |              |          |         |        |       |          | movement. The adjustments      | 'type': 'industry_news'}       |
+|          |          |                   |         |                |       |              |          |         |        |       |          | improve the risk/reward        | {'confidence': 0.6,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          | profile and reduce sector      | 'reasoning': 'Financial news   |
+|          |          |                   |         |                |       |              |          |         |        |       |          | concentration risk.            | highlights robust earnings in  |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | the semiconductor sector.',    |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': 'financial_news'}      |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Technological    |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | innovations are driving growth |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | in the semiconductor sector.', |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': 'technology_news'}     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.8,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Long-term trends |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | show strong growth in the      |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | semiconductor industry.',      |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': 'long_term_trends'}    |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.9,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Short-term       |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | momentum is very strong, with  |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | Mom1h at 375.2% and Mom4h at   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 1917.7%.', 'type':             |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'short_term_trends'}           |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.8,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'RSI at 50.0 is   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | neutral, indicating room for   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | upward movement.', 'type':     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'technical_analysis'}          |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Fundamentals are |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | strong with high profit        |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | potential.', 'type':           |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'fundamental_analysis'}        |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Sentiment is     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | bullish given the strong       |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | momentum and industry news.',  |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': 'sentiment_analysis'}  |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.6,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Macro-economic   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | conditions support tech sector |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | growth.', 'type':              |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'macro_economic_data'}         |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.8,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Why buy? Strong  |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | momentum and neutral RSI. Why? |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | Industry growth is robust.     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | Why? Technological demand is   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | high. Why? Macro conditions    |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | are favorable. Why?            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | Risk/reward is attractive.',   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': '5_whys_analysis'}     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.8,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Risk is          |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | manageable with a clear stop   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | loss and strong upside         |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | potential.', 'type':           |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'risk_assessment'}             |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Both short-term  |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | and long-term trends are       |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | favorable.', 'type':           |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'time_horizon_considerations'} |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.8,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Trend is         |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | strongly bullish with no       |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | immediate signs of reversal.', |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type':                        |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'key_trends_and_patterns'}     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.8,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Market is in a   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | bull momentum phase,           |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | supporting a buy decision.',   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': 'market_context'}      |
++----------+----------+-------------------+---------+----------------+-------+--------------+----------+---------+--------+-------+----------+--------------------------------+--------------------------------+
+| XLI      | buy      | ['SIJ']           |  150.26 |              0 |  51.9 | 85.0%        | $165.29  | $145.75 | 20.0%  |   2.2 | 900.0%   | XLI shows strong momentum      | {'confidence': 0.7,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          | indicators (1h and 4h) with a  | 'reasoning': 'Industrial       |
+|          |          |                   |         |                |       |              |          |         |        |       |          | neutral RSI, suggesting room   | sector benefiting from         |
+|          |          |                   |         |                |       |              |          |         |        |       |          | for upside. The bullish market | infrastructure spending.',     |
+|          |          |                   |         |                |       |              |          |         |        |       |          | context and positive sector    | 'type': 'industry_news'}       |
+|          |          |                   |         |                |       |              |          |         |        |       |          | sentiment due to               | {'confidence': 0.6,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          | infrastructure spending        | 'reasoning': 'No significant   |
+|          |          |                   |         |                |       |              |          |         |        |       |          | further support a buy          | company-specific news.',       |
+|          |          |                   |         |                |       |              |          |         |        |       |          | decision. Risk is managed with | 'type': 'company_news'}        |
+|          |          |                   |         |                |       |              |          |         |        |       |          | a tighter stop loss and        | {'confidence': 0.75,           |
+|          |          |                   |         |                |       |              |          |         |        |       |          | favorable risk/reward ratio.   | 'reasoning': 'Strong earnings  |
+|          |          |                   |         |                |       |              |          |         |        |       |          | The position size was reduced  | in the industrial sector.',    |
+|          |          |                   |         |                |       |              |          |         |        |       |          | to mitigate concentration risk | 'type': 'financial_news'}      |
+|          |          |                   |         |                |       |              |          |         |        |       |          | in the industrial sector.      | {'confidence': 0.65,           |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Stable political |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | environment supporting         |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | infrastructure projects.',     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': 'political_news'}      |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.6,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Advancements in  |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | industrial technology.',       |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': 'technology_news'}     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.75,           |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Long-term        |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | uptrend in industrial          |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | sector.', 'type':              |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'long_term_trends'}            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.8,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Strong short-    |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | term momentum indicators.',    |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': 'short_term_trends'}   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.85,           |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'RSI is neutral,  |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | strong momentum indicators (1h |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | and 4h), and bullish price     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | action.', 'type':              |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'technical_analysis'}          |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Attractive       |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | valuation relative to peers.', |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type':                        |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'fundamental_analysis'}        |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Positive market  |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | sentiment towards industrial   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | ETFs.', 'type':                |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'sentiment_analysis'}          |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.75,           |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Improving        |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | macroeconomic data supporting  |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | industrial growth.', 'type':   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'macro_economic_data'}         |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Strong earnings  |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | growth in constituent          |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | companies.', 'type':           |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'micro_economic_data'}         |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.8,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Why buy XLI?     |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | Strong momentum. Why strong    |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | momentum? Positive sector      |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | growth. Why positive sector    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | growth? Tech innovation. Why   |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | tech innovation? Increased     |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | demand. Why increased demand?  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | Digital transformation         |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | trends.', 'type':              |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | sentiment. Why positive        |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | sentiment? Infrastructure      |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | spending. Why infrastructure   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | spending? Economic support.    |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | Why economic support? To boost |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | growth.', 'type':              |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | '5_whys_analysis'}             |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.75,           |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Controlled risk  |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | with tight stop loss and       |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | favorable risk/reward ratio.', |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': 'risk_assessment'}     |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Suitable for     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | short to medium-term           |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | holding.', 'type':             |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'time_horizon_considerations'} |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.8,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Bullish trend    |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | continuation pattern.',        |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type':                        |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'key_trends_and_patterns'}     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.6,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'No additional    |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | sources.', 'type':             |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'other_sources'}               |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.75,           |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Bull momentum in |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | the broader market supports    |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | bullish trades.', 'type':      |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'market_context'}              |
++----------+----------+-------------------+---------+----------------+-------+--------------+----------+---------+--------+-------+----------+--------------------------------+--------------------------------+
+| SPY      | buy      | ['SH',            |  624.09 |              0 |  50.5 | 85.0%        | $650.00  | $615.00 | 25.0%  |   2.2 | 415.0%   | SPY remains a high-quality buy | {'confidence': 0.7,            |
+|          |          | 'SDS',            |         |                |       |              |          |         |        |       |          | signal with robust technical   | 'reasoning': 'The overall      |
+|          |          | 'SPXU']           |         |                |       |              |          |         |        |       |          | and fundamental backing. The   | market is in a bull momentum,  |
+|          |          |                   |         |                |       |              |          |         |        |       |          | revised stop loss at 615.0     | which generally favors ETFs    |
+|          |          |                   |         |                |       |              |          |         |        |       |          | provides better risk           | like SPY.', 'type':            |
+|          |          |                   |         |                |       |              |          |         |        |       |          | management, and the reduced    | 'industry_news'}               |
+|          |          |                   |         |                |       |              |          |         |        |       |          | position size helps mitigate   | {'confidence': 0.6,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          | correlation risk with EEM. The | 'reasoning': 'No specific      |
+|          |          |                   |         |                |       |              |          |         |        |       |          | strong momentum indicators,    | company news, but SPY tracks   |
+|          |          |                   |         |                |       |              |          |         |        |       |          | neutral RSI, and positive      | the S&P 500, which is          |
+|          |          |                   |         |                |       |              |          |         |        |       |          | market sentiment continue to   | performing well.', 'type':     |
+|          |          |                   |         |                |       |              |          |         |        |       |          | support a high confidence      | 'company_news'} {'confidence': |
+|          |          |                   |         |                |       |              |          |         |        |       |          | level for this trade.          | 0.7, 'reasoning': 'Financial   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | indicators show strong         |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | momentum and profitability.',  |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': 'financial_news'}      |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.6,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Political        |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | stability supports market      |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | growth.', 'type':              |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'political_news'}              |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.6,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Technology       |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | sector is strong, benefiting   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | SPY.', 'type':                 |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'technology_news'}             |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.8,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Long-term trends |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | show consistent growth for     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | SPY.', 'type':                 |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'long_term_trends'}            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.85,           |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Short-term       |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | momentum indicators are very   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | strong.', 'type':              |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'short_term_trends'}           |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.9,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'RSI is neutral,  |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | and momentum indicators are    |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | strong, suggesting further     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | upside.', 'type':              |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'technical_analysis'}          |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Underlying       |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | fundamentals of the S&P 500    |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | are strong.', 'type':          |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'fundamental_analysis'}        |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Market sentiment |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | is positive, supporting a buy  |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | signal.', 'type':              |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'sentiment_analysis'}          |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.75,           |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Macro-economic   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | conditions are favorable for   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | equity growth.', 'type':       |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'macro_economic_data'}         |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Micro-economic   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | indicators for SPY are         |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | positive.', 'type':            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'micro_economic_data'}         |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.8,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Why buy SPY?     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | Strong momentum. Why strong    |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | momentum? Bull market. Why     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | bull market? Positive economic |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | indicators. Why positive       |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | indicators? Stable political   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | and economic environment. Why  |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | stable environment? No         |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | significant negative news.',   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': '5_whys_analysis'}     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.8,            |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Risk is managed  |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | with a clear stop loss and     |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | favorable risk/reward ratio.', |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': 'risk_assessment'}     |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Suitable for     |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | both short-term and long-term  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | holding given current          |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | trends.', 'type':              |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'time_horizon_considerations'} |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.8,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Bullish trend    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | confirmed by high momentum and |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | neutral RSI.', 'type':         |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'key_trends_and_patterns'}     |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.8,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Bull momentum in |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | the market supports buying     |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | high-momentum ETFs.', 'type':  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'market_context'}              |
-+----------+----------+-------------------+---------+----------------+-------+--------------+----------+---------+--------+-------+----------+--------------------------------+--------------------------------+
-| XLK      | buy      | ['REW',           |  258.77 |              0 |  53.6 | 85.0%        | $280.00  | $250.00 | 30.0%  |   3   | 820.0%   | XLK continues to present a     | {'confidence': 0.8,            |
-|          |          | 'TECS']           |         |                |       |              |          |         |        |       |          | high-quality buy signal with   | 'reasoning': 'Tech sector is   |
-|          |          |                   |         |                |       |              |          |         |        |       |          | strong fundamentals, momentum, | leading market growth with     |
-|          |          |                   |         |                |       |              |          |         |        |       |          | and a favorable risk/reward    | strong earnings reports.',     |
-|          |          |                   |         |                |       |              |          |         |        |       |          | ratio. The reduction in        | 'type': 'industry_news'}       |
-|          |          |                   |         |                |       |              |          |         |        |       |          | position size helps diversify  | {'confidence': 0.7,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          | sector exposure, while the     | 'reasoning': 'Major holdings   |
-|          |          |                   |         |                |       |              |          |         |        |       |          | adjusted stop loss provides    | like NVIDIA and Broadcom are   |
-|          |          |                   |         |                |       |              |          |         |        |       |          | better downside protection.    | performing exceptionally       |
-|          |          |                   |         |                |       |              |          |         |        |       |          | The neutral RSI warrants       | well.', 'type':                |
-|          |          |                   |         |                |       |              |          |         |        |       |          | monitoring, but the overall    | 'company_news'} {'confidence': |
-|          |          |                   |         |                |       |              |          |         |        |       |          | signal remains well-supported  | 0.7, 'reasoning': 'Interest    |
-|          |          |                   |         |                |       |              |          |         |        |       |          | by market conditions and       | rates remain low, benefiting   |
-|          |          |                   |         |                |       |              |          |         |        |       |          | sector trends.                 | tech sector valuations.',      |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': 'financial_news'}      |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.6,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Stable political |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | environment supports tech      |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | investments.', 'type':         |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'political_news'}              |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.6,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Tech adoption    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | continues to rise across all   |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | demographics.', 'type':        |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'social_news'} {'confidence':  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 0.8, 'reasoning':              |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'Advancements in               |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | semiconductors and software    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | are driving growth.', 'type':  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'technology_news'}             |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.8,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Long-term        |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | digital transformation trends  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | favor tech sector.', 'type':   |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'long_term_trends'}            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.8,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Strong Mom1h and |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | Mom4h values indicate robust   |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | short-term momentum.', 'type': |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'short_term_trends'}           |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.85,           |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'RSI is neutral,  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | and momentum indicators are    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | strong, supporting a buy.',    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': 'technical_analysis'}  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.8,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Strong           |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | fundamentals across major      |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | holdings with high             |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | profitability.', 'type':       |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'fundamental_analysis'}        |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Positive         |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | sentiment towards tech         |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | stocks.', 'type':              |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'sentiment_analysis'}          |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Macro conditions |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | are favorable for tech sector  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | growth.', 'type':              |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'macro_economic_data'}         |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Strong demand    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | for tech products and          |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | services.', 'type':            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'micro_economic_data'}         |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.85,           |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Why buy XLK?     |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | Strong momentum. Why strong    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | momentum? Tech sector growth.  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | Why tech sector growth?        |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | Innovation demand. Why         |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | innovation demand? Digital     |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | transformation. Why digital    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | transformation? Societal and   |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | economic shifts.', 'type':     |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | '5_whys_analysis'}             |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.8,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Risk is well-    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | managed with a favorable       |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | risk/reward ratio.', 'type':   |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'risk_assessment'}             |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.8,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Suitable for     |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | both short-term and long-term  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | investment horizons.', 'type': |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'time_horizon_considerations'} |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.85,           |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Bullish trend    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | confirmed by strong momentum   |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | and neutral RSI.', 'type':     |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'key_trends_and_patterns'}     |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.8,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Bull momentum in |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | the market supports buying     |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | XLK.', 'type':                 |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'market_context'}              |
-+----------+----------+-------------------+---------+----------------+-------+--------------+----------+---------+--------+-------+----------+--------------------------------+--------------------------------+
-| VOO      | buy      | ['SPXS'           |  574.46 |              0 |  50.6 | 85.0%        | $610.00  | $565.00 | 25.0%  |   3   | 500.0%   | The decision to buy VOO is     | {'confidence': 0.7,            |
-|          |          | ]                 |         |                |       |              |          |         |        |       |          | based on strong short-term     | 'reasoning': 'The ETF is       |
-|          |          |                   |         |                |       |              |          |         |        |       |          | momentum indicators, a neutral | tracking the S&P 500, which is |
-|          |          |                   |         |                |       |              |          |         |        |       |          | RSI allowing for further       | currently in a bullish         |
-|          |          |                   |         |                |       |              |          |         |        |       |          | upside, and a bullish market   | trend.', 'type':               |
-|          |          |                   |         |                |       |              |          |         |        |       |          | context. The risk/reward ratio | 'industry_news'}               |
-|          |          |                   |         |                |       |              |          |         |        |       |          | has been improved with a       | {'confidence': 0.6,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          | higher target and tighter stop | 'reasoning': 'Financial        |
-|          |          |                   |         |                |       |              |          |         |        |       |          | loss. The position size has    | markets are showing strong     |
-|          |          |                   |         |                |       |              |          |         |        |       |          | been reduced to account for    | momentum, supporting a buy     |
-|          |          |                   |         |                |       |              |          |         |        |       |          | the high correlation with SPY, | signal.', 'type':              |
-|          |          |                   |         |                |       |              |          |         |        |       |          | ensuring better portfolio      | 'financial_news'}              |
-|          |          |                   |         |                |       |              |          |         |        |       |          | diversification.               | {'confidence': 0.8,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Long-term trends |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | show consistent growth in the  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | S&P 500.', 'type':             |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'long_term_trends'}            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.9,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Short-term       |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | momentum indicators (1h and    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 4h) are very strong.', 'type': |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'short_term_trends'}           |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.85,           |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'RSI is neutral,  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | indicating room for upward     |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | movement; strong momentum      |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | indicators support a buy.',    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': 'technical_analysis'}  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Underlying index |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | fundamentals are strong.',     |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type':                        |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'fundamental_analysis'}        |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.6,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Market sentiment |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | is bullish, though not         |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | explicitly provided.', 'type': |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'sentiment_analysis'}          |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Macro-economic   |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | conditions are favorable for   |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | equity growth.', 'type':       |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'macro_economic_data'}         |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.8,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Why buy? Strong  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | momentum. Why strong momentum? |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | Bullish market. Why bullish    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | market? Positive macro trends. |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | Why positive macro trends?     |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | Economic growth. Why economic  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | growth? Supportive fiscal      |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | policies.', 'type':            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | '5_whys_analysis'}             |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.75,           |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Stop loss is set |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | to limit downside risk;        |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | risk/reward ratio is           |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | favorable.', 'type':           |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'risk_assessment'}             |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Suitable for     |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | short to medium-term           |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | holding.', 'type':             |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | both short-term and medium-    |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | term holding.', 'type':        |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'time_horizon_considerations'} |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.8,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Key trends show  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | upward momentum with no signs  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | of reversal.', 'type':         |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'key_trends_and_patterns'}     |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.8,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Market context   |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | is bullish with low VIX,       |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | indicating low expected        |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | volatility.', 'type':          |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'market_context'}              |
-+----------+----------+-------------------+---------+----------------+-------+--------------+----------+---------+--------+-------+----------+--------------------------------+--------------------------------+
-| SPY      | buy      | ['SH',            |  624.89 |              0 |  50.5 | 85.0%        | $660.00  | $605.00 | 25.0%  |   3   | 500.0%   | The decision to buy SPY is     | {'confidence': 0.7,            |
-|          |          | 'SDS',            |         |                |       |              |          |         |        |       |          | based on strong short-term     | 'reasoning': 'The ETF is       |
-|          |          | 'SPXU']           |         |                |       |              |          |         |        |       |          | momentum indicators, a neutral | tracking the S&P 500, which is |
-|          |          |                   |         |                |       |              |          |         |        |       |          | RSI allowing for further       | currently in a bullish         |
-|          |          |                   |         |                |       |              |          |         |        |       |          | upside, and a bullish market   | trend.', 'type':               |
-|          |          |                   |         |                |       |              |          |         |        |       |          | context. The risk/reward ratio | 'industry_news'}               |
-|          |          |                   |         |                |       |              |          |         |        |       |          | has been improved with a       | {'confidence': 0.6,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          | higher target and tighter stop | 'reasoning': 'Financial        |
-|          |          |                   |         |                |       |              |          |         |        |       |          | loss. The position size has    | markets are showing strong     |
-|          |          |                   |         |                |       |              |          |         |        |       |          | been reduced to account for    | momentum, supporting a buy     |
-|          |          |                   |         |                |       |              |          |         |        |       |          | the high correlation with VOO, | signal.', 'type':              |
-|          |          |                   |         |                |       |              |          |         |        |       |          | ensuring better portfolio      | 'financial_news'}              |
-|          |          |                   |         |                |       |              |          |         |        |       |          | diversification.               | {'confidence': 0.8,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Long-term trends |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | show consistent growth in the  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | S&P 500.', 'type':             |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'long_term_trends'}            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.9,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Short-term       |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | momentum indicators (1h and    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 4h) are very strong.', 'type': |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'short_term_trends'}           |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.85,           |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'RSI is neutral,  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | indicating room for upward     |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | movement; strong momentum      |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | indicators support a buy.',    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': 'technical_analysis'}  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Underlying index |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | fundamentals are strong.',     |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type':                        |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'fundamental_analysis'}        |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.6,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Market sentiment |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | is bullish, though not         |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | explicitly provided.', 'type': |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'sentiment_analysis'}          |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Macro-economic   |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | conditions are favorable for   |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | equity growth.', 'type':       |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'macro_economic_data'}         |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.8,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Why buy? Strong  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | momentum. Why strong momentum? |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | Bullish market. Why bullish    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | market? Positive macro trends. |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | Why positive macro trends?     |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | Economic growth. Why economic  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | growth? Supportive fiscal      |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | policies.', 'type':            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | '5_whys_analysis'}             |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.75,           |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Stop loss is set |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | to limit downside risk;        |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | risk/reward ratio is           |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | favorable.', 'type':           |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'risk_assessment'}             |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Suitable for     |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | short to medium-term           |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | holding.', 'type':             |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'time_horizon_considerations'} |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.8,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Key trends show  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | upward momentum with no signs  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | of reversal.', 'type':         |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'key_trends_and_patterns'}     |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.8,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Market context   |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | is bullish with low VIX,       |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | indicating low expected        |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | volatility.', 'type':          |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'market_context'}              |
-+----------+----------+-------------------+---------+----------------+-------+--------------+----------+---------+--------+-------+----------+--------------------------------+--------------------------------+
-| FXI      | buy      | ['FXP',           |   37.33 |              0 |  44.8 | 85.0%        | $40.50   | $37.00  | 25.0%  |   2.3 | 850.0%   | The decision to buy FXI is     | {'confidence': 0.7,            |
-|          |          | 'YANG']           |         |                |       |              |          |         |        |       |          | based on strong momentum       | 'reasoning': 'Positive         |
-|          |          |                   |         |                |       |              |          |         |        |       |          | indicators, neutral RSI        | sentiment in the Chinese       |
-|          |          |                   |         |                |       |              |          |         |        |       |          | allowing for upward movement,  | market due to recent policy    |
-|          |          |                   |         |                |       |              |          |         |        |       |          | positive macro-economic data   | easing.', 'type':              |
-|          |          |                   |         |                |       |              |          |         |        |       |          | from China, and a favorable    | 'industry_news'}               |
-|          |          |                   |         |                |       |              |          |         |        |       |          | risk/reward ratio. The revised | {'confidence': 0.6,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          | stop loss at 37.0 provides     | 'reasoning': 'No significant   |
-|          |          |                   |         |                |       |              |          |         |        |       |          | better downside protection     | company-specific news, but     |
-|          |          |                   |         |                |       |              |          |         |        |       |          | while maintaining a good       | sector performance is          |
-|          |          |                   |         |                |       |              |          |         |        |       |          | risk/reward ratio. The reduced | strong.', 'type':              |
-|          |          |                   |         |                |       |              |          |         |        |       |          | position size helps mitigate   | 'company_news'} {'confidence': |
-|          |          |                   |         |                |       |              |          |         |        |       |          | regional concentration risk.   | 0.7, 'reasoning': 'Improving   |
-|          |          |                   |         |                |       |              |          |         |        |       |          | Confidence is increased due to | economic indicators in         |
-|          |          |                   |         |                |       |              |          |         |        |       |          | robust support across multiple | emerging markets.', 'type':    |
-|          |          |                   |         |                |       |              |          |         |        |       |          | reasoning categories.          | 'financial_news'}              |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.6,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Stable political |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | environment in China.',        |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': 'political_news'}      |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Long-term        |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | uptrend supported by economic  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | growth in China.', 'type':     |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'long_term_trends'}            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.8,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Strong short-    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | term momentum indicators (1h   |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | and 4h).', 'type':             |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'short_term_trends'}           |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.9,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'RSI is neutral   |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | (44.8), indicating room for    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | upward movement. Strong        |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | momentum indicators            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | (1h=120.7%, 4h=375.3%).',      |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': 'technical_analysis'}  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Underlying       |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | assets show strong             |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | fundamentals.', 'type':        |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'fundamental_analysis'}        |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.6,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Market sentiment |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | is bullish.', 'type':          |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'sentiment_analysis'}          |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Positive macro-  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | economic data from China.',    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': 'macro_economic_data'} |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.6,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Sector-specific  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | data is positive.', 'type':    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'micro_economic_data'}         |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.8,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': '1. Why buy?      |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | Strong momentum. 2. Why strong |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | momentum? Bullish market       |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | context. 3. Why bullish        |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | market? Positive economic      |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | indicators. 4. Why positive    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | indicators? Policy easing. 5.  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | Why policy easing? To          |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | stimulate growth.', 'type':    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | '5_whys_analysis'}             |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.8,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Controlled risk  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | with stop at 36.00, offering a |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | favorable risk/reward ratio.', |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': 'risk_assessment'}     |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Suitable for     |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | short to medium-term           |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | holding.', 'type':             |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'time_horizon_considerations'} |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.8,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Bullish trend    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | confirmed by price action and  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | momentum.', 'type':            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Key trends and   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | patterns indicate continued    |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | upward movement.', 'type':     |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'key_trends_and_patterns'}     |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.6,            |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'No additional    |
@@ -761,709 +664,769 @@ buy_signals_table:
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | signal.', 'type':              |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'other_sources'}               |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.8,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Bull momentum in |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | the market supports the buy    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | decision.', 'type':            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Market context   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | of bull momentum supports the  |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | buy decision.', 'type':        |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'market_context'}              |
 +----------+----------+-------------------+---------+----------------+-------+--------------+----------+---------+--------+-------+----------+--------------------------------+--------------------------------+
-| XLE      | buy      | ['DUG',           |   87.09 |              0 |  40.3 | 85.0%        | $92.00   | $85.00  | 50.0%  |   2.3 | 563.0%   | XLE remains a strong buy with  | {'confidence': 0.7,            |
-|          |          | 'ERY']            |         |                |       |              |          |         |        |       |          | oversold RSI (40.3) and robust | 'reasoning': 'Energy sector is |
-|          |          |                   |         |                |       |              |          |         |        |       |          | momentum (162.2% 1h, 626.6%    | benefiting from rising oil     |
-|          |          |                   |         |                |       |              |          |         |        |       |          | 4h). The energy sector         | prices and increased demand.', |
-|          |          |                   |         |                |       |              |          |         |        |       |          | tailwinds and favorable        | 'type': 'industry_news'}       |
-|          |          |                   |         |                |       |              |          |         |        |       |          | risk/reward (now 2.33) support | {'confidence': 0.6,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          | maintaining the 0.5 position   | 'reasoning': 'Financial        |
-|          |          |                   |         |                |       |              |          |         |        |       |          | size. The tightened stop at    | conditions favor energy stocks |
-|          |          |                   |         |                |       |              |          |         |        |       |          | 85.0 provides better downside  | with stable market trends.',   |
-|          |          |                   |         |                |       |              |          |         |        |       |          | protection while preserving    | 'type': 'financial_news'}      |
-|          |          |                   |         |                |       |              |          |         |        |       |          | upside potential.              | {'confidence': 0.8,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'RSI at 40.3      |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | indicates oversold conditions, |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | and strong 1h (162.2%) and 4h  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | (626.6%) momentum suggest      |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | upward potential.', 'type':    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'technical_analysis'}          |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Bullish momentum |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | in the market context supports |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | energy ETFs.', 'type':         |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'sentiment_analysis'}          |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.8,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Strong momentum  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | and oversold RSI provide a     |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | favorable risk/reward ratio.', |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': 'risk_assessment'}     |
-+----------+----------+-------------------+---------+----------------+-------+--------------+----------+---------+--------+-------+----------+--------------------------------+--------------------------------+
-| XLU      | buy      | ['SDP']           |   81.84 |              0 |  42   | 85.0%        | $86.00   | $80.00  | 40.0%  |   3   | 400.0%   | The oversold RSI and strong    | {'confidence': 0.9,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          | positive momentum across both  | 'reasoning': 'RSI is at 42.0,  |
-|          |          |                   |         |                |       |              |          |         |        |       |          | 1-hour and 4-hour timeframes   | indicating oversold            |
-|          |          |                   |         |                |       |              |          |         |        |       |          | provide a compelling buy       | conditions. The 1-hour         |
-|          |          |                   |         |                |       |              |          |         |        |       |          | opportunity. Increasing        | momentum is positive (54.1%),  |
-|          |          |                   |         |                |       |              |          |         |        |       |          | confidence and slightly        | and the 4-hour momentum is     |
-|          |          |                   |         |                |       |              |          |         |        |       |          | adjusting the target and stop  | strong (201.9%), suggesting    |
-|          |          |                   |         |                |       |              |          |         |        |       |          | levels enhances the            | upward potential.', 'type':    |
-|          |          |                   |         |                |       |              |          |         |        |       |          | risk/reward profile, while     | 'technical_analysis'}          |
-|          |          |                   |         |                |       |              |          |         |        |       |          | reducing the position size     | {'confidence': 0.7,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          | ensures better portfolio       | 'reasoning': 'In a bull        |
-|          |          |                   |         |                |       |              |          |         |        |       |          | diversification.               | market, oversold sectors like  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | utilities (XLU) can attract    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | buyers looking for relative    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | value.', 'type':               |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'market_context'}              |
-+----------+----------+-------------------+---------+----------------+-------+--------------+----------+---------+--------+-------+----------+--------------------------------+--------------------------------+
-| SOXX     | buy      | ['SSG']           |  247.94 |              0 |  50   | 80.0%        | $265.00  | $240.00 | 50.0%  |   2   | 550.0%   | SOXX remains a strong buy due  | {'confidence': 0.7,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          | to robust momentum and         | 'reasoning': 'Semiconductor    |
-|          |          |                   |         |                |       |              |          |         |        |       |          | positive industry trends. The  | industry is experiencing       |
-|          |          |                   |         |                |       |              |          |         |        |       |          | adjustments to target and stop | robust growth.', 'type':       |
-|          |          |                   |         |                |       |              |          |         |        |       |          | improve the risk/reward        | 'industry_news'}               |
-|          |          |                   |         |                |       |              |          |         |        |       |          | profile, while the reduced     | {'confidence': 0.7,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          | position size helps mitigate   | 'reasoning': 'Companies within |
-|          |          |                   |         |                |       |              |          |         |        |       |          | sector concentration risk. The | SOXX are performing well with  |
-|          |          |                   |         |                |       |              |          |         |        |       |          | increased confidence reflects  | positive earnings.', 'type':   |
-|          |          |                   |         |                |       |              |          |         |        |       |          | the strong alignment of        | 'company_news'} {'confidence': |
-|          |          |                   |         |                |       |              |          |         |        |       |          | technical, fundamental, and    | 0.7, 'reasoning': 'Financial   |
-|          |          |                   |         |                |       |              |          |         |        |       |          | market context factors.        | news indicates strong          |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | performance in the tech        |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | sector.', 'type':              |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'financial_news'}              |
+| VOO      | buy      | ['SPXS'           |  573.7  |              0 |  50.6 | 85.0%        | $610.00  | $565.00 | 20.0%  |   2.2 | 500.0%   | The decision to buy VOO is     | {'confidence': 0.7,            |
+|          |          | ]                 |         |                |       |              |          |         |        |       |          | reinforced by strong momentum  | 'reasoning': 'The overall      |
+|          |          |                   |         |                |       |              |          |         |        |       |          | indicators and a favorable     | market is in a bull momentum,  |
+|          |          |                   |         |                |       |              |          |         |        |       |          | market context. The RSI is     | which generally favors ETFs    |
+|          |          |                   |         |                |       |              |          |         |        |       |          | neutral, suggesting room for   | like VOO.', 'type':            |
+|          |          |                   |         |                |       |              |          |         |        |       |          | upward movement, and the 1h    | 'industry_news'}               |
+|          |          |                   |         |                |       |              |          |         |        |       |          | and 4h momentum indicators are | {'confidence': 0.6,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          | exceptionally strong. The      | 'reasoning': 'No specific      |
+|          |          |                   |         |                |       |              |          |         |        |       |          | revised stop loss and target   | company news, but VOO tracks   |
+|          |          |                   |         |                |       |              |          |         |        |       |          | prices provide a better        | the S&P 500, which is          |
+|          |          |                   |         |                |       |              |          |         |        |       |          | risk/reward ratio, and the     | performing well.', 'type':     |
+|          |          |                   |         |                |       |              |          |         |        |       |          | reduced position size helps    | 'company_news'} {'confidence': |
+|          |          |                   |         |                |       |              |          |         |        |       |          | manage risk more effectively   | 0.7, 'reasoning': 'Financial   |
+|          |          |                   |         |                |       |              |          |         |        |       |          | while maintaining exposure to  | indicators show strong         |
+|          |          |                   |         |                |       |              |          |         |        |       |          | the bullish trend.             | momentum and profitability.',  |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': 'financial_news'}      |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.6,            |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Political        |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | environment supports tech and  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | semiconductor industries.',    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': 'political_news'}      |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | stability supports market      |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | growth.', 'type':              |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'political_news'}              |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.6,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Social trends    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | favor increased technology     |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | use, benefiting SOXX.',        |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': 'social_news'}         |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Technology       |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | sector is strong, benefiting   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | VOO.', 'type':                 |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'technology_news'}             |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.8,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Technological    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | advancements are driving       |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | demand for semiconductors.',   |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': 'technology_news'}     |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.8,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Long-term        |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | outlook for semiconductors is  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | highly positive.', 'type':     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Long-term trends |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | show consistent growth for     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | VOO.', 'type':                 |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'long_term_trends'}            |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.8,            |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Short-term       |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | momentum is strong with        |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | Mom1h=382.7% and               |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | Mom4h=1963.9%.', 'type':       |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | momentum indicators are very   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | strong.', 'type':              |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'short_term_trends'}           |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.75,           |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'RSI at 50.0 is   |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | neutral, indicating potential  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | for further gains; momentum    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | supports a buy.', 'type':      |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.85,           |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'RSI is neutral,  |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | and momentum indicators are    |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | strong, suggesting further     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | upside.', 'type':              |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'technical_analysis'}          |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Fundamentals for |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | semiconductor ETFs are         |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | strong.', 'type':              |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Underlying       |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | fundamentals of the S&P 500    |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | are strong.', 'type':          |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'fundamental_analysis'}        |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Market sentiment |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | is bullish, favorable for      |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | SOXX.', 'type':                |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | is positive, supporting a buy  |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | signal.', 'type':              |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'sentiment_analysis'}          |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.75,           |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Macro-economic   |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | conditions support growth in   |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | tech sectors.', 'type':        |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | conditions are favorable for   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | equity growth.', 'type':       |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'macro_economic_data'}         |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Micro-economic   |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | factors are positive for       |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | semiconductor companies.',     |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': 'micro_economic_data'} |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.75,           |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Why buy SOXX?    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | Because momentum is strong.    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | Why? Semiconductor demand is   |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | high. Why? Tech sector is      |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | expanding. Why? Innovation is  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | accelerating. Why? Global tech |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | adoption is increasing.',      |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | indicators for VOO are         |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | positive.', 'type':            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'micro_economic_data'}         |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.8,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Why buy VOO?     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | Strong momentum. Why strong    |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | momentum? Bull market. Why     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | bull market? Positive economic |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | indicators. Why positive       |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | indicators? Stable political   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | and economic environment. Why  |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | stable environment? No         |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | significant negative news.',   |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': '5_whys_analysis'}     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.8,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Risk is managed  |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | with a clear stop loss and     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | favorable risk/reward ratio.', |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': 'risk_assessment'}     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.75,           |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Suitable for     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | both short-term and medium-    |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | term holding.', 'type':        |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'time_horizon_considerations'} |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.8,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Key trends and   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | patterns indicate continued    |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | upward movement.', 'type':     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'key_trends_and_patterns'}     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.6,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'No additional    |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | sources contradict the buy     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | signal.', 'type':              |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'other_sources'}               |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.8,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Market context   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | of bull momentum supports the  |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | buy decision.', 'type':        |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'market_context'}              |
++----------+----------+-------------------+---------+----------------+-------+--------------+----------+---------+--------+-------+----------+--------------------------------+--------------------------------+
+| XLU      | buy      | ['SDP']           |   81.69 |              0 |  42   | 85.0%        | $85.00   | $80.00  | 25.0%  |   2.5 | 400.0%   | XLU remains a strong buy with  | {'confidence': 0.7,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          | oversold RSI and bullish       | 'reasoning': 'Utilities sector |
+|          |          |                   |         |                |       |              |          |         |        |       |          | momentum. The tighter stop     | is showing resilience in the   |
+|          |          |                   |         |                |       |              |          |         |        |       |          | protects gains while still     | current bull market.', 'type': |
+|          |          |                   |         |                |       |              |          |         |        |       |          | allowing for upside. Reduced   | 'industry_news'}               |
+|          |          |                   |         |                |       |              |          |         |        |       |          | size improves portfolio        | {'confidence': 0.6,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          | balance without sacrificing    | 'reasoning': 'No significant   |
+|          |          |                   |         |                |       |              |          |         |        |       |          | much upside potential given    | company-specific news.',       |
+|          |          |                   |         |                |       |              |          |         |        |       |          | the favorable risk/reward.     | 'type': 'company_news'}        |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Financial        |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | indicators suggest stability   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | in the utilities sector.',     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': 'financial_news'}      |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.6,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Political        |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | climate is neutral for         |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | utilities.', 'type':           |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'political_news'}              |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.6,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Environmental    |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | policies may favor utilities   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | in the long term.', 'type':    |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'environmental_news'}          |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Long-term trend  |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | for utilities is positive.',   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': 'long_term_trends'}    |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.8,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Short-term       |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | momentum is strong with Mom4h  |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | at 157.9%.', 'type':           |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'short_term_trends'}           |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.9,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'RSI at 42.0      |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | indicates oversold conditions, |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | and strong 4h momentum         |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | supports a buy.', 'type':      |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'technical_analysis'}          |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Fundamentals are |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | stable with a profit of        |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 33.3%.', 'type':               |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'fundamental_analysis'}        |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.6,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Market sentiment |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | is unknown, but technicals are |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | strong.', 'type':              |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'sentiment_analysis'}          |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Macro            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | environment supports defensive |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | sectors like utilities.',      |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': 'macro_economic_data'} |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.6,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Micro indicators |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | are neutral.', 'type':         |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'micro_economic_data'}         |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.8,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Why buy XLU?     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | Strong 4h momentum. Why?       |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | Oversold RSI. Why? Bull market |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | context. Why? Defensive sector |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | outperforming. Why? Stable     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | fundamentals.', 'type':        |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | '5_whys_analysis'}             |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.8,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Risk/reward      |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | ratio is favorable at 2.5.',   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': 'risk_assessment'}     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Suitable for     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | short to medium-term           |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | holding.', 'type':             |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'time_horizon_considerations'} |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.8,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Bullish momentum |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | and oversold RSI indicate a    |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | buying opportunity.', 'type':  |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'key_trends_and_patterns'}     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.8,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Bull momentum    |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | market supports buying         |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | oversold assets.', 'type':     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'market_context'}              |
++----------+----------+-------------------+---------+----------------+-------+--------------+----------+---------+--------+-------+----------+--------------------------------+--------------------------------+
+| XLK      | buy      | ['REW',           |  258.6  |              0 |  53.6 | 80.0%        | $284.46  | $252.00 | 15.0%  |   2.2 | 1200.0%  | XLK continues to show strong   | {'confidence': 0.7,            |
+|          |          | 'TECS']           |         |                |       |              |          |         |        |       |          | momentum and positive sector   | 'reasoning': 'Technology       |
+|          |          |                   |         |                |       |              |          |         |        |       |          | trends. The revised signal     | sector continues to lead the   |
+|          |          |                   |         |                |       |              |          |         |        |       |          | incorporates tighter risk      | market.', 'type':              |
+|          |          |                   |         |                |       |              |          |         |        |       |          | management and a more balanced | 'industry_news'}               |
+|          |          |                   |         |                |       |              |          |         |        |       |          | position size to address       | {'confidence': 0.75,           |
+|          |          |                   |         |                |       |              |          |         |        |       |          | portfolio concentration        | 'reasoning': 'Solid momentum   |
+|          |          |                   |         |                |       |              |          |         |        |       |          | concerns while maintaining     | and RSI supports a buy         |
+|          |          |                   |         |                |       |              |          |         |        |       |          | upside potential.              | signal.', 'type':              |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'technical_analysis'}          |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.65,           |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Market sentiment |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | is favorable for tech ETFs.',  |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': 'sentiment_analysis'}  |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Controlled risk  |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | with a clear exit strategy.',  |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': 'risk_assessment'}     |
++----------+----------+-------------------+---------+----------------+-------+--------------+----------+---------+--------+-------+----------+--------------------------------+--------------------------------+
+| EEM      | buy      | ['EEV',           |   48.65 |              0 |  42.5 | 80.0%        | $53.52   | $47.22  | 15.0%  |   2.5 | 750.0%   | EEM continues to show strong   | {'confidence': 0.65,           |
+|          |          | 'EDZ']            |         |                |       |              |          |         |        |       |          | momentum indicators and        | 'reasoning': 'Emerging markets |
+|          |          |                   |         |                |       |              |          |         |        |       |          | bullish price action,          | benefiting from global risk-on |
+|          |          |                   |         |                |       |              |          |         |        |       |          | supported by positive          | sentiment.', 'type':           |
+|          |          |                   |         |                |       |              |          |         |        |       |          | sentiment and improving        | 'industry_news'}               |
+|          |          |                   |         |                |       |              |          |         |        |       |          | macroeconomic data in emerging | {'confidence': 0.6,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          | markets. The revised stop loss | 'reasoning': 'No significant   |
+|          |          |                   |         |                |       |              |          |         |        |       |          | at 47.22 provides a better     | company-specific news.',       |
+|          |          |                   |         |                |       |              |          |         |        |       |          | risk management profile while  | 'type': 'company_news'}        |
+|          |          |                   |         |                |       |              |          |         |        |       |          | the reduced position size      | {'confidence': 0.7,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          | helps mitigate sector          | 'reasoning': 'Improving        |
+|          |          |                   |         |                |       |              |          |         |        |       |          | concentration risk. The        | economic indicators in         |
+|          |          |                   |         |                |       |              |          |         |        |       |          | increased confidence reflects  | emerging markets.', 'type':    |
+|          |          |                   |         |                |       |              |          |         |        |       |          | the strong technical and       | 'financial_news'}              |
+|          |          |                   |         |                |       |              |          |         |        |       |          | fundamental support for this   | {'confidence': 0.6,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          | trade.                         | 'reasoning': 'Stable political |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | environment in key emerging    |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | markets.', 'type':             |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'political_news'}              |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.6,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Tech sector in   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | emerging markets showing       |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | resilience.', 'type':          |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'technology_news'}             |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Long-term        |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | uptrend in emerging markets.', |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': 'long_term_trends'}    |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.75,           |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Strong short-    |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | term momentum indicators.',    |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': 'short_term_trends'}   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.8,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'RSI is neutral,  |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | strong momentum indicators (1h |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | and 4h), and bullish price     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | action.', 'type':              |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'technical_analysis'}          |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Attractive       |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | valuation relative to          |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | developed markets.', 'type':   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'fundamental_analysis'}        |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.65,           |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Positive market  |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | sentiment towards emerging     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | market ETFs.', 'type':         |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'sentiment_analysis'}          |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Improving        |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | macroeconomic data from        |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | emerging markets.', 'type':    |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'macro_economic_data'}         |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.65,           |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Strong earnings  |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | growth in constituent          |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | companies.', 'type':           |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'micro_economic_data'}         |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.75,           |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Why buy EEM?     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | Strong momentum. Why strong    |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | momentum? Positive market      |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | sentiment. Why positive        |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | sentiment? Global risk-on. Why |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | global risk-on? Economic       |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | recovery. Why economic         |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | recovery? Post-pandemic        |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | rebound.', 'type':             |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | '5_whys_analysis'}             |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Controlled risk  |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | with tight stop loss and       |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | favorable risk/reward ratio.', |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': 'risk_assessment'}     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.65,           |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Suitable for     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | short to medium-term           |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | holding.', 'type':             |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'time_horizon_considerations'} |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.75,           |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Bullish trend    |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | continuation pattern.',        |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type':                        |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'key_trends_and_patterns'}     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.6,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'No additional    |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | sources.', 'type':             |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'other_sources'}               |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Bull momentum in |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | the broader market supports    |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | bullish trades.', 'type':      |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'market_context'}              |
++----------+----------+-------------------+---------+----------------+-------+--------------+----------+---------+--------+-------+----------+--------------------------------+--------------------------------+
+| XLY      | buy      | ['SCC']           |  220.21 |              0 |  48.5 | 80.0%        | $235.00  | $215.00 | 20.0%  |   3   | 500.0%   | XLY is a buy due to strong     | {'confidence': 0.6,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          | momentum indicators, neutral   | 'reasoning': 'Consumer         |
+|          |          |                   |         |                |       |              |          |         |        |       |          | RSI, and favorable risk/reward | discretionary sector is        |
+|          |          |                   |         |                |       |              |          |         |        |       |          | ratio. The consumer            | benefiting from strong         |
+|          |          |                   |         |                |       |              |          |         |        |       |          | discretionary sector is        | consumer spending.', 'type':   |
+|          |          |                   |         |                |       |              |          |         |        |       |          | supported by macro-economic    | 'industry_news'}               |
+|          |          |                   |         |                |       |              |          |         |        |       |          | data and strong consumer       | {'confidence': 0.6,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          | spending, making it a high-    | 'reasoning': 'Financial        |
+|          |          |                   |         |                |       |              |          |         |        |       |          | confidence trade. The revised  | indicators support a bullish   |
+|          |          |                   |         |                |       |              |          |         |        |       |          | signal improves risk           | trend.', 'type':               |
+|          |          |                   |         |                |       |              |          |         |        |       |          | management and aligns better   | 'financial_news'}              |
+|          |          |                   |         |                |       |              |          |         |        |       |          | with the bullish market        | {'confidence': 0.7,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          | context.                       | 'reasoning': 'Long-term trend  |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | for consumer discretionary is  |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | bullish.', 'type':             |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'long_term_trends'}            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Short-term       |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | momentum is positive with      |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | strong Mom1h and Mom4h.',      |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': 'short_term_trends'}   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.8,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'RSI is at 48.5   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | indicating neutral conditions, |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | and momentum indicators are    |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | strong.', 'type':              |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'technical_analysis'}          |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.6,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Fundamentals     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | support a buy due to sector    |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | strength.', 'type':            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'fundamental_analysis'}        |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Macro-economic   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | data supports consumer         |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | discretionary growth.',        |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': 'macro_economic_data'} |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.6,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Micro-economic   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | indicators are favorable for   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | XLY.', 'type':                 |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'micro_economic_data'}         |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Why buy XLY?     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | Strong momentum. Why strong    |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | momentum? Neutral RSI. Why     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | neutral RSI? Balanced buying.  |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | Why balanced buying? Sector    |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | strength. Why sector strength? |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | Consumer spending.', 'type':   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | '5_whys_analysis'}             |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Risk is managed  |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | with a stop at 210.0 and       |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | favorable risk/reward ratio.', |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': 'risk_assessment'}     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.6,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Suitable for     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | short to medium-term           |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | holding.', 'type':             |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'time_horizon_considerations'} |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Key trends show  |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | bullish continuation           |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | patterns.', 'type':            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'key_trends_and_patterns'}     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Market is in     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | bull momentum with low VIX,    |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | favorable for buying.',        |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': 'market_context'}      |
++----------+----------+-------------------+---------+----------------+-------+--------------+----------+---------+--------+-------+----------+--------------------------------+--------------------------------+
+| QQQ      | buy      | ['PSQ',           |  558.73 |              0 |  51.6 | 70.0%        | $575.00  | $545.00 | 50.0%  |   1.5 | 350.0%   | QQQ is a solid signal but      | {'confidence': 0.6,            |
+|          |          | 'QID',            |         |                |       |              |          |         |        |       |          | benefits from reduced position | 'reasoning': 'Tech sector      |
+|          |          | 'SQQQ']           |         |                |       |              |          |         |        |       |          | size to manage tech sector     | continues to show resilience   |
+|          |          |                   |         |                |       |              |          |         |        |       |          | concentration. The adjustments | and growth.', 'type':          |
+|          |          |                   |         |                |       |              |          |         |        |       |          | reflect a more conservative    | 'industry_news'}               |
+|          |          |                   |         |                |       |              |          |         |        |       |          | approach given the neutral RSI | {'confidence': 0.6,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          | and sector overlap with SOXX.  | 'reasoning': 'Technology       |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | sector is driving market       |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | gains.', 'type':               |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'technology_news'}             |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Long-term trends |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | favor tech-heavy indices like  |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | QQQ.', 'type':                 |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'long_term_trends'}            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.8,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Short-term       |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | momentum is strong with Mom1h  |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | at 199.3% and Mom4h at         |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 798.3%.', 'type':              |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'short_term_trends'}           |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'RSI at 51.6 is   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | neutral, suggesting potential  |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | for further gains.', 'type':   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'technical_analysis'}          |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.6,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Fundamentals are |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | solid with high profit         |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | potential.', 'type':           |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'fundamental_analysis'}        |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.6,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Sentiment is     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | bullish given the strong       |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | momentum.', 'type':            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'sentiment_analysis'}          |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.75,           |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Why buy? Strong  |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | momentum and neutral RSI. Why? |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | Tech sector is performing      |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | well. Why? Macro conditions    |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | are favorable. Why?            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | Risk/reward is acceptable.     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | Why? Market context is         |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | bullish.', 'type':             |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | '5_whys_analysis'}             |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Risk is          |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | controlled with a stop loss at |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 235.0; strong fundamentals     |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | mitigate downside.', 'type':   |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'risk_assessment'}             |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.75,           |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | manageable with a clear stop   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | loss and upside potential.',   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': 'risk_assessment'}     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Both short-term  |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | and long-term trends are       |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | favorable.', 'type':           |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'time_horizon_considerations'} |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.75,           |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Strong momentum  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | and neutral RSI provide a good |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | entry point.', 'type':         |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'key_trends_and_patterns'}     |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Analyst reports  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | and industry data support a    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | buy.', 'type':                 |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'other_sources'}               |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Trend is bullish |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | with strong momentum.',        |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type':                        |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'key_trends_and_patterns'}     |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.75,           |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': "Bull market      |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | momentum aligns with SOXX's    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | performance.", 'type':         |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'market_context'}              |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Market is in a   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | bull momentum phase,           |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | supporting a buy decision.',   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': 'market_context'}      |
 +----------+----------+-------------------+---------+----------------+-------+--------------+----------+---------+--------+-------+----------+--------------------------------+--------------------------------+
-| XLI      | buy      | ['SIJ']           |  150.54 |              0 |  51.9 | 80.0%        | $160.00  | $148.00 | 15.0%  |   2   | 630.0%   | The decision to buy XLI is     | {'confidence': 0.6,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          | based on strong short-term     | 'reasoning': 'The industrial   |
-|          |          |                   |         |                |       |              |          |         |        |       |          | momentum indicators, a neutral | sector is benefiting from      |
-|          |          |                   |         |                |       |              |          |         |        |       |          | RSI allowing for further       | current economic conditions.', |
-|          |          |                   |         |                |       |              |          |         |        |       |          | upside, and a bullish market   | 'type': 'industry_news'}       |
-|          |          |                   |         |                |       |              |          |         |        |       |          | context. The revised stop loss | {'confidence': 0.7,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          | at 148.0 provides better       | 'reasoning': 'Long-term trends |
-|          |          |                   |         |                |       |              |          |         |        |       |          | downside protection while      | show growth in the industrial  |
-|          |          |                   |         |                |       |              |          |         |        |       |          | maintaining a favorable        | sector.', 'type':              |
-|          |          |                   |         |                |       |              |          |         |        |       |          | risk/reward ratio. The reduced | 'long_term_trends'}            |
-|          |          |                   |         |                |       |              |          |         |        |       |          | position size helps mitigate   | {'confidence': 0.8,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          | sector-specific risks and      | 'reasoning': 'Short-term       |
-|          |          |                   |         |                |       |              |          |         |        |       |          | improves portfolio             | momentum indicators (1h and    |
-|          |          |                   |         |                |       |              |          |         |        |       |          | diversification. Confidence is | 4h) are strong.', 'type':      |
-|          |          |                   |         |                |       |              |          |         |        |       |          | increased due to more uniform  | 'short_term_trends'}           |
-|          |          |                   |         |                |       |              |          |         |        |       |          | support across reasoning       | {'confidence': 0.75,           |
-|          |          |                   |         |                |       |              |          |         |        |       |          | categories.                    | 'reasoning': 'RSI is neutral,  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | indicating room for upward     |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | movement; strong momentum      |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | indicators support a buy.',    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': 'technical_analysis'}  |
+| DIA      | buy      | ['DOG',           |  441.41 |              0 |  51.5 | 70.0%        | $460.00  | $435.00 | 15.0%  |   1.7 | 420.0%   | DIA has strong 4h momentum     | {'confidence': 0.6,            |
+|          |          | 'DXD',            |         |                |       |              |          |         |        |       |          | (483.6%) and is in a bullish   | 'reasoning': 'Financial        |
+|          |          | 'SDOW']           |         |                |       |              |          |         |        |       |          | market context, making a buy   | markets are bullish,           |
+|          |          |                   |         |                |       |              |          |         |        |       |          | signal appropriate. The        | supporting large-cap ETFs like |
+|          |          |                   |         |                |       |              |          |         |        |       |          | negative 1h momentum is        | DIA.', 'type':                 |
+|          |          |                   |         |                |       |              |          |         |        |       |          | outweighed by the broader      | 'financial_news'}              |
+|          |          |                   |         |                |       |              |          |         |        |       |          | trend. The trade offers a      | {'confidence': 0.6,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          | reasonable risk/reward ratio   | 'reasoning': 'Long-term trends |
+|          |          |                   |         |                |       |              |          |         |        |       |          | of 1.67 and an expected return | for large-cap stocks are       |
+|          |          |                   |         |                |       |              |          |         |        |       |          | of 4.2%. The stop was          | positive.', 'type':            |
+|          |          |                   |         |                |       |              |          |         |        |       |          | tightened and position size    | 'long_term_trends'}            |
+|          |          |                   |         |                |       |              |          |         |        |       |          | reduced to better manage risk. | {'confidence': 0.6,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Short-term       |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | momentum is strong with 483.6% |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 4h mom, despite a negative 1h  |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | mom.', 'type':                 |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'short_term_trends'}           |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.6,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Underlying       |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | sector fundamentals are        |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | strong.', 'type':              |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'fundamental_analysis'}        |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'RSI at 51.5 is   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | neutral but leaning towards    |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | bullish given the 4h           |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | momentum.', 'type':            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'technical_analysis'}          |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.6,            |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Macro-economic   |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | conditions are favorable for   |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | industrial growth.', 'type':   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | large-cap stocks.', 'type':    |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'macro_economic_data'}         |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.75,           |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Why buy? Strong  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | momentum. Why strong momentum? |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | Bullish market. Why bullish    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | market? Positive macro trends. |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | Why positive macro trends?     |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | Economic growth. Why economic  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | growth? Supportive fiscal      |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | policies.', 'type':            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.6,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'DIA has strong   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 4h momentum (483.6%) and is in |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | a bullish market context,      |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | making a buy signal            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | appropriate despite negative   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 1h momentum.', 'type':         |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | '5_whys_analysis'}             |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Stop loss is set |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | to limit downside risk;        |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | risk/reward ratio is           |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | favorable.', 'type':           |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.6,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Risk is managed  |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | with a stop at $430 and a      |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | reasonable risk/reward ratio   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | of 1.5.', 'type':              |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'risk_assessment'}             |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.6,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Suitable for     |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | short to medium-term           |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | holding.', 'type':             |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Short-term trade |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | based on strong 4h momentum    |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | and bullish market context.',  |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type':                        |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'time_horizon_considerations'} |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Key trends show  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | upward momentum with no signs  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | of reversal.', 'type':         |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'key_trends_and_patterns'}     |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Market context   |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | is bullish with low VIX,       |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | indicating low expected        |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | volatility.', 'type':          |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'market_context'}              |
-+----------+----------+-------------------+---------+----------------+-------+--------------+----------+---------+--------+-------+----------+--------------------------------+--------------------------------+
-| IWM      | buy      | ['RWM',           |  221.2  |              0 |  42.5 | 80.0%        | $240.00  | $220.00 | 20.0%  |   2   | 600.0%   | The decision to buy IWM is     | {'confidence': 0.6,            |
-|          |          | 'TWM',            |         |                |       |              |          |         |        |       |          | reinforced by strong short-    | 'reasoning': 'Small-cap sector |
-|          |          | 'TZA',            |         |                |       |              |          |         |        |       |          | term momentum indicators and a | showing resilience.', 'type':  |
-|          |          | 'SRTY']           |         |                |       |              |          |         |        |       |          | bullish market context. The    | 'industry_news'}               |
-|          |          |                   |         |                |       |              |          |         |        |       |          | adjustments to target and stop | {'confidence': 0.6,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          | levels provide a more          | 'reasoning': 'Improving        |
-|          |          |                   |         |                |       |              |          |         |        |       |          | favorable risk/reward ratio,   | sentiment in small-cap         |
-|          |          |                   |         |                |       |              |          |         |        |       |          | while the reduced position     | stocks.', 'type':              |
-|          |          |                   |         |                |       |              |          |         |        |       |          | size helps mitigate potential  | 'financial_news'}              |
-|          |          |                   |         |                |       |              |          |         |        |       |          | risks associated with short-   | {'confidence': 0.7,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          | term momentum reliance. The    | 'reasoning': 'Long-term        |
-|          |          |                   |         |                |       |              |          |         |        |       |          | overall signal remains strong, | uptrend in small-cap stocks.', |
-|          |          |                   |         |                |       |              |          |         |        |       |          | supported by technical and     | 'type': 'long_term_trends'}    |
-|          |          |                   |         |                |       |              |          |         |        |       |          | market context analysis.       | {'confidence': 0.8,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Strong short-    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | term momentum indicators       |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | (1h=45.6%, 4h=850.6%).',       |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': 'short_term_trends'}   |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.8,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'RSI is neutral   |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | (42.5), indicating room for    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | upward movement. Very strong   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.6,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Key trends       |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | support a buy given the strong |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | 4h momentum.', 'type':         |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'technical_analysis'}          |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.6,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Underlying       |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | assets show decent             |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | fundamentals.', 'type':        |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'fundamental_analysis'}        |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.6,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Market sentiment |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | is bullish.', 'type':          |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'sentiment_analysis'}          |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.6,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Positive macro-  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | economic data supporting       |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | small-caps.', 'type':          |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'macro_economic_data'}         |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': '1. Why buy?      |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | Strong momentum. 2. Why strong |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | momentum? Bullish market       |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | context. 3. Why bullish        |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | market? Positive economic      |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | indicators. 4. Why positive    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | indicators? Stimulus measures. |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 5. Why stimulus measures? To   |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | support small businesses.',    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': '5_whys_analysis'}     |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Controlled risk  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | with stop at 215.00, offering  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | a favorable risk/reward        |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | ratio.', 'type':               |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'risk_assessment'}             |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.6,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Suitable for     |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | short to medium-term           |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | holding.', 'type':             |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'time_horizon_considerations'} |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Bullish trend    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | confirmed by price action and  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | momentum.', 'type':            |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'key_trends_and_patterns'}     |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Bull momentum in |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | the market supports the buy    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | decision.', 'type':            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'market_context'}              |
-+----------+----------+-------------------+---------+----------------+-------+--------------+----------+---------+--------+-------+----------+--------------------------------+--------------------------------+
-| XLY      | buy      | ['SCC']           |  220.72 |              0 |  48.5 | 80.0%        | $230.00  | $215.00 | 40.0%  |   2   | 420.0%   | XLY's strong momentum and      | {'confidence': 0.6,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          | sector tailwinds outweigh the  | 'reasoning': 'Consumer         |
-|          |          |                   |         |                |       |              |          |         |        |       |          | neutral RSI. The 4h momentum   | discretionary sector is        |
-|          |          |                   |         |                |       |              |          |         |        |       |          | (337.2%) is particularly       | performing well due to strong  |
-|          |          |                   |         |                |       |              |          |         |        |       |          | compelling. The tightened      | retail sales.', 'type':        |
-|          |          |                   |         |                |       |              |          |         |        |       |          | stop-loss at 215.0 provides    | 'industry_news'}               |
-|          |          |                   |         |                |       |              |          |         |        |       |          | better capital preservation if | {'confidence': 0.75,           |
-|          |          |                   |         |                |       |              |          |         |        |       |          | the trade reverses, while the  | 'reasoning': 'RSI at 48.5 is   |
-|          |          |                   |         |                |       |              |          |         |        |       |          | increased confidence reflects  | neutral, but strong 1h (86.4%) |
-|          |          |                   |         |                |       |              |          |         |        |       |          | the strong alignment with      | and 4h (337.2%) momentum       |
-|          |          |                   |         |                |       |              |          |         |        |       |          | bullish market conditions.     | indicate upward potential.',   |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': 'technical_analysis'}  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.6,            |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Bullish market   |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | momentum favors consumer       |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | discretionary ETFs.', 'type':  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'sentiment_analysis'}          |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.75,           |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Favorable        |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | momentum and neutral RSI       |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | provide a good risk/reward     |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | ratio.', 'type':               |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'risk_assessment'}             |
-+----------+----------+-------------------+---------+----------------+-------+--------------+----------+---------+--------+-------+----------+--------------------------------+--------------------------------+
-| EEM      | buy      | ['EEV',           |   48.65 |              0 |  42.5 | 75.0%        | $53.00   | $47.00  | 15.0%  |   2   | 650.0%   | The buy signal for EEM is      | {'confidence': 0.6,            |
-|          |          | 'EDZ']            |         |                |       |              |          |         |        |       |          | supported by strong momentum   | 'reasoning': 'Emerging markets |
-|          |          |                   |         |                |       |              |          |         |        |       |          | indicators and a neutral RSI,  | showing strength.', 'type':    |
-|          |          |                   |         |                |       |              |          |         |        |       |          | indicating room for upward     | 'industry_news'}               |
-|          |          |                   |         |                |       |              |          |         |        |       |          | movement. The revised target   | {'confidence': 0.6,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          | and stop levels provide a more | 'reasoning': 'Improving        |
-|          |          |                   |         |                |       |              |          |         |        |       |          | balanced risk/reward ratio,    | sentiment in emerging          |
-|          |          |                   |         |                |       |              |          |         |        |       |          | while the reduced position     | markets.', 'type':             |
-|          |          |                   |         |                |       |              |          |         |        |       |          | size helps manage potential    | 'financial_news'}              |
-|          |          |                   |         |                |       |              |          |         |        |       |          | risks associated with emerging | {'confidence': 0.6,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          | market volatility. The signal  | 'reasoning': 'Long-term        |
-|          |          |                   |         |                |       |              |          |         |        |       |          | remains well-supported by      | uptrend in emerging markets.', |
-|          |          |                   |         |                |       |              |          |         |        |       |          | technical and macroeconomic    | 'type': 'long_term_trends'}    |
-|          |          |                   |         |                |       |              |          |         |        |       |          | factors.                       | {'confidence': 0.7,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Strong short-    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | term momentum indicators       |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | (1h=73.5%, 4h=549.7%).',       |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': 'short_term_trends'}   |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'RSI is neutral   |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | (42.5), indicating room for    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | upward movement. Strong        |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | momentum indicators.', 'type': |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'technical_analysis'}          |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.6,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Underlying       |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | assets show decent             |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | fundamentals.', 'type':        |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'fundamental_analysis'}        |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.6,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Market sentiment |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | is bullish.', 'type':          |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'sentiment_analysis'}          |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.6,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Positive macro-  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | economic data from emerging    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | markets.', 'type':             |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'macro_economic_data'}         |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': '1. Why buy?      |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | Strong momentum. 2. Why strong |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | momentum? Bullish market       |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | context. 3. Why bullish        |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | market? Positive economic      |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | indicators. 4. Why positive    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | indicators? Policy easing. 5.  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | Why policy easing? To          |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | stimulate growth.', 'type':    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | '5_whys_analysis'}             |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Controlled risk  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | with stop at 46.50, offering a |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | favorable risk/reward ratio.', |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': 'risk_assessment'}     |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.6,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Suitable for     |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | short to medium-term           |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | holding.', 'type':             |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'time_horizon_considerations'} |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Bullish trend    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | confirmed by price action and  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | momentum.', 'type':            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'key_trends_and_patterns'}     |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Bull momentum in |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | the market supports the buy    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | decision.', 'type':            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | momentum supports a buy signal |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | for DIA.', 'type':             |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'market_context'}              |
 +----------+----------+-------------------+---------+----------------+-------+--------------+----------+---------+--------+-------+----------+--------------------------------+--------------------------------+
-| GDX      | buy      | ['DUST'           |   51.03 |              0 |  60.3 | 75.0%        | $56.00   | $49.00  | 35.0%  |   2.5 | 850.0%   | The buy signal for GDX is      | {'confidence': 0.6,            |
-|          |          | ]                 |         |                |       |              |          |         |        |       |          | strengthened by the strong 4h  | 'reasoning': 'Gold mining      |
-|          |          |                   |         |                |       |              |          |         |        |       |          | momentum and favorable         | sector is showing signs of     |
-|          |          |                   |         |                |       |              |          |         |        |       |          | fundamentals. The adjusted     | recovery.', 'type':            |
-|          |          |                   |         |                |       |              |          |         |        |       |          | target and stop levels provide | 'industry_news'}               |
-|          |          |                   |         |                |       |              |          |         |        |       |          | a better risk/reward profile,  | {'confidence': 0.6,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          | while the slightly reduced     | 'reasoning': 'Financial        |
-|          |          |                   |         |                |       |              |          |         |        |       |          | position size helps manage     | conditions are favorable for   |
-|          |          |                   |         |                |       |              |          |         |        |       |          | potential volatility. The      | gold miners.', 'type':         |
-|          |          |                   |         |                |       |              |          |         |        |       |          | increased confidence reflects  | 'financial_news'}              |
-|          |          |                   |         |                |       |              |          |         |        |       |          | the robust technical and       | {'confidence': 0.7,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          | fundamental support.           | 'reasoning': 'Long-term trends |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | show potential for growth in   |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | gold mining sector.', 'type':  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'long_term_trends'}            |
+| SLV      | hold     | ['ZSL']           |   34.25 |              0 |  57.8 | 65.0%        | $35.00   | $32.50  | 5.0%   |   1.8 | 300.0%   | SLV's hold signal has been     | {'confidence': 0.6,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          | strengthened with more recent  | 'reasoning': 'Short-term       |
+|          |          |                   |         |                |       |              |          |         |        |       |          | fundamental analysis           | momentum is strong, but RSI is |
+|          |          |                   |         |                |       |              |          |         |        |       |          | supporting stable demand. The  | nearing overbought levels.',   |
+|          |          |                   |         |                |       |              |          |         |        |       |          | tighter stop and smaller       | 'type': 'short_term_trends'}   |
+|          |          |                   |         |                |       |              |          |         |        |       |          | position size better reflect   | {'confidence': 0.7,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          | the moderate conviction while  | 'reasoning': 'RSI at 57.8      |
+|          |          |                   |         |                |       |              |          |         |        |       |          | maintaining exposure to        | suggests neutral territory;    |
+|          |          |                   |         |                |       |              |          |         |        |       |          | potential upside. The improved | momentum is strong but may be  |
+|          |          |                   |         |                |       |              |          |         |        |       |          | risk/reward ratio makes the    | peaking.', 'type':             |
+|          |          |                   |         |                |       |              |          |         |        |       |          | position more attractive.      | 'technical_analysis'}          |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.6,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Short-term       |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | momentum is mixed but 4h       |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | momentum is strongly           |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | positive.', 'type':            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'short_term_trends'}           |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.8,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'RSI is moderate, |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | and 4h momentum is strongly    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | positive, indicating potential |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | upside.', 'type':              |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'technical_analysis'}          |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Fundamentals     |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | support growth in gold mining  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | sector.', 'type':              |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'fundamental_analysis'}        |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.6,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Market sentiment |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | is slightly positive towards   |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | gold miners.', 'type':         |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'sentiment_analysis'}          |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Macroeconomic    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | conditions are favorable for   |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | gold miners.', 'type':         |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'macro_economic_data'}         |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.6,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Microeconomic    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | factors are positive for       |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | GDX.', 'type':                 |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'micro_economic_data'}         |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Why buy? Strong  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 4h momentum, moderate RSI,     |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | favorable fundamentals,        |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | positive macroeconomic         |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | conditions, and balanced       |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | risk/reward.', 'type':         |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Why hold?        |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | Momentum is strong but RSI is  |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | neutral. Why? No overbought    |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | signal yet. Why? Market        |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | context is bullish but not     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | extreme. Why? VIX is moderate. |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | Why? Risk/reward is acceptable |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | but not compelling.', 'type':  |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | '5_whys_analysis'}             |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.8,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Risk is moderate |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | with favorable risk/reward     |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | ratio.', 'type':               |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'risk_assessment'}             |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Short-term       |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | outlook is positive; long-term |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | outlook is stable.', 'type':   |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'time_horizon_considerations'} |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.6,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Key trends show  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | potential for upward           |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | movement.', 'type':            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'key_trends_and_patterns'}     |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Market context   |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | is bullish and supportive of   |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | gold miners.', 'type':         |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'market_context'}              |
-+----------+----------+-------------------+---------+----------------+-------+--------------+----------+---------+--------+-------+----------+--------------------------------+--------------------------------+
-| ARKK     | buy      | ['SARK'           |   73.6  |              0 |  51.5 | 70.0%        | $85.00   | $70.00  | 20.0%  |   2.5 | 1550.0%  | ARKK remains a buy due to its  | {'confidence': 0.7,            |
-|          |          | ]                 |         |                |       |              |          |         |        |       |          | strong momentum and alignment  | 'reasoning': 'Innovative tech  |
-|          |          |                   |         |                |       |              |          |         |        |       |          | with disruptive tech trends.   | and biotech sectors are        |
-|          |          |                   |         |                |       |              |          |         |        |       |          | However, the higher volatility | experiencing rapid growth.',   |
-|          |          |                   |         |                |       |              |          |         |        |       |          | and mixed fundamentals         | 'type': 'industry_news'}       |
-|          |          |                   |         |                |       |              |          |         |        |       |          | necessitate a smaller position | {'confidence': 0.6,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          | size and a slightly tighter    | 'reasoning': "ARKK's focus on  |
-|          |          |                   |         |                |       |              |          |         |        |       |          | stop loss to better manage     | disruptive technologies aligns |
-|          |          |                   |         |                |       |              |          |         |        |       |          | risk. The neutral RSI and high | with current market trends.",  |
-|          |          |                   |         |                |       |              |          |         |        |       |          | Mom values still indicate      | 'type': 'company_news'}        |
-|          |          |                   |         |                |       |              |          |         |        |       |          | potential for further gains,   | {'confidence': 0.6,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          | but the adjustments ensure a   | 'reasoning': 'Low interest     |
-|          |          |                   |         |                |       |              |          |         |        |       |          | more balanced risk profile.    | environment favors high-       |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | growth, high-risk investments  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | like ARKK.', 'type':           |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'financial_news'}              |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.6,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Social trends    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | favor technology and           |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | innovation.', 'type':          |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'social_news'} {'confidence':  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 0.8, 'reasoning':              |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | "Technological advancements    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | are driving growth in ARKK's   |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | holdings.", 'type':            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'technology_news'}             |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Long-term trend  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | favors disruptive              |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | technologies.', 'type':        |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'long_term_trends'}            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.8,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Extremely high   |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | Mom1h and Mom4h values         |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | indicate strong short-term     |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | momentum.', 'type':            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'short_term_trends'}           |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.75,           |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'RSI is neutral,  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | and momentum indicators are    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | exceptionally strong,          |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | supporting a buy.', 'type':    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'technical_analysis'}          |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.6,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Holdings are     |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | high-growth but also high-     |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | risk; fundamentals are         |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | mixed.', 'type':               |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'fundamental_analysis'}        |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Sentiment is     |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | positive towards disruptive    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | tech.', 'type':                |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'sentiment_analysis'}          |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.6,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Macro conditions |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | support high-risk, high-reward |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | investments.', 'type':         |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'macro_economic_data'}         |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.75,           |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Why buy ARKK?    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | Strong momentum. Why strong    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | momentum? Growth in disruptive |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | tech. Why growth in disruptive |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | tech? Market demand. Why       |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | market demand? Innovation      |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | trends. Why innovation trends? |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | Societal shifts towards        |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | technology.', 'type':          |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | '5_whys_analysis'}             |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Higher risk due  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | to volatility, but managed     |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | with stop loss.', 'type':      |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'risk_assessment'}             |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Suitable for     |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | investors with a higher risk   |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | tolerance and medium-term      |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | horizon.', 'type':             |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'time_horizon_considerations'} |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.75,           |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Bullish momentum |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | and neutral RSI suggest        |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | further upside.', 'type':      |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'key_trends_and_patterns'}     |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Bull momentum    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | supports buying high-momentum  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | ETFs like ARKK.', 'type':      |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'market_context'}              |
-+----------+----------+-------------------+---------+----------------+-------+--------------+----------+---------+--------+-------+----------+--------------------------------+--------------------------------+
-| SLV      | hold     | ['ZSL']           |   34.22 |              0 |  57.8 | 65.0%        | $35.00   | $32.50  | 0.0%   |   0   | 0.0%     | SLV is held due to strong      | {'confidence': 0.6,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          | momentum but not bought        | 'reasoning': 'Long-term trends |
-|          |          |                   |         |                |       |              |          |         |        |       |          | because RSI is nearing         | for silver are neutral with no |
-|          |          |                   |         |                |       |              |          |         |        |       |          | overbought levels, increasing  | clear direction.', 'type':     |
-|          |          |                   |         |                |       |              |          |         |        |       |          | risk of a pullback. The trade- | 'long_term_trends'}            |
-|          |          |                   |         |                |       |              |          |         |        |       |          | off is between capturing       | {'confidence': 0.6,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          | potential upside and avoiding  | 'reasoning': 'Short-term       |
-|          |          |                   |         |                |       |              |          |         |        |       |          | overbought conditions. The     | momentum is strong but RSI is  |
-|          |          |                   |         |                |       |              |          |         |        |       |          | stop loss has been tightened   | nearing overbought levels.',   |
-|          |          |                   |         |                |       |              |          |         |        |       |          | to better manage risk, and     | 'type': 'short_term_trends'}   |
-|          |          |                   |         |                |       |              |          |         |        |       |          | confidence has been slightly   | {'confidence': 0.7,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          | increased by incorporating     | 'reasoning': 'RSI at 57.8      |
-|          |          |                   |         |                |       |              |          |         |        |       |          | more fundamental analysis.     | suggests SLV is approaching    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | overbought territory; momentum |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | is strong but may be due for a |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | pullback.', 'type':            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'technical_analysis'}          |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.6,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Why hold SLV?    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | Because RSI is nearing         |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | overbought. Why? Momentum is   |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | strong but may not sustain.    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | Why? Profit-taking could       |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | occur. Why? Traders may lock   |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | in gains. Why? No new          |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | catalysts to drive further     |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | upside.', 'type':              |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | '5_whys_analysis'}             |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Risk of a        |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | pullback is elevated given     |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | high momentum and approaching  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | overbought RSI.', 'type':      |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | given current price levels and |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | stop loss placement.', 'type': |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'risk_assessment'}             |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.6,            |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Short-term       |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | momentum is strong, but        |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | longer-term outlook is         |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | uncertain.', 'type':           |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | longer-term indicators are     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | less compelling.', 'type':     |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'time_horizon_considerations'} |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.6,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Momentum is      |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | strong but may be peaking; RSI |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | suggests caution.', 'type':    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'key_trends_and_patterns'}     |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.6,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Bull momentum in |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | the market supports holding    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | but not adding to positions.', |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': 'market_context'}      |
-+----------+----------+-------------------+---------+----------------+-------+--------------+----------+---------+--------+-------+----------+--------------------------------+--------------------------------+
-| GDXJ     | hold     | ['JDST'           |   67.21 |              0 |  57.5 | 65.0%        | $70.00   | $66.00  | 20.0%  |   1.8 | 415.0%   | GDXJ shows strong 4h momentum  | {'confidence': 0.7,            |
-|          |          | ]                 |         |                |       |              |          |         |        |       |          | (629.4%) but conflicting 1h    | 'reasoning': 'RSI is neutral   |
-|          |          |                   |         |                |       |              |          |         |        |       |          | momentum (-72.4%). The neutral | at 57.5, but the negative 1h   |
-|          |          |                   |         |                |       |              |          |         |        |       |          | RSI (57.5) and high profit     | momentum (-72.4%) contrasts    |
-|          |          |                   |         |                |       |              |          |         |        |       |          | potential (66.9%) suggest      | sharply with strong 4h         |
-|          |          |                   |         |                |       |              |          |         |        |       |          | holding but with reduced size  | momentum (629.4%).', 'type':   |
-|          |          |                   |         |                |       |              |          |         |        |       |          | and tighter stop to manage     | 'technical_analysis'}          |
-|          |          |                   |         |                |       |              |          |         |        |       |          | risk until momentum aligns.    | {'confidence': 0.6,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          | The 4h momentum is given more  | 'reasoning': "Market sentiment |
-|          |          |                   |         |                |       |              |          |         |        |       |          | weight, justifying a slight    | is unknown, but the ETF's high |
-|          |          |                   |         |                |       |              |          |         |        |       |          | confidence increase.           | profit (66.9%) may attract     |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | buyers.", 'type':              |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'sentiment_analysis'}          |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'High volatility  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | in momentum indicators         |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | suggests potential for both    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | gains and losses.', 'type':    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'risk_assessment'}             |
-+----------+----------+-------------------+---------+----------------+-------+--------------+----------+---------+--------+-------+----------+--------------------------------+--------------------------------+
-| MDY      | hold     | ['MYY',           |  576.75 |              0 |  44.3 | 65.0%        | $590.00  | $565.00 | 30.0%  |   1.7 | 250.0%   | MDY's strong 4h momentum       | {'confidence': 0.7,            |
-|          |          | 'MZZ',            |         |                |       |              |          |         |        |       |          | (543.1%) and bull market       | 'reasoning': 'RSI is at 44.3,  |
-|          |          | 'MIDZ']           |         |                |       |              |          |         |        |       |          | context support the hold       | indicating neither overbought  |
-|          |          |                   |         |                |       |              |          |         |        |       |          | decision. The tightened stop-  | nor oversold conditions. The   |
-|          |          |                   |         |                |       |              |          |         |        |       |          | loss at 565.0 provides better  | 1-hour momentum is negative    |
-|          |          |                   |         |                |       |              |          |         |        |       |          | risk management, while the     | (-6.2%), but the 4-hour        |
-|          |          |                   |         |                |       |              |          |         |        |       |          | increased confidence and       | momentum is extremely positive |
-|          |          |                   |         |                |       |              |          |         |        |       |          | adjusted expected return       | (543.1%), suggesting potential |
-|          |          |                   |         |                |       |              |          |         |        |       |          | reflect the improved           | for a rebound.', 'type':       |
-|          |          |                   |         |                |       |              |          |         |        |       |          | risk/reward profile. The       | 'technical_analysis'}          |
-|          |          |                   |         |                |       |              |          |         |        |       |          | position size remains          | {'confidence': 0.8,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          | appropriate given the mixed    | 'reasoning': 'The market is in |
-|          |          |                   |         |                |       |              |          |         |        |       |          | short-term momentum.           | a bull momentum phase with a   |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | VIX of 17.0, indicating low    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | volatility, which supports a   |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | hold decision as the ETF may   |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | benefit from the overall       |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | market trend.', 'type':        |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': "Market is in a   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | bull momentum phase, but SLV's |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | current levels suggest         |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | caution.", 'type':             |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'market_context'}              |
 +----------+----------+-------------------+---------+----------------+-------+--------------+----------+---------+--------+-------+----------+--------------------------------+--------------------------------+
-| GLD      | hold     | ['GLL']           |  306.39 |              0 |  64.4 | 65.0%        | $310.00  | $302.00 | 25.0%  |   2.5 | 300.0%   | The hold signal for GLD is     | {'confidence': 0.6,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          | maintained due to high RSI and | 'reasoning': 'Long-term trends |
-|          |          |                   |         |                |       |              |          |         |        |       |          | neutral market context, but    | show gold as a stable          |
-|          |          |                   |         |                |       |              |          |         |        |       |          | with tighter risk parameters.  | investment but with limited    |
-|          |          |                   |         |                |       |              |          |         |        |       |          | The reduced position size and  | upside.', 'type':              |
-|          |          |                   |         |                |       |              |          |         |        |       |          | improved risk/reward ratio     | 'long_term_trends'}            |
-|          |          |                   |         |                |       |              |          |         |        |       |          | better reflect the current     | {'confidence': 0.7,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          | lack of strong catalysts and   | 'reasoning': 'RSI is nearing   |
-|          |          |                   |         |                |       |              |          |         |        |       |          | potential for limited upside.  | overbought territory, and      |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | short-term momentum is         |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | negative.', 'type':            |
+| IWM      | hold     | ['RWM',           |  220.41 |              0 |  42.5 | 65.0%        | $235.00  | $215.00 | 8.0%   |   2   | 450.0%   | The decision to hold IWM is    | {'confidence': 0.6,            |
+|          |          | 'TWM',            |         |                |       |              |          |         |        |       |          | based on mixed momentum        | 'reasoning': 'The overall      |
+|          |          | 'TZA',            |         |                |       |              |          |         |        |       |          | indicators and a less          | market is in a bull momentum,  |
+|          |          | 'SRTY']           |         |                |       |              |          |         |        |       |          | favorable market context       | but IWM has underperformed     |
+|          |          |                   |         |                |       |              |          |         |        |       |          | compared to SPY and VOO. The   | slightly.', 'type':            |
+|          |          |                   |         |                |       |              |          |         |        |       |          | RSI is slightly oversold, but  | 'industry_news'}               |
+|          |          |                   |         |                |       |              |          |         |        |       |          | the 1h momentum is weaker,     | {'confidence': 0.6,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          | suggesting caution. The        | 'reasoning': 'Financial        |
+|          |          |                   |         |                |       |              |          |         |        |       |          | revised stop loss and target   | indicators show mixed momentum |
+|          |          |                   |         |                |       |              |          |         |        |       |          | prices maintain a favorable    | and profitability.', 'type':   |
+|          |          |                   |         |                |       |              |          |         |        |       |          | risk/reward ratio, and the     | 'financial_news'}              |
+|          |          |                   |         |                |       |              |          |         |        |       |          | reduced position size reflects | {'confidence': 0.7,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          | the lower confidence in the    | 'reasoning': 'Long-term trends |
+|          |          |                   |         |                |       |              |          |         |        |       |          | signal. Additional analysis    | show growth for IWM, but less  |
+|          |          |                   |         |                |       |              |          |         |        |       |          | and recent data have been      | than large-caps.', 'type':     |
+|          |          |                   |         |                |       |              |          |         |        |       |          | incorporated to strengthen the | 'long_term_trends'}            |
+|          |          |                   |         |                |       |              |          |         |        |       |          | hold recommendation.           | {'confidence': 0.6,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Short-term       |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | momentum indicators are mixed, |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | with 1h momentum weaker.',     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': 'short_term_trends'}   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.65,           |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'RSI is slightly  |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | oversold, but momentum         |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | indicators are not as strong   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | as for SPY or VOO.', 'type':   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'technical_analysis'}          |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.6,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Underlying       |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | fundamentals of small-cap      |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | stocks are less robust than    |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | large-caps.', 'type':          |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'fundamental_analysis'}        |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.6,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Market sentiment |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | is positive, but less so for   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | small-caps.', 'type':          |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'sentiment_analysis'}          |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.65,           |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Macro-economic   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | conditions are favorable, but  |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | small-caps benefit less.',     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': 'macro_economic_data'} |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.6,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Micro-economic   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | indicators for IWM are         |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | mixed.', 'type':               |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'micro_economic_data'}         |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Why hold IWM?    |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | Mixed momentum. Why mixed      |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | momentum? Small-caps lagging.  |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | Why lagging? Less favorable    |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | conditions. Why less           |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | favorable? Large-caps          |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | preferred. Why preferred?      |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | Stronger fundamentals.',       |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': '5_whys_analysis'}     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Risk is managed  |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | with a clear stop loss, but    |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | potential upside is limited.', |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': 'risk_assessment'}     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.65,           |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Suitable for     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | medium-term holding, but less  |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | so for short-term.', 'type':   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'time_horizon_considerations'} |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Key trends and   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | patterns indicate potential    |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | but less certainty.', 'type':  |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'key_trends_and_patterns'}     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Market context   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | of bull momentum supports a    |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | hold, but not a strong buy.',  |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': 'market_context'}      |
++----------+----------+-------------------+---------+----------------+-------+--------------+----------+---------+--------+-------+----------+--------------------------------+--------------------------------+
+| GDXJ     | hold     | ['JDST'           |   67.27 |              0 |  57.5 | 65.0%        | $70.00   | $65.00  | 15.0%  |   2.5 | 450.0%   | GDXJ's hold signal is          | {'confidence': 0.6,            |
+|          |          | ]                 |         |                |       |              |          |         |        |       |          | maintained but with tighter    | 'reasoning': 'Long-term trend  |
+|          |          |                   |         |                |       |              |          |         |        |       |          | risk management due to         | for gold is uncertain.',       |
+|          |          |                   |         |                |       |              |          |         |        |       |          | conflicting momentum           | 'type': 'long_term_trends'}    |
+|          |          |                   |         |                |       |              |          |         |        |       |          | indicators. The reduced        | {'confidence': 0.6,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          | position size and improved     | 'reasoning': 'RSI is neutral   |
+|          |          |                   |         |                |       |              |          |         |        |       |          | risk/reward ratio better       | at 57.5, and momentum          |
+|          |          |                   |         |                |       |              |          |         |        |       |          | reflect the moderate           | indicators are conflicting.',  |
+|          |          |                   |         |                |       |              |          |         |        |       |          | confidence in this trade while | 'type': 'technical_analysis'}  |
+|          |          |                   |         |                |       |              |          |         |        |       |          | preserving exposure to         | {'confidence': 0.6,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          | potential upside.              | 'reasoning': 'Why hold GDXJ?   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | Mixed signals. Why mixed       |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | signals? Conflicting momentum. |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | Why conflicting momentum?      |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | Short-term profit-taking. Why  |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | profit-taking? Bull market     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | consolidation. Why             |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | consolidation? Normal market   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | behavior.', 'type':            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | '5_whys_analysis'}             |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.6,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Risk is moderate |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | with a stop at 64.0.', 'type': |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'risk_assessment'}             |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.6,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Market is in     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | bull momentum but GDXJ shows   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | mixed signals.', 'type':       |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'market_context'}              |
++----------+----------+-------------------+---------+----------------+-------+--------------+----------+---------+--------+-------+----------+--------------------------------+--------------------------------+
+| UNG      | buy      | ['GASX'           |   15.44 |              0 |   8.2 | 65.0%        | $16.00   | $15.00  | 20.0%  |   2   | 500.0%   | UNG is extremely oversold (RSI | {'confidence': 0.6,            |
+|          |          | ]                 |         |                |       |              |          |         |        |       |          | 8.2) with strong 1h momentum   | 'reasoning': 'Natural gas      |
+|          |          |                   |         |                |       |              |          |         |        |       |          | (283%), indicating a potential | prices are volatile but        |
+|          |          |                   |         |                |       |              |          |         |        |       |          | bounce. However, the high      | currently showing signs of     |
+|          |          |                   |         |                |       |              |          |         |        |       |          | volatility warrants caution.   | rebound due to seasonal        |
+|          |          |                   |         |                |       |              |          |         |        |       |          | The revised signal tightens    | demand.', 'type':              |
+|          |          |                   |         |                |       |              |          |         |        |       |          | the stop and target to better  | 'industry_news'}               |
+|          |          |                   |         |                |       |              |          |         |        |       |          | manage risk and reduces the    | {'confidence': 0.6,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          | position size to account for   | 'reasoning': 'Financial        |
+|          |          |                   |         |                |       |              |          |         |        |       |          | the higher volatility, while   | markets are showing bullish    |
+|          |          |                   |         |                |       |              |          |         |        |       |          | still capitalizing on the      | momentum, which could benefit  |
+|          |          |                   |         |                |       |              |          |         |        |       |          | potential rebound.             | commodities like natural       |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | gas.', 'type':                 |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'financial_news'}              |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.6,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Long-term trends |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | show natural gas demand        |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | increasing due to energy       |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | transition.', 'type':          |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'long_term_trends'}            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Short-term       |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | momentum is strong with a 283% |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 1h mom, indicating a potential |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | rebound.', 'type':             |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'short_term_trends'}           |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.8,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'RSI at 8.2       |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | indicates extreme oversold     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | conditions, suggesting a       |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | potential bounce.', 'type':    |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'technical_analysis'}          |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.6,            |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Fundamentals     |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | support gold as a hedge but do |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | not indicate strong growth.',  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type':                        |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | support a rebound given the    |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | current price and profit       |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | potential.', 'type':           |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'fundamental_analysis'}        |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.6,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Macroeconomic    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | conditions are stable,         |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | providing limited upside for   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Macro-economic   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | conditions are favorable for a |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | rebound in commodities.',      |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': 'macro_economic_data'} |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'UNG is oversold  |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | (RSI 8.2), has strong 1h       |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | momentum (283%), and is in a   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | bullish market context, making |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | a bounce likely.', 'type':     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | '5_whys_analysis'}             |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Risk is managed  |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | with a tight stop at $14.5 and |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | a favorable risk/reward ratio  |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | of 2.0.', 'type':              |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'risk_assessment'}             |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.6,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Short-term trade |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | based on oversold conditions   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | and strong 1h momentum.',      |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type':                        |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'time_horizon_considerations'} |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Key trends       |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | indicate a potential rebound   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | from oversold levels.',        |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type':                        |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'key_trends_and_patterns'}     |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Bullish market   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | momentum supports a buy signal |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | for oversold assets like       |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | UNG.', 'type':                 |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'market_context'}              |
++----------+----------+-------------------+---------+----------------+-------+--------------+----------+---------+--------+-------+----------+--------------------------------+--------------------------------+
+| MDY      | hold     | ['MYY',           |  575.06 |              0 |  44.3 | 60.0%        | $0.00    | $0.00   | 10.0%  |   0   | 0.0%     | MDY has mixed momentum (-13.5% | N/A                            |
+|          |          | 'MZZ',            |         |                |       |              |          |         |        |       |          | 1h mom vs. 482.7% 4h mom) and  |                                |
+|          |          | 'MIDZ']           |         |                |       |              |          |         |        |       |          | a neutral RSI (44.3). The      |                                |
+|          |          |                   |         |                |       |              |          |         |        |       |          | bullish market context is not  |                                |
+|          |          |                   |         |                |       |              |          |         |        |       |          | strong enough to override      |                                |
+|          |          |                   |         |                |       |              |          |         |        |       |          | these mixed signals, making a  |                                |
+|          |          |                   |         |                |       |              |          |         |        |       |          | hold the best action. The      |                                |
+|          |          |                   |         |                |       |              |          |         |        |       |          | position size was reduced to   |                                |
+|          |          |                   |         |                |       |              |          |         |        |       |          | better manage risk given the   |                                |
+|          |          |                   |         |                |       |              |          |         |        |       |          | mixed signals.                 |                                |
++----------+----------+-------------------+---------+----------------+-------+--------------+----------+---------+--------+-------+----------+--------------------------------+--------------------------------+
+| GDX      | hold     | ['DUST'           |   51.11 |              0 |  60.3 | 60.0%        | $0.00    | $0.00   | 0.0%   |   0   | 0.0%     | GDX shows conflicting signals  | {'confidence': 0.6,            |
+|          |          | ]                 |         |                |       |              |          |         |        |       |          | but the stronger 4h momentum   | 'reasoning': 'Gold mining      |
+|          |          |                   |         |                |       |              |          |         |        |       |          | in a bull market context       | sector is volatile.', 'type':  |
+|          |          |                   |         |                |       |              |          |         |        |       |          | justifies slightly higher      | 'industry_news'}               |
+|          |          |                   |         |                |       |              |          |         |        |       |          | confidence in the hold         | {'confidence': 0.6,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          | recommendation. The neutral    | 'reasoning': 'Financial        |
+|          |          |                   |         |                |       |              |          |         |        |       |          | RSI suggests waiting for       | indicators show mixed          |
+|          |          |                   |         |                |       |              |          |         |        |       |          | clearer direction before       | signals.', 'type':             |
+|          |          |                   |         |                |       |              |          |         |        |       |          | taking action.                 | 'financial_news'}              |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.6,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Long-term trend  |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | for gold is uncertain.',       |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': 'long_term_trends'}    |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.6,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'RSI at 60.3 is   |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | neutral, and conflicting       |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | momentum signals suggest       |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | holding.', 'type':             |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'technical_analysis'}          |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.6,            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Macro            |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | environment is neutral for     |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | gold.', 'type':                |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'macro_economic_data'}         |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.6,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Why hold? RSI is |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | high, short-term momentum is   |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | negative, market context is    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | neutral, risk/reward is        |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | balanced, and no strong        |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | catalysts are present.',       |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'type': '5_whys_analysis'}     |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.7,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Risk is moderate |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | with balanced risk/reward      |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | ratio.', 'type':               |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'risk_assessment'}             |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.6,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Short-term       |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | outlook is neutral; long-term  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | outlook is stable.', 'type':   |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'time_horizon_considerations'} |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | {'confidence': 0.6,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Market context   |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | is bullish but not strongly    |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | supportive of gold.', 'type':  |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'market_context'}              |
-+----------+----------+-------------------+---------+----------------+-------+--------------+----------+---------+--------+-------+----------+--------------------------------+--------------------------------+
-| DIA      | hold     | ['DOG',           |  442.13 |              0 |  51.5 | 60.0%        | $440.00  | $435.00 | 20.0%  |   1   | 50.0%    | The neutral RSI and extreme    | {'confidence': 0.8,            |
-|          |          | 'DXD',            |         |                |       |              |          |         |        |       |          | negative short-term momentum   | 'reasoning': 'RSI is at 51.5,  |
-|          |          | 'SDOW']           |         |                |       |              |          |         |        |       |          | create conflicting signals,    | which is neutral, but the      |
-|          |          |                   |         |                |       |              |          |         |        |       |          | making a hold position more    | 1-hour momentum is highly      |
-|          |          |                   |         |                |       |              |          |         |        |       |          | appropriate. Reducing the      | negative (-71.6%), indicating  |
-|          |          |                   |         |                |       |              |          |         |        |       |          | position size and tightening   | strong selling pressure in the |
-|          |          |                   |         |                |       |              |          |         |        |       |          | the stop loss mitigates risk   | short term.', 'type':          |
-|          |          |                   |         |                |       |              |          |         |        |       |          | while allowing for potential   | 'technical_analysis'}          |
-|          |          |                   |         |                |       |              |          |         |        |       |          | upside in a bull market.       | {'confidence': 0.6,            |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Despite the bull |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | market, the extreme negative   |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | short-term momentum suggests   |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | that DIA may underperform in   |
-|          |          |                   |         |                |       |              |          |         |        |       |          |                                | the near term.', 'type':       |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'reasoning': 'Bull momentum    |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | market, but GDX signals are    |
+|          |          |                   |         |                |       |              |          |         |        |       |          |                                | mixed.', 'type':               |
 |          |          |                   |         |                |       |              |          |         |        |       |          |                                | 'market_context'}              |
 +----------+----------+-------------------+---------+----------------+-------+--------------+----------+---------+--------+-------+----------+--------------------------------+--------------------------------+
 
@@ -1477,5 +1440,5 @@ No user-specific picks available
 
 ```
 
-Updated_on: 2025-07-15T12:12:37.439238-04:00
+Updated_on: 2025-07-15T12:47:00.369270-04:00
     
