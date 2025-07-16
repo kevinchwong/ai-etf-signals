@@ -1,5 +1,5 @@
 
-    This output is updated at 2025-07-16 13:25:57 EST.
+    This output is updated at 2025-07-16 13:40:52 EST.
     ---
     
 # AI ETF Signals
@@ -10,153 +10,201 @@
 
 ![image](https://github.com/kevinchwong/ai-etf-signals/blob/main/images/architecture_1024.jpeg)
 
-# **ETF Options Strategy for Today (1:08 PM - 4:00 PM EST)**  
+# **ETF Options Strategy for Next Trading Day (9AM - 4PM EST)**  
 **Market Context:** Bull Momentum | **VIX:** 17.69 (Low Volatility)  
 
 ### **Key Strategic Recommendations**  
-1. **Focus on high-momentum tech/semiconductor ETFs (QQQ, SOXX, SMH, XLK)**  
-2. **Hold defensive/neutral ETFs (SLV, SPY, IWM, XLY, GDXJ, XLRE)**  
-3. **Sell weak momentum ETFs (UNG, ^VIX)**  
-4. **Maintain tight stop-losses** to lock in gains in this extended bull run  
+1. **Focus on high-momentum tech/semiconductor ETFs (QQQ, SOXX, SMH, XLK)** due to strong sector growth and bullish trends.  
+2. **Hold defensive/stable ETFs (XLU, XLI, DIA, VOO)** with tight stop-losses to lock in gains.  
+3. **Avoid overbought commodities (SLV, GDXJ)** and weak sectors (UNG).  
+4. **Use call options on high-conviction buys (SOXX, QQQ, SMH)** to leverage upside.  
 
 ---
 
 ## **Hour-by-Hour Trading Plan**  
 
-### **1:00 PM - 2:00 PM**  
+### **9:00 AM - 10:00 AM (Market Open)**  
 - **Action:** Buy **SOXX** (Semiconductors)  
   - **Confidence:** 0.85  
-  - **Reason:** Strong sector fundamentals, bullish momentum (RSI 52.96), high risk/reward (4.0)  
+  - **Reason:** Strong sector momentum (RSI 52.9), bullish trends, and high risk/reward (4.0).  
   - **Option Strategy:** Buy **SOXX $245 Calls (Exp: 1-3 days out)**  
-  - **Stop-Loss:** $235.0  
+  - **Stop-Loss:** $235.0 (Technical support)  
 
-- **Action:** Buy **SMH** (Semiconductors)  
-  - **Confidence:** 0.85  
-  - **Reason:** Strong technicals (RSI 54.26), sector tailwinds, 3.0 risk/reward  
-  - **Option Strategy:** Buy **SMH $290 Calls (Exp: 1-3 days out)**  
-  - **Stop-Loss:** $270.0  
-
-- **Action:** Sell **UNG** (Natural Gas)  
-  - **Confidence:** 0.75  
-  - **Reason:** Weak fundamentals, negative 4h momentum, oversupply concerns  
-  - **Option Strategy:** Buy **UNG $16 Puts (Exp: 1-3 days out)**  
-  - **Stop-Loss:** $16.0  
-
-### **2:00 PM - 3:00 PM**  
 - **Action:** Buy **QQQ** (Tech)  
   - **Confidence:** 0.8  
-  - **Reason:** Strong AI/cloud demand, bullish market context, RSI 54.79  
+  - **Reason:** AI/cloud demand driving growth, neutral RSI (54.8) with strong 1h/4h momentum.  
   - **Option Strategy:** Buy **QQQ $560 Calls (Exp: 1-3 days out)**  
   - **Stop-Loss:** $540.0  
 
-- **Action:** Buy **XLK** (Tech)  
+### **10:00 AM - 11:00 AM**  
+- **Action:** Buy **SMH** (Semiconductors)  
   - **Confidence:** 0.85  
-  - **Reason:** Neutral RSI (54.25), strong sector growth, 3.0 risk/reward  
-  - **Option Strategy:** Buy **XLK $260 Calls (Exp: 1-3 days out)**  
-  - **Stop-Loss:** $245.0  
+  - **Reason:** Oversold RSI (44.5), strong 4h momentum, and favorable macro conditions.  
+  - **Option Strategy:** Buy **SMH $290 Calls (Exp: 1-3 days out)**  
+  - **Stop-Loss:** $270.0  
 
-- **Action:** Sell **^VIX** (Volatility Index)  
-  - **Confidence:** 0.65  
-  - **Reason:** Overbought RSI (60.77), negative 4h momentum in bull market  
-  - **Option Strategy:** Sell **VIX $18 Calls (Exp: 1-3 days out)**  
-  - **Stop-Loss:** $18.0  
-
-### **3:00 PM - 4:00 PM (Market Close)**  
-- **Action:** Hold **SPY** (S&P 500)  
-  - **Confidence:** 0.65  
-  - **Reason:** Neutral RSI (52.67), lacks strong momentum vs. sector ETFs  
-
-- **Action:** Hold **XLE** (Energy)  
+- **Action:** Hold **XLK** (Tech)  
   - **Confidence:** 0.85  
-  - **Reason:** Oversold RSI (44.47), strong sector fundamentals  
+  - **Reason:** Already in strong uptrend; monitor for consolidation before adding.  
 
-- **Action:** Close all short-dated options positions to avoid overnight risk  
+### **11:00 AM - 12:00 PM**  
+- **Action:** Buy **FXI** (China Large-Cap)  
+  - **Confidence:** 0.85  
+  - **Reason:** Bullish RSI (60), policy easing, and improving macro data.  
+  - **Option Strategy:** Buy **FXI $38 Calls (Exp: 1-3 days out)**  
+  - **Stop-Loss:** $36.0  
+
+- **Action:** Sell **UNG** (Natural Gas)  
+  - **Confidence:** 0.75  
+  - **Reason:** Weak fundamentals, negative 4h momentum, and oversupply risks.  
+  - **Option Strategy:** Sell **UNG $16 Calls (Exp: 1-3 days out)**  
+  - **Stop-Loss:** $16.0  
+
+### **12:00 PM - 1:00 PM (Midday)**  
+- **Action:** Hold **VOO** (S&P 500)  
+  - **Confidence:** 0.85  
+  - **Reason:** Bullish trend but overlapping with SPY; no new entry needed.  
+
+- **Action:** Monitor **XLE** (Energy)  
+  - **Confidence:** 0.85  
+  - **Reason:** Oversold RSI (44.5); wait for confirmation of reversal.  
+
+### **1:00 PM - 2:00 PM**  
+- **Action:** Buy **XLI** (Industrials)  
+  - **Confidence:** 0.8  
+  - **Reason:** Strong 4h momentum, infrastructure spending tailwinds.  
+  - **Option Strategy:** Buy **XLI $150 Calls (Exp: 1-3 days out)**  
+  - **Stop-Loss:** $145.0  
+
+- **Action:** Hold **DIA** (Dow Jones)  
+  - **Confidence:** 0.8  
+  - **Reason:** Stable bull trend; no need to add exposure.  
+
+### **2:00 PM - 3:00 PM**  
+- **Action:** Buy **XLU** (Utilities)  
+  - **Confidence:** 0.7  
+  - **Reason:** Low VIX favors defensive sectors, neutral RSI (52.4).  
+  - **Option Strategy:** Buy **XLU $82 Calls (Exp: 1-3 days out)**  
+  - **Stop-Loss:** $80.0  
+
+- **Action:** Avoid **SLV** (Silver)  
+  - **Confidence:** 0.65  
+  - **Reason:** Overbought RSI (60.8); wait for pullback.  
+
+### **3:00 PM - 4:00 PM (Close)**  
+- **Action:** Close **SOXX Calls** if &gt;5% profit  
+  - **Reason:** Lock in gains before close; semiconductor momentum may fade overnight.  
+
+- **Action:** Hold **QQQ Calls**  
+  - **Reason:** Tech momentum likely to persist into next session.  
 
 ---
 
-### **Portfolio Allocation Advice**  
-- **Tech/Semis (QQQ, SOXX, SMH, XLK):** 50%  
-- **Energy (XLE):** 15%  
-- **Defensive (XLU, XLP):** 15%  
-- **Short Positions (UNG, ^VIX):** 20%  
-
-**Risk Management:** Tighten stops if VIX rises above 19.0. Reduce tech exposure if QQQ RSI &gt;70.
+### **Summary**  
+- **Top Buys:** SOXX, QQQ, SMH, FXI, XLI  
+- **Top Sells/Holds:** UNG, SLV, GDXJ  
+- **Key Risks:** Overbought tech (monitor RSI), low VIX complacency.  
+- **Adjustments:** Tighten stops if VIX spikes above 20.
 
 ---
 
 ## 中文版策略 (Chinese Version)
 
-# **今日ETF期权交易策略（北京时间凌晨2:08 - 凌晨5:00）**  
-**市场环境：** 多头动能 | **恐慌指数(VIX)：** 17.69（低波动率）  
+# **ETF期权交易策略（美东时间上午9点至下午4点）**  
+**市场环境：** 多头动能 | **恐慌指数VIX：** 17.69（低波动率）  
 
 ### **核心策略建议**  
-1. **聚焦高动能科技/半导体ETF（QQQ、SOXX、SMH、XLK）**  
-2. **持有防御型/中性ETF（SLV、SPY、IWM、XLY、GDXJ、XLRE）**  
-3. **做空弱势动能ETF（UNG、^VIX）**  
-4. **设置严格止损** 以锁定当前牛市延伸段的收益  
+1. **聚焦高动能科技/半导体ETF（QQQ、SOXX、SMH、XLK）**，因其行业增长强劲且趋势看涨  
+2. **持有防御型/稳定型ETF（XLU、XLI、DIA、VOO）**，设置严格止损以锁定收益  
+3. **避免超买大宗商品（SLV、GDXJ）**及弱势板块（UNG）  
+4. **对高确定性标的（SOXX、QQQ、SMH）使用看涨期权**以放大收益  
 
 ---
 
 ## **分时段交易计划**  
 
-### **凌晨2:00 - 凌晨3:00**  
+### **9:00 - 10:00（开盘时段）**  
 - **操作：** 买入 **SOXX**（半导体ETF）  
   - **置信度：** 0.85  
-  - **理由：** 行业基本面强劲，多头动能（RSI 52.96），高风险回报比（4.0）  
+  - **理由：** 行业动能强劲（RSI 52.9）、看涨趋势、高风险回报比（4.0）  
   - **期权策略：** 买入 **SOXX 245美元看涨期权（到期日：1-3天）**  
-  - **止损位：** 235.0美元  
+  - **止损位：** 235.0美元（技术支撑位）  
 
-- **操作：** 买入 **SMH**（半导体ETF）  
-  - **置信度：** 0.85  
-  - **理由：** 技术面强劲（RSI 54.26），行业顺风，3.0风险回报比  
-  - **期权策略：** 买入 **SMH 290美元看涨期权（到期日：1-3天）**  
-  - **止损位：** 270.0美元  
-
-- **操作：** 做空 **UNG**（天然气ETF）  
-  - **置信度：** 0.75  
-  - **理由：** 基本面疲软，4小时图负向动能，供应过剩担忧  
-  - **期权策略：** 买入 **UNG 16美元看跌期权（到期日：1-3天）**  
-  - **止损位：** 16.0美元  
-
-### **凌晨3:00 - 凌晨4:00**  
 - **操作：** 买入 **QQQ**（科技ETF）  
   - **置信度：** 0.8  
-  - **理由：** AI/云计算需求强劲，牛市环境，RSI 54.79  
+  - **理由：** AI/云计算需求推动增长，RSI中性（54.8）且1小时/4小时动能强劲  
   - **期权策略：** 买入 **QQQ 560美元看涨期权（到期日：1-3天）**  
   - **止损位：** 540.0美元  
 
-- **操作：** 买入 **XLK**（科技ETF）  
+### **10:00 - 11:00**  
+- **操作：** 买入 **SMH**（半导体ETF）  
   - **置信度：** 0.85  
-  - **理由：** RSI中性（54.25），行业增长强劲，3.0风险回报比  
-  - **期权策略：** 买入 **XLK 260美元看涨期权（到期日：1-3天）**  
-  - **止损位：** 245.0美元  
+  - **理由：** RSI超卖（44.5）、4小时动能强劲、宏观环境有利  
+  - **期权策略：** 买入 **SMH 290美元看涨期权（到期日：1-3天）**  
+  - **止损位：** 270.0美元  
 
-- **操作：** 做空 **^VIX**（波动率指数）  
-  - **置信度：** 0.65  
-  - **理由：** RSI超买（60.77），牛市环境下4小时图负向动能  
-  - **期权策略：** 卖出 **VIX 18美元看涨期权（到期日：1-3天）**  
-  - **止损位：** 18.0美元  
-
-### **凌晨4:00 - 凌晨5:00（收盘时段）**  
-- **操作：** 持有 **SPY**（标普500ETF）  
-  - **置信度：** 0.65  
-  - **理由：** RSI中性（52.67），相比行业ETF缺乏强劲动能  
-
-- **操作：** 持有 **XLE**（能源ETF）  
+- **操作：** 持有 **XLK**（科技ETF）  
   - **置信度：** 0.85  
-  - **理由：** RSI超卖（44.47），行业基本面强劲  
+  - **理由：** 已处于上升趋势，等待整理后再考虑加仓  
 
-- **操作：** 平仓所有短期期权头寸以避免隔夜风险  
+### **11:00 - 12:00**  
+- **操作：** 买入 **FXI**（中国大盘股ETF）  
+  - **置信度：** 0.85  
+  - **理由：** RSI看涨（60）、政策宽松、宏观经济数据改善  
+  - **期权策略：** 买入 **FXI 38美元看涨期权（到期日：1-3天）**  
+  - **止损位：** 36.0美元  
+
+- **操作：** 卖出 **UNG**（天然气ETF）  
+  - **置信度：** 0.75  
+  - **理由：** 基本面疲软、4小时动能负面、供应过剩风险  
+  - **期权策略：** 卖出 **UNG 16美元看涨期权（到期日：1-3天）**  
+  - **止损位：** 16.0美元  
+
+### **12:00 - 13:00（午盘时段）**  
+- **操作：** 持有 **VOO**（标普500ETF）  
+  - **置信度：** 0.85  
+  - **理由：** 看涨趋势但与SPY重叠，无需新建仓位  
+
+- **操作：** 监控 **XLE**（能源ETF）  
+  - **置信度：** 0.85  
+  - **理由：** RSI超卖（44.5），等待反转确认信号  
+
+### **13:00 - 14:00**  
+- **操作：** 买入 **XLI**（工业ETF）  
+  - **置信度：** 0.8  
+  - **理由：** 4小时动能强劲，基建支出形成利好  
+  - **期权策略：** 买入 **XLI 150美元看涨期权（到期日：1-3天）**  
+  - **止损位：** 145.0美元  
+
+- **操作：** 持有 **DIA**（道指ETF）  
+  - **置信度：** 0.8  
+  - **理由：** 稳定上涨趋势，无需追加仓位  
+
+### **14:00 - 15:00**  
+- **操作：** 买入 **XLU**（公用事业ETF）  
+  - **置信度：** 0.7  
+  - **理由：** 低VIX利好防御板块，RSI中性（52.4）  
+  - **期权策略：** 买入 **XLU 82美元看涨期权（到期日：1-3天）**  
+  - **止损位：** 80.0美元  
+
+- **操作：** 回避 **SLV**（白银ETF）  
+  - **置信度：** 0.65  
+  - **理由：** RSI超买（60.8），等待回调  
+
+### **15:00 - 16:00（收盘时段）**  
+- **操作：** 若盈利超5%则平仓 **SOXX看涨期权**  
+  - **理由：** 收盘前锁定收益，半导体动能可能隔夜减弱  
+
+- **操作：** 持有 **QQQ看涨期权**  
+  - **理由：** 科技板块动能有望延续至下一交易日  
 
 ---
 
-### **仓位配置建议**  
-- **科技/半导体（QQQ、SOXX、SMH、XLK）：** 50%  
-- **能源（XLE）：** 15%  
-- **防御型（XLU、XLP）：** 15%  
-- **空头仓位（UNG、^VIX）：** 20%  
-
-**风险管理：** 若VIX突破19.0则收紧止损；若QQQ的RSI&gt;70则减少科技板块敞口
+### **策略总结**  
+- **重点买入：** SOXX、QQQ、SMH、FXI、XLI  
+- **重点卖出/持有：** UNG、SLV、GDXJ  
+- **主要风险：** 科技板块超买（监控RSI）、低VIX导致市场自满  
+- **调整建议：** 若VIX突破20则收紧止损
 
 
 
