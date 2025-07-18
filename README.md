@@ -1,5 +1,5 @@
 
-    This output is updated at 2025-07-18 10:25:51 EST.
+    This output is updated at 2025-07-18 10:40:58 EST.
     ---
     
 # AI ETF Signals
@@ -10,199 +10,179 @@
 
 ![image](https://github.com/kevinchwong/ai-etf-signals/blob/main/images/architecture_1024.jpeg)
 
-# **ETF Options Strategy for Today (10:06 AM - 4:00 PM EST)**  
+# **ETF Options Strategy for Today (10:12 AM - 4:00 PM EST)**  
 **Market Context:** Bull Momentum | **VIX:** 16.32 (Low Volatility)  
 
 ### **Key Strategic Recommendations**  
-1. **Focus on high-momentum ETFs (IWM, XLK, ARKK, SMH, XBI, TQQQ)** to capitalize on bullish trends.  
-2. **Hold defensive ETFs (XLU, BITO)** with tighter stops to manage risk.  
-3. **Sell overbought ETFs (SLV)** to lock in gains.  
-4. **Use leveraged ETFs (SPXL, UDOW, TQQQ)** cautiously due to low VIX.  
+1. **Focus on high-momentum ETFs (IWM, ARKK, XLK, TQQQ)** with strong technicals and bullish market alignment.  
+2. **Sell overbought SLV** due to extreme RSI (76.5) and contrarian setup.  
+3. **Hold mixed-signal ETFs (SOXX, BITO, FXI)** with tighter risk controls.  
+4. **Use tight stop-losses** to lock in gains in a low-VIX environment.  
 
 ---
 
 ## **Hour-by-Hour Trading Plan**  
 
-### **10:00 AM - 11:00 AM (Current Hour)**
+### **10:00 AM - 11:00 AM (Current Hour)**  
 - **Action:** Buy **IWM** (Russell 2000)  
   - **Confidence:** 0.95  
-  - **Reason:** Strong momentum (RSI 37.3), bullish market context, small-cap recovery.  
-  - **Option Strategy:** Buy **IWM $230 Calls (Exp: 1-3 days out)**  
-  - **Stop-Loss:** $215.75  
+  - **Reason:** Extremely strong momentum (RSI 37.3, oversold), bullish small-cap recovery.  
+  - **Option Strategy:** Buy **IWM $225 Calls (Exp: 1-3 days out)**  
+  - **Stop-Loss:** $215.75 (from data)  
 
-- **Action:** Buy **XLK** (Technology)  
-  - **Confidence:** 0.9  
-  - **Reason:** Neutral RSI (45.2), strong sector momentum, tech leadership.  
-  - **Option Strategy:** Buy **XLK $265 Calls (Exp: 1-3 days out)**  
-  - **Stop-Loss:** $255.0  
-
-- **Action:** Sell **SLV** (Silver)  
-  - **Confidence:** 0.85  
-  - **Reason:** Overbought (RSI 76.5), contrarian sell signal.  
-  - **Option Strategy:** Sell **SLV $35 Calls (Exp: 1-3 days out)**  
-  - **Stop-Loss:** $35.0  
-
-### **11:00 AM - 12:00 PM**  
 - **Action:** Buy **ARKK** (Innovation ETF)  
   - **Confidence:** 0.9  
-  - **Reason:** Oversold (RSI 40.1), strong rebound potential.  
+  - **Reason:** Oversold RSI (40.1), strong sector momentum.  
   - **Option Strategy:** Buy **ARKK $80 Calls (Exp: 1-3 days out)**  
   - **Stop-Loss:** $77.0  
 
-- **Action:** Hold **XLU** (Utilities)  
-  - **Confidence:** 0.65  
-  - **Reason:** Moderate momentum, defensive hedge.  
-  - **Option Strategy:** Hold existing positions.  
-  - **Stop-Loss:** $81.56  
+- **Action:** Sell **SLV** (Silver ETF)  
+  - **Confidence:** 0.85  
+  - **Reason:** Overbought RSI (76.5), contrarian sell signal.  
+  - **Option Strategy:** Buy **SLV $33 Puts (Exp: 1-3 days out)**  
+  - **Stop-Loss:** $35.0  
+
+### **11:00 AM - 12:00 PM**  
+- **Action:** Buy **XLK** (Tech Sector)  
+  - **Confidence:** 0.9  
+  - **Reason:** Neutral RSI (45.2), extremely strong momentum, sector leadership.  
+  - **Option Strategy:** Buy **XLK $265 Calls (Exp: 1-3 days out)**  
+  - **Stop-Loss:** $255.0  
+
+- **Action:** Hold **BITO** (Bitcoin Futures)  
+  - **Confidence:** 0.6  
+  - **Reason:** Mixed signals, reduced position size (0.05) due to crypto volatility.  
+  - **Option Strategy:** No new trades; monitor for breakout.  
 
 ### **12:00 PM - 1:00 PM**  
-- **Action:** Buy **SMH** (Semiconductors)  
-  - **Confidence:** 0.95  
-  - **Reason:** Oversold (RSI 39.9), sector strength.  
-  - **Option Strategy:** Buy **SMH $295 Calls (Exp: 1-3 days out)**  
-  - **Stop-Loss:** $280.0  
-
 - **Action:** Buy **TQQQ** (3x Nasdaq-100)  
   - **Confidence:** 0.9  
-  - **Reason:** Strong momentum (RSI 44.1), leveraged bull play.  
-  - **Option Strategy:** Buy **TQQQ $90 Calls (Exp: 1-3 days out)**  
+  - **Reason:** Strong momentum (RSI 44.1), leveraged bull market play.  
+  - **Option Strategy:** Buy **TQQQ $88 Calls (Exp: 1-3 days out)**  
   - **Stop-Loss:** $85.0  
+
+- **Action:** Hold **FXI** (China ETF)  
+  - **Confidence:** 0.65  
+  - **Reason:** High RSI (69.5) but tightened stop ($37.0). No new entries.  
 
 ### **1:00 PM - 2:00 PM**  
 - **Action:** Buy **XBI** (Biotech)  
   - **Confidence:** 0.8  
-  - **Reason:** Neutral RSI (42.5), sector momentum.  
+  - **Reason:** Neutral RSI (42.5), strong sector momentum.  
   - **Option Strategy:** Buy **XBI $90 Calls (Exp: 1-3 days out)**  
   - **Stop-Loss:** $83.0  
 
-- **Action:** Hold **BITO** (Bitcoin Futures)  
-  - **Confidence:** 0.6  
-  - **Reason:** Mixed signals, high volatility.  
-  - **Option Strategy:** Hold existing positions.  
-  - **Stop-Loss:** $22.0  
+- **Action:** Hold **SOXX** (Semiconductors)  
+  - **Confidence:** 0.7  
+  - **Reason:** Low RSI (37.5) but lacks catalysts. Monitor for reversal.  
 
 ### **2:00 PM - 3:00 PM**  
-- **Action:** Buy **SPXL** (3x S&P 500)  
+- **Action:** Buy **ICLN** (Clean Energy)  
   - **Confidence:** 0.85  
-  - **Reason:** Bull market alignment, strong momentum.  
-  - **Option Strategy:** Buy **SPXL $185 Calls (Exp: 1-3 days out)**  
-  - **Stop-Loss:** $175.0  
+  - **Reason:** Neutral RSI (55.9), policy tailwinds, strong momentum.  
+  - **Option Strategy:** Buy **ICLN $14 Calls (Exp: 1-3 days out)**  
+  - **Stop-Loss:** $12.79  
 
-- **Action:** Hold **EEM** (Emerging Markets)  
-  - **Confidence:** 0.85  
-  - **Reason:** Neutral RSI (56.8), bullish sentiment.  
-  - **Option Strategy:** Hold existing positions.  
-  - **Stop-Loss:** $48.0  
+### **3:00 PM - 4:00 PM (Close)**  
+- **Action:** Trim positions into strength (e.g., partial close on ARKK, XLK, TQQQ).  
+- **No new entries** unless clear breakout occurs.  
 
-### **3:00 PM - 4:00 PM (Market Close)**  
-- **Action:** Close all short-term calls (e.g., IWM, XLK, ARKK) if profitable.  
-- **Action:** Hold core positions (TQQQ, XBI, SPXL) overnight if momentum persists.  
-- **Action:** Tighten stops on all positions to lock in gains.  
+---
 
----  
-**Final Notes:**  
-- Prioritize high-conviction buys (IWM, XLK, SMH, TQQQ).  
-- Monitor VIX for volatility spikes.  
-- Adjust stops dynamically to protect profits.
+### **Summary**  
+- **Top Buys:** IWM, ARKK, XLK, TQQQ, XBI, ICLN (high momentum + bullish context).  
+- **Top Sell:** SLV (overbought).  
+- **Holds:** BITO, FXI, SOXX (manage risk with tight stops).  
+- **Key Risk:** Low VIX may lead to abrupt reversals; enforce strict stop-losses.
 
 ---
 
 ## 中文版策略 (Chinese Version)
 
-# **ETF期权交易策略（北京时间22:06 - 次日4:00）**  
-**市场环境：** 牛市动能 | **恐慌指数VIX：** 16.32（低波动率）  
+# **今日ETF期权交易策略（北京时间22:12 - 次日4:00）**  
+**市场环境：** 多头动能 | **恐慌指数VIX：** 16.32（低波动率）  
 
 ### **核心策略建议**  
-1. **聚焦高动量ETF（IWM、XLK、ARKK、SMH、XBI、TQQQ）** 以捕捉上涨趋势  
-2. **持有防御型ETF（XLU、BITO）** 并设置严格止损以控制风险  
-3. **卖出超买ETF（SLV）** 锁定盈利  
-4. **谨慎使用杠杆ETF（SPXL、UDOW、TQQQ）** 因VIX处于低位  
+1. **聚焦高动量ETF（IWM、ARKK、XLK、TQQQ）**，选择技术面强劲且符合牛市趋势的标的  
+2. **卖出超买的SLV**，因RSI高达76.5且出现反向信号  
+3. **持有信号矛盾的ETF（SOXX、BITO、FXI）**，需设置更严格风控  
+4. **采用紧止损策略**，在低波动环境中锁定利润  
 
 ---
 
-## **分时段交易计划**  
+## **逐小时交易计划**  
 
-### **22:00 - 23:00（当前时段）**
+### **22:00 - 23:00（当前时段）**  
 - **操作：** 买入 **IWM**（罗素2000指数ETF）  
   - **置信度：** 0.95  
-  - **理由：** 强劲动量（RSI 37.3）、牛市环境、小盘股复苏  
-  - **期权策略：** 买入 **IWM 230美元看涨期权（到期日：1-3天）**  
-  - **止损价：** 215.75美元  
+  - **理由：** 极强动量（RSI 37.3超卖），小盘股反弹信号明确  
+  - **期权策略：** 买入 **IWM 225美元看涨期权（1-3天到期）**  
+  - **止损位：** 215.75美元  
 
-- **操作：** 买入 **XLK**（科技板块ETF）  
+- **操作：** 买入 **ARKK**（创新科技ETF）  
   - **置信度：** 0.9  
-  - **理由：** RSI中性（45.2）、板块动能强劲、科技股领涨  
-  - **期权策略：** 买入 **XLK 265美元看涨期权（到期日：1-3天）**  
-  - **止损价：** 255.0美元  
+  - **理由：** RSI超卖（40.1），板块动能强劲  
+  - **期权策略：** 买入 **ARKK 80美元看涨期权（1-3天到期）**  
+  - **止损位：** 77.0美元  
 
 - **操作：** 卖出 **SLV**（白银ETF）  
   - **置信度：** 0.85  
-  - **理由：** 超买状态（RSI 76.5）、反向卖出信号  
-  - **期权策略：** 卖出 **SLV 35美元看涨期权（到期日：1-3天）**  
-  - **止损价：** 35.0美元  
+  - **理由：** RSI超买（76.5），反向卖出信号  
+  - **期权策略：** 买入 **SLV 33美元看跌期权（1-3天到期）**  
+  - **止损位：** 35.0美元  
 
 ### **23:00 - 次日0:00**  
-- **操作：** 买入 **ARKK**（创新科技ETF）  
+- **操作：** 买入 **XLK**（科技板块ETF）  
   - **置信度：** 0.9  
-  - **理由：** 超卖状态（RSI 40.1）、强劲反弹潜力  
-  - **期权策略：** 买入 **ARKK 80美元看涨期权（到期日：1-3天）**  
-  - **止损价：** 77.0美元  
+  - **理由：** RSI中性（45.2），动量极强且领涨市场  
+  - **期权策略：** 买入 **XLK 265美元看涨期权（1-3天到期）**  
+  - **止损位：** 255.0美元  
 
-- **操作：** 持有 **XLU**（公共事业板块ETF）  
-  - **置信度：** 0.65  
-  - **理由：** 中等动量、防御性对冲  
-  - **期权策略：** 维持现有仓位  
-  - **止损价：** 81.56美元  
+- **操作：** 持有 **BITO**（比特币期货ETF）  
+  - **置信度：** 0.6  
+  - **理由：** 信号矛盾，因加密货币波动性降低仓位至0.05  
+  - **期权策略：** 暂不开新仓，等待突破信号  
 
 ### **0:00 - 1:00**  
-- **操作：** 买入 **SMH**（半导体ETF）  
-  - **置信度：** 0.95  
-  - **理由：** 超卖状态（RSI 39.9）、板块强势  
-  - **期权策略：** 买入 **SMH 295美元看涨期权（到期日：1-3天）**  
-  - **止损价：** 280.0美元  
-
 - **操作：** 买入 **TQQQ**（3倍做多纳斯达克ETF）  
   - **置信度：** 0.9  
-  - **理由：** 强劲动量（RSI 44.1）、杠杆牛市策略  
-  - **期权策略：** 买入 **TQQQ 90美元看涨期权（到期日：1-3天）**  
-  - **止损价：** 85.0美元  
+  - **理由：** 强劲动量（RSI 44.1），牛市杠杆工具  
+  - **期权策略：** 买入 **TQQQ 88美元看涨期权（1-3天到期）**  
+  - **止损位：** 85.0美元  
+
+- **操作：** 持有 **FXI**（中国ETF）  
+  - **置信度：** 0.65  
+  - **理由：** RSI偏高（69.5），收紧止损至37.0美元，不新建仓位  
 
 ### **1:00 - 2:00**  
 - **操作：** 买入 **XBI**（生物科技ETF）  
   - **置信度：** 0.8  
-  - **理由：** RSI中性（42.5）、板块动能  
-  - **期权策略：** 买入 **XBI 90美元看涨期权（到期日：1-3天）**  
-  - **止损价：** 83.0美元  
+  - **理由：** RSI中性（42.5），板块动能强劲  
+  - **期权策略：** 买入 **XBI 90美元看涨期权（1-3天到期）**  
+  - **止损位：** 83.0美元  
 
-- **操作：** 持有 **BITO**（比特币期货ETF）  
-  - **置信度：** 0.6  
-  - **理由：** 信号混杂、高波动性  
-  - **期权策略：** 维持现有仓位  
-  - **止损价：** 22.0美元  
+- **操作：** 持有 **SOXX**（半导体ETF）  
+  - **置信度：** 0.7  
+  - **理由：** RSI低位（37.5）但缺乏催化剂，观察反转信号  
 
 ### **2:00 - 3:00**  
-- **操作：** 买入 **SPXL**（3倍做多标普500ETF）  
+- **操作：** 买入 **ICLN**（清洁能源ETF）  
   - **置信度：** 0.85  
-  - **理由：** 符合牛市趋势、强劲动能  
-  - **期权策略：** 买入 **SPXL 185美元看涨期权（到期日：1-3天）**  
-  - **止损价：** 175.0美元  
-
-- **操作：** 持有 **EEM**（新兴市场ETF）  
-  - **置信度：** 0.85  
-  - **理由：** RSI中性（56.8）、看涨情绪  
-  - **期权策略：** 维持现有仓位  
-  - **止损价：** 48.0美元  
+  - **理由：** RSI中性（55.9），政策利好+动量强劲  
+  - **期权策略：** 买入 **ICLN 14美元看涨期权（1-3天到期）**  
+  - **止损位：** 12.79美元  
 
 ### **3:00 - 4:00（收盘时段）**  
-- **操作：** 平仓所有短期看涨期权（如IWM、XLK、ARKK）锁定盈利  
-- **操作：** 若动能持续，保留核心仓位（TQQQ、XBI、SPXL）过夜  
-- **操作：** 收紧所有仓位止损以保护利润  
+- **操作：** 逢高减仓（如部分平仓ARKK、XLK、TQQQ）  
+- **不再新建仓位**，除非出现明确突破  
 
----  
-**最终提示：**  
-- 优先执行高置信度买入（IWM、XLK、SMH、TQQQ）  
-- 监控VIX指数是否出现波动率飙升  
-- 动态调整止损位以保护盈利
+---
+
+### **策略总结**  
+- **重点买入：** IWM、ARKK、XLK、TQQQ、XBI、ICLN（高动量+牛市环境）  
+- **重点卖出：** SLV（超买）  
+- **持有观察：** BITO、FXI、SOXX（严格止损控制风险）  
+- **主要风险：** 低波动率可能导致突然反转，务必执行严格止损
 
 
 
