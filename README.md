@@ -1,5 +1,5 @@
 
-    This output is updated at 2025-07-18 13:26:47 EST.
+    This output is updated at 2025-07-18 13:40:56 EST.
     ---
     
 # AI ETF Signals
@@ -10,127 +10,217 @@
 
 ![image](https://github.com/kevinchwong/ai-etf-signals/blob/main/images/architecture_1024.jpeg)
 
-# **ETF Options Strategy for Today (1:15 PM - 4:00 PM EST)**  
+# **ETF Options Strategy for Next Trading Day (9AM - 4PM EST)**  
 **Market Context:** Bull Momentum | **VIX:** 16.61 (Low Volatility)  
 
 ### **Key Strategic Recommendations**  
-1. **Focus on high-momentum tech/semiconductor ETFs (SOXX, SMH, TQQQ, XLK)**  
-2. **Hold leveraged ETFs (SPXL, UDOW) with tight stops**  
-3. **Avoid overbought ETFs (SLV, FXI, USO, ICLN)**  
-4. **Use tight stop-losses to lock in gains in this low-VIX environment**  
+1. **Focus on semiconductor/tech ETFs (SOXX, SMH, TQQQ, XLK, QQQ)** due to strong momentum and bullish market context.  
+2. **Hold leveraged ETFs (SPXL, UDOW)** with tight stops to manage volatility risk.  
+3. **Avoid overbought ETFs (SLV, ICLN, FXI, EEM)** – consider inverse ETFs if bearish confirmation appears.  
+4. **Use tight stop-losses** on all positions to protect gains in a low-VIX environment.  
 
 ---
 
 ## **Hour-by-Hour Trading Plan**  
 
-### **1:15 PM - 2:00 PM**  
+### **9:00 AM - 10:00 AM (Market Open)**  
+- **Action:** Buy **SOXX** (Semiconductors)  
+  - **Confidence:** 0.85  
+  - **Reason:** Strong momentum (RSI 56.1), bullish sector trends, favorable risk/reward (2.0).  
+  - **Option Strategy:** Buy **SOXX $250 Calls (Exp: 1-3 days out)**  
+  - **Stop-Loss:** $245.0  
+
 - **Action:** Buy **SMH** (Semiconductors)  
   - **Confidence:** 0.85  
-  - **Reason:** Strong 4h momentum (neutral RSI 57.3), bullish sector trends  
-  - **Option Strategy:** Buy **SMH $290 Calls (Exp: 1-3 days out)**  
+  - **Reason:** Very strong technicals (RSI 57.3), high Mom4h, bullish industry outlook.  
+  - **Option Strategy:** Buy **SMH $295 Calls (Exp: 1-3 days out)**  
   - **Stop-Loss:** $285.0  
 
-- **Action:** Buy **TQQQ** (3x Nasdaq-100)  
+### **10:00 AM - 11:00 AM**  
+- **Action:** Buy **TQQQ** (3x Leveraged Nasdaq-100)  
   - **Confidence:** 0.95  
-  - **Reason:** Extreme momentum (RSI 58.8), tech leadership  
-  - **Option Strategy:** Buy **TQQQ $86 Calls (Exp: 1-3 days out)**  
+  - **Reason:** Extreme momentum (RSI 58.8), bull market alignment, high risk/reward (3.75).  
+  - **Option Strategy:** Buy **TQQQ $90 Calls (Exp: 1-3 days out)**  
   - **Stop-Loss:** $85.0  
 
-### **2:00 PM - 3:00 PM**  
-- **Action:** Hold **SPXL** (3x S&P 500)  
-  - **Confidence:** 0.8  
-  - **Reason:** Strong bull market alignment, but reduce exposure  
-  - **Adjustment:** Tighten stop to **$175.0**  
-
-- **Action:** Sell **FXI** (China ETF)  
+- **Action:** Sell **FXI** (China Large-Cap)  
   - **Confidence:** 0.7  
-  - **Reason:** Overbought (RSI 75.8), regulatory risks  
-  - **Option Strategy:** Buy **FXI $38 Puts (Exp: 1-3 days out)**  
-  - **Stop-Loss:** $38.5  
+  - **Reason:** Overbought (RSI 75.8), regulatory risks, bearish technical divergence.  
+  - **Option Strategy:** Buy **FXI $37 Puts (Exp: 1-3 days out)** or short via **FXP/YANG**.  
+  - **Stop-Loss:** $38.0  
 
-### **3:00 PM - 4:00 PM (Market Close)**  
-- **Action:** Close **ICLN** (Clean Energy)  
-  - **Confidence:** 0.65  
-  - **Reason:** Overbought (RSI 72.7), take profits  
-  - **Execution:** Sell all positions  
-
-- **Action:** Buy **XLK** (Tech Sector)  
+### **11:00 AM - 12:00 PM**  
+- **Action:** Buy **XLK** (Technology)  
   - **Confidence:** 0.75  
-  - **Reason:** Healthy RSI (61.2), sector leadership  
-  - **Option Strategy:** Buy **XLK $260 Calls (Exp: 1-3 days out)**  
+  - **Reason:** Neutral RSI (61.2), sector leadership, strong macro support.  
+  - **Option Strategy:** Buy **XLK $265 Calls (Exp: 1-3 days out)**  
   - **Stop-Loss:** $260.0  
 
----
+- **Action:** Hold **ICLN** (Clean Energy)  
+  - **Confidence:** 0.65  
+  - **Reason:** Overbought (RSI 72.7), but sector tailwinds justify holding with tight stop.  
+  - **Option Strategy:** No new trades – monitor for pullback entry.  
+  - **Stop-Loss:** $13.0  
 
-### **Risk Management Notes**  
-- **Position Sizing:** Max 25% per trade (reduced from original signals)  
-- **Stop-Loss Discipline:** Tighter stops due to low VIX (16.6)  
-- **Avoid:** SLV, USO, GBTC (overbought/volatile)  
+### **12:00 PM - 1:00 PM**  
+- **Action:** Buy **QQQ** (Nasdaq-100)  
+  - **Confidence:** 0.85  
+  - **Reason:** Strong fundamentals, bull market alignment, RSI 59.5 (neutral).  
+  - **Option Strategy:** Buy **QQQ $570 Calls (Exp: 1-3 days out)**  
+  - **Stop-Loss:** $550.0  
 
-**Final Check at 3:45 PM:** Close any positions not hitting targets to avoid overnight risk.
+- **Action:** Hold **SLV** (Silver)  
+  - **Confidence:** 0.65  
+  - **Reason:** Overbought (RSI 72.9), but momentum persists – tighten stop.  
+  - **Option Strategy:** No new trades – consider **ZSL** if RSI breaks 75.  
+  - **Stop-Loss:** $32.0  
+
+### **1:00 PM - 2:00 PM**  
+- **Action:** Buy **SPXL** (3x Leveraged S&P 500)  
+  - **Confidence:** 0.8  
+  - **Reason:** Strong Mom4h, low VIX supports leveraged longs.  
+  - **Option Strategy:** Buy **SPXL $185 Calls (Exp: 1-3 days out)**  
+  - **Stop-Loss:** $175.0  
+
+- **Action:** Sell **EEM** (Emerging Markets)  
+  - **Confidence:** 0.8  
+  - **Reason:** Overbought (RSI 73.4), weak relative strength vs. U.S. equities.  
+  - **Option Strategy:** Buy **EEM $48 Puts (Exp: 1-3 days out)** or short via **EDZ**.  
+  - **Stop-Loss:** $49.5  
+
+### **2:00 PM - 3:00 PM**  
+- **Action:** Buy **XBI** (Biotech)  
+  - **Confidence:** 0.7  
+  - **Reason:** Strong sector momentum (RSI 68.5), improving fundamentals.  
+  - **Option Strategy:** Buy **XBI $90 Calls (Exp: 1-3 days out)**  
+  - **Stop-Loss:** $82.0  
+
+- **Action:** Hold **GBTC** (Bitcoin Trust)  
+  - **Confidence:** 0.7  
+  - **Reason:** High RSI (68.8) but crypto momentum intact – monitor for breakout.  
+  - **Option Strategy:** No new trades – consider **BITI** if BTC reverses.  
+  - **Stop-Loss:** $88.0  
+
+### **3:00 PM - 4:00 PM (Close)**  
+- **Action:** Trim **TQQQ** if &gt;5% profit  
+  - **Reason:** Lock gains ahead of close; leveraged ETFs carry overnight risk.  
+- **Action:** Tighten stops on all positions  
+  - **Reason:** Low VIX = risk of sudden reversals.  
+
+---  
+**Final Notes:**  
+- **Max Portfolio Exposure:** 60% (due to leveraged ETFs).  
+- **Inverse ETF Hedge:** Consider **SQQQ/SOXS** if VIX spikes above 18.  
+- **Avoid:** Overbought commodities (SLV, USO) and China (FXI).
 
 ---
 
 ## 中文版策略 (Chinese Version)
 
-# **ETF期权交易策略（美东时间下午1:15 - 4:00）**  
-**市场环境：** 多头动能 | **VIX恐慌指数：** 16.61（低波动率）  
+# **ETF期权交易策略（美东时间上午9点至下午4点）**  
+**市场环境：牛市动能 | 恐慌指数(VIX)：16.61（低波动率）**  
 
 ### **核心策略建议**  
-1. **聚焦高动量科技/半导体ETF（SOXX、SMH、TQQQ、XLK）**  
-2. **持有杠杆ETF（SPXL、UDOW）并设置紧密止损**  
-3. **避免超买ETF（SLV、FXI、USO、ICLN）**  
-4. **在低VIX环境下使用紧密止损锁定利润**  
+1. **重点布局半导体/科技类ETF（SOXX、SMH、TQQQ、XLK、QQQ）**，因其强劲动能与牛市环境高度契合  
+2. **持有杠杆ETF（SPXL、UDOW）**需设置紧密止损以控制波动风险  
+3. **回避超买ETF（SLV、ICLN、FXI、EEM）**——若出现看跌信号可考虑反向ETF  
+4. **所有头寸设置紧密止损**，在低VIX环境下保护盈利  
 
 ---
 
 ## **分时段交易计划**  
 
-### **下午1:15 - 2:00**  
-- **操作：** 买入 **SMH**（半导体ETF）  
-  - **信心指数：** 0.85  
-  - **理由：** 4小时强劲动量（RSI中性值57.3），板块趋势看涨  
-  - **期权策略：** 买入 **SMH 290美元看涨期权（到期日：1-3天）**  
+### **上午9:00 - 10:00（开盘时段）**  
+- **操作：买入SOXX（半导体ETF）**  
+  - **置信度：0.85**  
+  - **依据：** 强劲动能（RSI 56.1）、行业趋势向好、风险回报比2.0  
+  - **期权策略：** 买入SOXX行权价250美元看涨期权（到期日：1-3天）  
+  - **止损位：** 245.0美元  
+
+- **操作：买入SMH（半导体ETF）**  
+  - **置信度：0.85**  
+  - **依据：** 技术面强劲（RSI 57.3）、4小时动量指标优异、行业前景乐观  
+  - **期权策略：** 买入SMH行权价295美元看涨期权（到期日：1-3天）  
   - **止损位：** 285.0美元  
 
-- **操作：** 买入 **TQQQ**（3倍做多纳斯达克100）  
-  - **信心指数：** 0.95  
-  - **理由：** 极端动量（RSI 58.8），科技股领涨  
-  - **期权策略：** 买入 **TQQQ 86美元看涨期权（到期日：1-3天）**  
+### **上午10:00 - 11:00**  
+- **操作：买入TQQQ（3倍做多纳斯达克100）**  
+  - **置信度：0.95**  
+  - **依据：** 极端动能（RSI 58.8）、与牛市同步、风险回报比3.75  
+  - **期权策略：** 买入TQQQ行权价90美元看涨期权（到期日：1-3天）  
   - **止损位：** 85.0美元  
 
-### **下午2:00 - 3:00**  
-- **操作：** 持有 **SPXL**（3倍做多标普500）  
-  - **信心指数：** 0.8  
-  - **理由：** 与牛市高度同步，但需降低风险敞口  
-  - **调整：** 收紧止损至 **175.0美元**  
+- **操作：卖出FXI（中国大盘股ETF）**  
+  - **置信度：0.7**  
+  - **依据：** 超买状态（RSI 75.8）、监管风险、技术面出现看跌背离  
+  - **期权策略：** 买入FXI行权价37美元看跌期权（到期日：1-3天）或做空FXP/YANG  
+  - **止损位：** 38.0美元  
 
-- **操作：** 卖出 **FXI**（中国ETF）  
-  - **信心指数：** 0.7  
-  - **理由：** 超买（RSI 75.8），政策监管风险  
-  - **期权策略：** 买入 **FXI 38美元看跌期权（到期日：1-3天）**  
-  - **止损位：** 38.5美元  
-
-### **下午3:00 - 4:00（收盘阶段）**  
-- **操作：** 平仓 **ICLN**（清洁能源ETF）  
-  - **信心指数：** 0.65  
-  - **理由：** 超买（RSI 72.7），获利了结  
-  - **执行：** 清空所有持仓  
-
-- **操作：** 买入 **XLK**（科技板块ETF）  
-  - **信心指数：** 0.75  
-  - **理由：** RSI健康（61.2），板块领涨  
-  - **期权策略：** 买入 **XLK 260美元看涨期权（到期日：1-3天）**  
+### **上午11:00 - 12:00**  
+- **操作：买入XLK（科技板块ETF）**  
+  - **置信度：0.75**  
+  - **依据：** RSI中性（61.2）、板块领涨、宏观面支撑强劲  
+  - **期权策略：** 买入XLK行权价265美元看涨期权（到期日：1-3天）  
   - **止损位：** 260.0美元  
 
----
+- **操作：持有ICLN（清洁能源ETF）**  
+  - **置信度：0.65**  
+  - **依据：** 超买状态（RSI 72.7）但行业顺风明显，需设置紧密止损  
+  - **期权策略：** 暂不开新仓，等待回调机会  
+  - **止损位：** 13.0美元  
 
-### **风险管理备注**  
-- **仓位控制：** 单笔交易不超过25%（较原始信号缩减）  
-- **止损纪律：** 因VIX低位（16.6）采用更紧止损  
-- **回避标的：** SLV、USO、GBTC（超买/高波动）  
+### **中午12:00 - 13:00**  
+- **操作：买入QQQ（纳斯达克100ETF）**  
+  - **置信度：0.85**  
+  - **依据：** 基本面强劲、与牛市同步、RSI 59.5（中性）  
+  - **期权策略：** 买入QQQ行权价570美元看涨期权（到期日：1-3天）  
+  - **止损位：** 550.0美元  
 
-**下午3:45最终检查：** 平仓所有未达目标的头寸以规避隔夜风险。
+- **操作：持有SLV（白银ETF）**  
+  - **置信度：0.65**  
+  - **依据：** 超买状态（RSI 72.9）但动能持续，需收紧止损  
+  - **期权策略：** 暂不开新仓，若RSI突破75考虑做空ZSL  
+  - **止损位：** 32.0美元  
+
+### **下午13:00 - 14:00**  
+- **操作：买入SPXL（3倍做多标普500）**  
+  - **置信度：0.8**  
+  - **依据：** 4小时动量强劲，低VIX环境适合杠杆做多  
+  - **期权策略：** 买入SPXL行权价185美元看涨期权（到期日：1-3天）  
+  - **止损位：** 175.0美元  
+
+- **操作：卖出EEM（新兴市场ETF）**  
+  - **置信度：0.8**  
+  - **依据：** 超买状态（RSI 73.4）、相对美股走势疲软  
+  - **期权策略：** 买入EEM行权价48美元看跌期权（到期日：1-3天）或做空EDZ  
+  - **止损位：** 49.5美元  
+
+### **下午14:00 - 15:00**  
+- **操作：买入XBI（生物科技ETF）**  
+  - **置信度：0.7**  
+  - **依据：** 板块动能强劲（RSI 68.5）、基本面改善  
+  - **期权策略：** 买入XBI行权价90美元看涨期权（到期日：1-3天）  
+  - **止损位：** 82.0美元  
+
+- **操作：持有GBTC（比特币信托）**  
+  - **置信度：0.7**  
+  - **依据：** RSI偏高（68.8）但加密货币动能未改，关注突破机会  
+  - **期权策略：** 暂不开新仓，若比特币反转可考虑BITI  
+  - **止损位：** 88.0美元  
+
+### **下午15:00 - 16:00（收盘时段）**  
+- **操作：若盈利超5%则减仓TQQQ**  
+  - **依据：** 锁定盈利规避隔夜风险，杠杆ETF夜间波动剧烈  
+- **操作：收紧所有头寸止损**  
+  - **依据：** 低VIX环境下需防范突然反转  
+
+---  
+**最终注意事项：**  
+- **最大仓位限制：** 60%（因含杠杆ETF）  
+- **对冲策略：** 若VIX突破18可考虑SQQQ/SOXS对冲  
+- **回避领域：** 超买的大宗商品（SLV、USO）与中国资产（FXI）  
+
+（注：所有时间均为美东时间，RSI参数为14周期）
 
 
 
